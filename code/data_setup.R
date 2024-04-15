@@ -43,3 +43,4 @@ build_edu_col <- function(df, medu, fedu){
 
 basedf["povstatus"] <- build_poverty_col(basedf, "cm1povca", "cf1povca")
 basedf["edustatus"] <- build_edu_col(basedf, "cm1edu", "cf1edu")
+write.csv(basedf, "data/preprocessed/pov_edu_base.csv", row.names=FALSE)
