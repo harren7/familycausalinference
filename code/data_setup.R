@@ -78,5 +78,4 @@ w1_df <- w1_df[,w1_ftrs]
 
 consolidated_df <- merge(base_df, treatment_df, by.x = "idnum", by.y = "idnum")
 
-
-# write.csv(base_df, "data/preprocessed/pov_edu_base.csv", row.names=FALSE)
+write.csv(consolidated_df, "data/preprocessed/pov_edu_base.csv", row.names=FALSE)
