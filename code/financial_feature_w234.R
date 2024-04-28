@@ -78,5 +78,5 @@ determine_financial_security <- function(row) {
   } 
 }
 
-fin_df$father_fin_security <- apply(fin_df[, -1], 1, function(row) determine_financial_security(as.list(row)))
-final_fin_df <- fin_df[, c("idnum", "father_fin_security")]
+fin_df$father_fin_security_w234 <- apply(fin_df[, -1], 1, function(row) determine_financial_security(as.list(row)))
+final_fin_df <- fin_df[, c("idnum", "father_fin_security_w234")]
