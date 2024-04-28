@@ -56,4 +56,5 @@ treatment_df["child_attend_kindergarten"] <- build_child_edu_col(treatment_df, "
 ################################### CONSOLIDATING BASE, TREATMENT###################################
 
 consolidated_df <- merge(base_df, treatment_df, by.x = "idnum", by.y = "idnum")
+consolidated_df <- consolidated_df[,c("idnum","child_attend_kindergarten","povstatus")]
 write.csv(consolidated_df, "data/preprocessed/pov_edu_base.csv", row.names=FALSE)
