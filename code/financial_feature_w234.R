@@ -5,9 +5,9 @@ library(dplyr)
 ### FATHER'S FINANCIAL SECURITY 
 
 # Data from Wave 2,3,4
-w2_df <- read_dta("/Users/sarah_prakriti_peters/Documents/DATA2020/FFdata/wave2/FF_wave2_2020v2.dta")
-w3_df <- read_dta("/Users/sarah_prakriti_peters/Documents/DATA2020/FFdata/wave3/FF_wave3_2020v2.dta")
-w4_df <- read_dta("/Users/sarah_prakriti_peters/Documents/DATA2020/FFdata/wave4/FF_wave4_2020v2.dta")
+w2_df <- read_dta("data/raw/wave2/FF_wave2_2020v2.dta")
+w3_df <- read_dta("data/raw/wave3/FF_wave3_2020v2.dta")
+w4_df <- read_dta("data/raw/wave4/FF_wave4_2020v2.dta")
 
 # Financial features from wave 2,3,4
 fin_ftrs_w2 <- c("idnum","f2h11", "f2h9", "f2h7b","f2h7a","f2h8a3","f2h8a1","f2h8a2","f2h10","f2h9c",
@@ -80,3 +80,4 @@ determine_financial_security <- function(row) {
 
 fin_df$father_fin_security_w234 <- apply(fin_df[, -1], 1, function(row) determine_financial_security(as.list(row)))
 final_fin_df <- fin_df[, c("idnum", "father_fin_security_w234")]
+write.csv(final_fin_df, "data/preprocessed/finhelp_ftrs.csv", row.names=FALSE)
