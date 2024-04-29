@@ -74,8 +74,6 @@ convert_grades <- function(x) {
 grade_cols <- setdiff(names(gpa_base_df), "idnum")
 gpa_base_df[grade_cols] <- lapply(gpa_base_df[grade_cols], convert_grades)
 
-write.csv(gpa_base_df, "data/preprocessed/gpa_raw.csv", row.names=FALSE)
-
 # Create a new dataset that has a column that takes an average of the 4 subjects
 
 average_gpa <- gpa_base_df
@@ -94,13 +92,26 @@ average_gpa[paste0(grade_cols, "_num")] <- lapply(average_gpa[grade_cols], conve
 # Calculate the average of the numeric columns
 average_gpa$hs_avg_score <- rowMeans(average_gpa[paste0(grade_cols, "_num")], na.rm = TRUE)
 
-# Write the data frame with averages to CSV
-write.csv(average_gpa, "data/preprocessed/gpa_averaged.csv", row.names = FALSE)
 
-
-################################### CONSOLIDATING BASE, TREATMENT###################################
+################################### CONSOLIDATING BASE, TREATMENT, TARGET###################################
 
 consolidated_df <- merge(base_df, treatment_df, by.x = "idnum", by.y = "idnum")
 consolidated_df <- merge(consolidated_df, average_gpa, by.x = "idnum", by.y = "idnum")
 consolidated_df <- consolidated_df[,c("idnum","child_attend_kindergarten","povstatus","hs_avg_score")]
 write.csv(consolidated_df, "data/preprocessed/base_treatment_target.csv", row.names=FALSE)
+
+################################### CONSOLIDATING BTT, WAVE[1,4]###################################
+
+btt_df <- read.csv("data/preprocessed/base_treatment_target.csv")
+w1_df <- read.csv("data/preprocessed/wave1_ftrs.csv")
+w3_df <- read.csv("data/preprocessed/wave3_ftrs.csv")
+w4_df <- read.csv("data/preprocessed/wave4_ftrs.csv")
+fin_df <- read.csv("data/preprocessed/finhelp_ftrs.csv")
+
+btt_ftrs_df <- merge(btt_df, w1_df, by.x = "idnum", by.y = "idnum")
+btt_ftrs_df <- merge(btt_ftrs_df, w3_df, by.x = "idnum", by.y = "idnum")
+btt_ftrs_df <- merge(btt_ftrs_df, w4_df, by.x = "idnum", by.y = "idnum")
+btt_ftrs_df <- merge(btt_ftrs_df, fin_df, by.x = "idnum", by.y = "idnum")
+
+write.csv(btt_ftrs_df, "data/preprocessed/inference_base.csv", row.names=FALSE)
+
