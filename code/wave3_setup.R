@@ -36,6 +36,6 @@ colnames(w3_df)[colnames(w3_df) == 'p3m15_x'] <- 'c_curious_w3'
 colnames(w3_df)[colnames(w3_df) == 'p3m36'] <- 'c_interest_w3'
 
 w3_df <- w3_df[,c("idnum","c_neat_work_w3","c_curious_w3","c_interest_w3",
-                  "f_youth_cor_w3","f_youth_cor_w3")]
+                  "f_youth_cor_w3","m_youth_cor_w3")]
 
 write.csv(w3_df, "data/preprocessed/wave3_ftrs.csv", row.names=FALSE)

@@ -1,4 +1,4 @@
-"idnum","c_neat_work_w3","c_curious_w3","c_interest_w3","f_youth_cor_w3","f_youth_cor_w3"
+"idnum","c_neat_work_w3","c_curious_w3","c_interest_w3","f_youth_cor_w3","m_youth_cor_w3"
 "0001","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "0002",NA,NA,NA,NA,NA
 "0003",NA,NA,"Not true",NA,NA
@@ -10,20 +10,20 @@
 "0009","Very true or often true","Very true or often true","Not true",NA,NA
 "0010",NA,NA,NA,NA,NA
 "0011",NA,NA,"Not true",NA,NA
-"0012",NA,NA,"Not true","no","no"
+"0012",NA,NA,"Not true","no",NA
 "0013",NA,NA,"Not true",NA,NA
 "0014",NA,NA,"Not true",NA,NA
 "0015",NA,NA,"Not true",NA,NA
 "0016",NA,NA,"Not true",NA,NA
 "0017",NA,NA,NA,NA,NA
-"0018",NA,NA,"Somewhat or sometimes true","no","no"
+"0018",NA,NA,"Somewhat or sometimes true","no",NA
 "0019",NA,NA,"Very true or often true",NA,NA
 "0020",NA,NA,NA,NA,NA
 "0021",NA,NA,"Not true",NA,NA
 "0022",NA,NA,"Not true",NA,NA
 "0023",NA,NA,"Not true",NA,NA
 "0024",NA,NA,NA,NA,NA
-"0025",NA,NA,NA,"no","no"
+"0025",NA,NA,NA,"no",NA
 "0026",NA,NA,"Not true",NA,NA
 "0027",NA,NA,"Not true",NA,NA
 "0028",NA,NA,"Not true",NA,NA
@@ -31,7 +31,7 @@
 "0030",NA,NA,"Not true",NA,NA
 "0031",NA,NA,"Not true",NA,NA
 "0032",NA,NA,NA,NA,NA
-"0033",NA,NA,"Not true",NA,NA
+"0033",NA,NA,"Not true",NA,"no"
 "0034",NA,NA,"Not true",NA,NA
 "0035",NA,NA,NA,NA,NA
 "0036",NA,NA,NA,NA,NA
@@ -43,9 +43,9 @@
 "0042",NA,NA,"Somewhat or sometimes true",NA,NA
 "0043",NA,NA,"Not true",NA,NA
 "0044",NA,NA,NA,NA,NA
-"0045",NA,NA,"Not true",NA,NA
-"0046",NA,NA,"Not true","no","no"
-"0047",NA,NA,NA,"no","no"
+"0045",NA,NA,"Not true",NA,"no"
+"0046",NA,NA,"Not true","no",NA
+"0047",NA,NA,NA,"no",NA
 "0048",NA,NA,"Not true",NA,NA
 "0049",NA,NA,NA,NA,NA
 "0050",NA,NA,NA,NA,NA
@@ -79,7 +79,7 @@
 "0078",NA,NA,NA,NA,NA
 "0079",NA,NA,NA,NA,NA
 "0080",NA,NA,NA,NA,NA
-"0081",NA,NA,"Not true","no","no"
+"0081",NA,NA,"Not true","no",NA
 "0082",NA,NA,NA,NA,NA
 "0083",NA,NA,"Somewhat or sometimes true",NA,NA
 "0084",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -93,7 +93,7 @@
 "0092",NA,NA,NA,NA,NA
 "0093",NA,NA,"Not true",NA,NA
 "0094",NA,NA,NA,NA,NA
-"0095",NA,NA,"Not true",NA,NA
+"0095",NA,NA,"Not true",NA,"no"
 "0096",NA,NA,"Somewhat or sometimes true",NA,NA
 "0097",NA,NA,"Not true",NA,NA
 "0098",NA,NA,NA,NA,NA
@@ -110,9 +110,9 @@
 "0109",NA,NA,"Not true",NA,NA
 "0110",NA,NA,"Not true",NA,NA
 "0111",NA,NA,"Somewhat or sometimes true",NA,NA
-"0112","Not true","Somewhat or sometimes true","Not true","no","no"
+"0112","Not true","Somewhat or sometimes true","Not true","no",NA
 "0113",NA,NA,"Not true",NA,NA
-"0114",NA,NA,"Somewhat or sometimes true","no","no"
+"0114",NA,NA,"Somewhat or sometimes true","no",NA
 "0115",NA,NA,"Not true",NA,NA
 "0116",NA,NA,"Not true",NA,NA
 "0117",NA,NA,"Not true",NA,NA
@@ -122,7 +122,7 @@
 "0121",NA,NA,NA,NA,NA
 "0122",NA,NA,"Not true",NA,NA
 "0123",NA,NA,"Not true",NA,NA
-"0124",NA,NA,"Not true","no","no"
+"0124",NA,NA,"Not true","no",NA
 "0125",NA,NA,"Not true",NA,NA
 "0126",NA,NA,"Not true",NA,NA
 "0127",NA,NA,NA,NA,NA
@@ -137,8 +137,8 @@
 "0136",NA,NA,"Not true",NA,NA
 "0137",NA,NA,"Not true",NA,NA
 "0138",NA,NA,NA,NA,NA
-"0139",NA,NA,"Not true","no","no"
-"0140",NA,NA,"Not true","yes","yes"
+"0139",NA,NA,"Not true","no",NA
+"0140",NA,NA,"Not true","yes",NA
 "0141","Very true or often true","Very true or often true","Not true",NA,NA
 "0142",NA,NA,NA,NA,NA
 "0143","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
@@ -146,7 +146,7 @@
 "0145",NA,NA,"Not true",NA,NA
 "0146","Very true or often true","Very true or often true","Not true",NA,NA
 "0147",NA,NA,"Somewhat or sometimes true",NA,NA
-"0148",NA,NA,"Not true","no","no"
+"0148",NA,NA,"Not true","no",NA
 "0149","Very true or often true","Very true or often true","Not true",NA,NA
 "0150",NA,NA,"Not true",NA,NA
 "0151",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -154,7 +154,7 @@
 "0153",NA,NA,"Not true",NA,NA
 "0154",NA,NA,NA,NA,NA
 "0155",NA,NA,"Not true",NA,NA
-"0156",NA,NA,"Not true","no","no"
+"0156",NA,NA,"Not true","no",NA
 "0157",NA,NA,"Not true",NA,NA
 "0158",NA,NA,"Not true",NA,NA
 "0159",NA,NA,NA,NA,NA
@@ -164,7 +164,7 @@
 "0163",NA,NA,"Not true",NA,NA
 "0164",NA,NA,"Not true",NA,NA
 "0165","Very true or often true","Very true or often true","Not true",NA,NA
-"0166",NA,NA,"Not true",NA,NA
+"0166",NA,NA,"Not true",NA,"no"
 "0167",NA,NA,"Somewhat or sometimes true",NA,NA
 "0168",NA,NA,"Not true",NA,NA
 "0169",NA,NA,NA,NA,NA
@@ -204,7 +204,7 @@
 "0203",NA,NA,"Not true",NA,NA
 "0204",NA,NA,"Not true",NA,NA
 "0205","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"0206",NA,NA,"Not true",NA,NA
+"0206",NA,NA,"Not true",NA,"no"
 "0207","Very true or often true","Very true or often true","Not true",NA,NA
 "0208",NA,NA,NA,NA,NA
 "0209",NA,NA,"Not true",NA,NA
@@ -212,7 +212,7 @@
 "0211",NA,NA,"Not true",NA,NA
 "0212",NA,NA,"Not true",NA,NA
 "0213",NA,NA,"Not true",NA,NA
-"0214",NA,NA,NA,"no","no"
+"0214",NA,NA,NA,"no",NA
 "0215",NA,NA,NA,NA,NA
 "0216",NA,NA,"Not true",NA,NA
 "0217",NA,NA,NA,NA,NA
@@ -246,13 +246,13 @@
 "0245",NA,NA,NA,NA,NA
 "0246",NA,NA,NA,NA,NA
 "0247",NA,NA,"Very true or often true",NA,NA
-"0248",NA,NA,"Not true","no","no"
+"0248",NA,NA,"Not true","no",NA
 "0249",NA,NA,"Somewhat or sometimes true",NA,NA
 "0250","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "0251",NA,NA,NA,NA,NA
 "0252",NA,NA,"Not true",NA,NA
 "0253",NA,NA,NA,NA,NA
-"0254","Very true or often true","Very true or often true","Somewhat or sometimes true","no","no"
+"0254","Very true or often true","Very true or often true","Somewhat or sometimes true","no",NA
 "0255",NA,NA,"Not true",NA,NA
 "0256",NA,NA,"Not true",NA,NA
 "0257",NA,NA,"Not true",NA,NA
@@ -279,7 +279,7 @@
 "0278",NA,NA,NA,NA,NA
 "0279","Very true or often true","Very true or often true","Not true",NA,NA
 "0280",NA,NA,"Not true",NA,NA
-"0281",NA,NA,NA,"yes","yes"
+"0281",NA,NA,NA,"yes",NA
 "0282",NA,NA,"Not true",NA,NA
 "0283",NA,NA,NA,NA,NA
 "0284","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
@@ -304,16 +304,16 @@
 "0303",NA,NA,"Somewhat or sometimes true",NA,NA
 "0304",NA,NA,"Somewhat or sometimes true",NA,NA
 "0305",NA,NA,"Not true",NA,NA
-"0306",NA,NA,NA,"no","no"
+"0306",NA,NA,NA,"no",NA
 "0307",NA,NA,"Not true",NA,NA
-"0308",NA,NA,"Not true","no","no"
+"0308",NA,NA,"Not true","no",NA
 "0309",NA,NA,"Not true",NA,NA
 "0310",NA,NA,"Not true",NA,NA
 "0311",NA,NA,"Very true or often true",NA,NA
 "0312",NA,NA,"Somewhat or sometimes true",NA,NA
 "0313",NA,NA,"Not true",NA,NA
 "0314","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
-"0315",NA,NA,"Not true","no","no"
+"0315",NA,NA,"Not true","no",NA
 "0316",NA,NA,NA,NA,NA
 "0317",NA,NA,NA,NA,NA
 "0318",NA,NA,NA,NA,NA
@@ -325,7 +325,7 @@
 "0324",NA,NA,"Somewhat or sometimes true",NA,NA
 "0325",NA,NA,"Somewhat or sometimes true",NA,NA
 "0326",NA,NA,"Very true or often true",NA,NA
-"0327",NA,NA,"Not true","yes","yes"
+"0327",NA,NA,"Not true","yes",NA
 "0328","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "0329",NA,NA,"Somewhat or sometimes true",NA,NA
 "0330",NA,NA,"Not true",NA,NA
@@ -343,7 +343,7 @@
 "0342",NA,NA,"Not true",NA,NA
 "0343",NA,NA,"Not true",NA,NA
 "0344",NA,NA,"Somewhat or sometimes true",NA,NA
-"0345",NA,NA,"Somewhat or sometimes true","no","no"
+"0345",NA,NA,"Somewhat or sometimes true","no",NA
 "0346",NA,NA,NA,NA,NA
 "0347",NA,NA,"Not true",NA,NA
 "0348",NA,NA,"Not true",NA,NA
@@ -355,14 +355,14 @@
 "0354",NA,NA,NA,NA,NA
 "0355",NA,NA,"Not true",NA,NA
 "0356",NA,NA,"Not true",NA,NA
-"0357",NA,NA,"Not true",NA,NA
+"0357",NA,NA,"Not true",NA,"no"
 "0358",NA,NA,"Not true",NA,NA
 "0359",NA,NA,NA,NA,NA
 "0360",NA,NA,"Not true",NA,NA
 "0361",NA,NA,"Not true",NA,NA
 "0362",NA,NA,"Not true",NA,NA
 "0363","Not true","Very true or often true","Not true",NA,NA
-"0364",NA,NA,"Not true","no","no"
+"0364",NA,NA,"Not true","no",NA
 "0365",NA,NA,NA,NA,NA
 "0366",NA,NA,"Not true",NA,NA
 "0367",NA,NA,"Not true",NA,NA
@@ -370,7 +370,7 @@
 "0369",NA,NA,NA,NA,NA
 "0370",NA,NA,"Not true",NA,NA
 "0371",NA,NA,NA,NA,NA
-"0372",NA,NA,NA,NA,NA
+"0372",NA,NA,NA,NA,"yes"
 "0373",NA,NA,NA,NA,NA
 "0374",NA,NA,NA,NA,NA
 "0375",NA,NA,NA,NA,NA
@@ -387,7 +387,7 @@
 "0386",NA,NA,"Not true",NA,NA
 "0387",NA,NA,"Not true",NA,NA
 "0388",NA,NA,NA,NA,NA
-"0389",NA,NA,"Somewhat or sometimes true",NA,NA
+"0389",NA,NA,"Somewhat or sometimes true",NA,"no"
 "0390",NA,NA,NA,NA,NA
 "0391",NA,NA,NA,NA,NA
 "0392",NA,NA,"Not true",NA,NA
@@ -399,7 +399,7 @@
 "0398",NA,NA,NA,NA,NA
 "0399",NA,NA,"Not true",NA,NA
 "0400",NA,NA,NA,NA,NA
-"0401",NA,NA,"Not true","no","no"
+"0401",NA,NA,"Not true","no",NA
 "0402",NA,NA,"Not true",NA,NA
 "0403",NA,NA,"Not true",NA,NA
 "0404","Not true","Very true or often true","Not true",NA,NA
@@ -414,12 +414,12 @@
 "0413","Very true or often true","Very true or often true","Not true",NA,NA
 "0414",NA,NA,NA,NA,NA
 "0415",NA,NA,NA,NA,NA
-"0416",NA,NA,"Somewhat or sometimes true",NA,NA
+"0416",NA,NA,"Somewhat or sometimes true",NA,"no"
 "0417",NA,NA,"Not true",NA,NA
-"0418",NA,NA,"Somewhat or sometimes true",NA,NA
+"0418",NA,NA,"Somewhat or sometimes true",NA,"no"
 "0419",NA,NA,"Not true",NA,NA
 "0420",NA,NA,"Not true",NA,NA
-"0421",NA,NA,"Somewhat or sometimes true","no","no"
+"0421",NA,NA,"Somewhat or sometimes true","no",NA
 "0422",NA,NA,"Not true",NA,NA
 "0423",NA,NA,"Not true",NA,NA
 "0424",NA,NA,"Not true",NA,NA
@@ -435,7 +435,7 @@
 "0434",NA,NA,NA,NA,NA
 "0435",NA,NA,NA,NA,NA
 "0436",NA,NA,NA,NA,NA
-"0437",NA,NA,"Not true","no","no"
+"0437",NA,NA,"Not true","no",NA
 "0438",NA,NA,"Not true",NA,NA
 "0439",NA,NA,"Not true",NA,NA
 "0440",NA,NA,"Not true",NA,NA
@@ -451,7 +451,7 @@
 "0450",NA,NA,"Somewhat or sometimes true",NA,NA
 "0451",NA,NA,"Very true or often true",NA,NA
 "0452",NA,NA,"Not true",NA,NA
-"0453",NA,NA,"Somewhat or sometimes true","yes","yes"
+"0453",NA,NA,"Somewhat or sometimes true","yes",NA
 "0454",NA,NA,NA,NA,NA
 "0455",NA,NA,NA,NA,NA
 "0456",NA,NA,NA,NA,NA
@@ -491,7 +491,7 @@
 "0490",NA,NA,NA,NA,NA
 "0491",NA,NA,NA,NA,NA
 "0492",NA,NA,"Not true",NA,NA
-"0493",NA,NA,"Not true","no","no"
+"0493",NA,NA,"Not true","no",NA
 "0494",NA,NA,NA,NA,NA
 "0495",NA,NA,"Not true",NA,NA
 "0496",NA,NA,NA,NA,NA
@@ -507,7 +507,7 @@
 "0506",NA,NA,"Not true",NA,NA
 "0507",NA,NA,NA,NA,NA
 "0508",NA,NA,NA,NA,NA
-"0509",NA,NA,"Not true","no","no"
+"0509",NA,NA,"Not true","no",NA
 "0510",NA,NA,"Somewhat or sometimes true",NA,NA
 "0511",NA,NA,"Not true",NA,NA
 "0512",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -523,16 +523,16 @@
 "0522",NA,NA,"Somewhat or sometimes true",NA,NA
 "0523",NA,NA,"Somewhat or sometimes true",NA,NA
 "0524",NA,NA,"Not true",NA,NA
-"0525",NA,NA,"Not true",NA,NA
+"0525",NA,NA,"Not true",NA,"no"
 "0526","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
 "0527",NA,NA,"Not true",NA,NA
-"0528",NA,NA,NA,"yes","yes"
+"0528",NA,NA,NA,"yes",NA
 "0529",NA,NA,"Somewhat or sometimes true",NA,NA
 "0530",NA,NA,"Not true",NA,NA
 "0531",NA,NA,NA,NA,NA
 "0532","Very true or often true","Very true or often true","Not true",NA,NA
 "0533",NA,NA,NA,NA,NA
-"0534","Very true or often true","Very true or often true","Not true",NA,NA
+"0534","Very true or often true","Very true or often true","Not true",NA,"no"
 "0535",NA,NA,"Not true",NA,NA
 "0536",NA,NA,"Not true",NA,NA
 "0537",NA,NA,NA,NA,NA
@@ -562,20 +562,20 @@
 "0561","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "0562",NA,NA,"Somewhat or sometimes true",NA,NA
 "0563",NA,NA,"Not true",NA,NA
-"0564",NA,NA,"Not true","no","no"
+"0564",NA,NA,"Not true","no",NA
 "0565",NA,NA,"Somewhat or sometimes true",NA,NA
 "0566",NA,NA,NA,NA,NA
 "0567",NA,NA,"Not true",NA,NA
 "0568",NA,NA,"Not true",NA,NA
-"0569",NA,NA,NA,"no","no"
+"0569",NA,NA,NA,"no",NA
 "0570",NA,NA,"Not true",NA,NA
 "0571",NA,NA,"Somewhat or sometimes true",NA,NA
 "0572",NA,NA,NA,NA,NA
 "0573",NA,NA,NA,NA,NA
 "0574",NA,NA,"Not true",NA,NA
 "0575",NA,NA,"Not true",NA,NA
-"0576",NA,NA,"Not true","yes","yes"
-"0577",NA,NA,NA,NA,NA
+"0576",NA,NA,"Not true","yes",NA
+"0577",NA,NA,NA,NA,"no"
 "0578",NA,NA,"Not true",NA,NA
 "0579",NA,NA,"Somewhat or sometimes true",NA,NA
 "0580",NA,NA,NA,NA,NA
@@ -584,12 +584,12 @@
 "0583",NA,NA,NA,NA,NA
 "0584",NA,NA,NA,NA,NA
 "0585",NA,NA,NA,NA,NA
-"0586",NA,NA,"Not true","no","no"
+"0586",NA,NA,"Not true","no",NA
 "0587",NA,NA,"Not true",NA,NA
 "0588",NA,NA,NA,NA,NA
 "0589",NA,NA,"Not true",NA,NA
 "0590",NA,NA,NA,NA,NA
-"0591",NA,NA,"Somewhat or sometimes true","yes","yes"
+"0591",NA,NA,"Somewhat or sometimes true","yes",NA
 "0592",NA,NA,"Not true",NA,NA
 "0593",NA,NA,"Not true",NA,NA
 "0594",NA,NA,"Not true",NA,NA
@@ -611,7 +611,7 @@
 "0610",NA,NA,"Not true",NA,NA
 "0611","Not true","Very true or often true","Not true",NA,NA
 "0612","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"0613",NA,NA,NA,"no","no"
+"0613",NA,NA,NA,"no",NA
 "0614",NA,NA,"Somewhat or sometimes true",NA,NA
 "0615",NA,NA,"Very true or often true",NA,NA
 "0616",NA,NA,"Not true",NA,NA
@@ -630,7 +630,7 @@
 "0629",NA,NA,"Not true",NA,NA
 "0630",NA,NA,NA,NA,NA
 "0631",NA,NA,"Not true",NA,NA
-"0632",NA,NA,NA,"no","no"
+"0632",NA,NA,NA,"no",NA
 "0633",NA,NA,NA,NA,NA
 "0634",NA,NA,"Not true",NA,NA
 "0635",NA,NA,NA,NA,NA
@@ -683,7 +683,7 @@
 "0682",NA,NA,NA,NA,NA
 "0683",NA,NA,"Not true",NA,NA
 "0684",NA,NA,NA,NA,NA
-"0685",NA,NA,"Not true","no","no"
+"0685",NA,NA,"Not true","no",NA
 "0686",NA,NA,"Not true",NA,NA
 "0687",NA,NA,NA,NA,NA
 "0688",NA,NA,"Not true",NA,NA
@@ -707,20 +707,20 @@
 "0706",NA,NA,"Not true",NA,NA
 "0707",NA,NA,NA,NA,NA
 "0708","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
-"0709",NA,NA,NA,"no","no"
+"0709",NA,NA,NA,"no",NA
 "0710",NA,NA,"Not true",NA,NA
 "0711","Very true or often true","Somewhat or sometimes true","Not true",NA,NA
 "0712",NA,NA,"Not true",NA,NA
 "0713",NA,NA,NA,NA,NA
 "0714",NA,NA,"Somewhat or sometimes true",NA,NA
 "0715",NA,NA,"Not true",NA,NA
-"0716",NA,NA,"Not true","no","no"
+"0716",NA,NA,"Not true","no",NA
 "0717",NA,NA,"Not true",NA,NA
 "0718",NA,NA,"Somewhat or sometimes true",NA,NA
 "0719",NA,NA,"Not true",NA,NA
 "0720",NA,NA,"Not true",NA,NA
 "0721",NA,NA,"Not true",NA,NA
-"0722","Very true or often true","Very true or often true","Not true","no","no"
+"0722","Very true or often true","Very true or often true","Not true","no",NA
 "0723",NA,NA,NA,NA,NA
 "0724",NA,NA,NA,NA,NA
 "0725",NA,NA,NA,NA,NA
@@ -731,7 +731,7 @@
 "0730",NA,NA,NA,NA,NA
 "0731",NA,NA,NA,NA,NA
 "0732",NA,NA,NA,NA,NA
-"0733",NA,NA,"Somewhat or sometimes true","no","no"
+"0733",NA,NA,"Somewhat or sometimes true","no",NA
 "0734",NA,NA,NA,NA,NA
 "0735",NA,NA,"Not true",NA,NA
 "0736",NA,NA,"Not true",NA,NA
@@ -776,7 +776,7 @@
 "0775",NA,NA,"Not true",NA,NA
 "0776",NA,NA,"Not true",NA,NA
 "0777","Not true","Very true or often true","Not true",NA,NA
-"0778",NA,NA,"Somewhat or sometimes true","yes","yes"
+"0778",NA,NA,"Somewhat or sometimes true","yes",NA
 "0779",NA,NA,"Not true",NA,NA
 "0780",NA,NA,NA,NA,NA
 "0781",NA,NA,"Not true",NA,NA
@@ -787,7 +787,7 @@
 "0786",NA,NA,"Not true",NA,NA
 "0787",NA,NA,NA,NA,NA
 "0788",NA,NA,"Very true or often true",NA,NA
-"0789",NA,NA,NA,"yes","yes"
+"0789",NA,NA,NA,"yes",NA
 "0790",NA,NA,"Not true",NA,NA
 "0791",NA,NA,"Not true",NA,NA
 "0792",NA,NA,"Not true",NA,NA
@@ -804,20 +804,20 @@
 "0803",NA,NA,"Not true",NA,NA
 "0804",NA,NA,NA,NA,NA
 "0805",NA,NA,"Not true",NA,NA
-"0806",NA,NA,NA,"yes","yes"
+"0806",NA,NA,NA,"yes",NA
 "0807",NA,NA,NA,NA,NA
 "0808",NA,NA,"Not true",NA,NA
 "0809",NA,NA,"Not true",NA,NA
 "0810",NA,NA,"Not true",NA,NA
-"0811","Very true or often true","Very true or often true","Somewhat or sometimes true","no","no"
+"0811","Very true or often true","Very true or often true","Somewhat or sometimes true","no",NA
 "0812",NA,NA,NA,NA,NA
 "0813",NA,NA,NA,NA,NA
 "0814",NA,NA,"Not true",NA,NA
 "0815",NA,NA,NA,NA,NA
-"0816",NA,NA,"Not true",NA,NA
+"0816",NA,NA,"Not true",NA,"no"
 "0817",NA,NA,"Not true",NA,NA
 "0818",NA,NA,"Not true",NA,NA
-"0819",NA,NA,"Not true",NA,NA
+"0819",NA,NA,"Not true",NA,"no"
 "0820",NA,NA,NA,NA,NA
 "0821",NA,NA,NA,NA,NA
 "0822",NA,NA,"Not true",NA,NA
@@ -829,7 +829,7 @@
 "0828",NA,NA,"Somewhat or sometimes true",NA,NA
 "0829",NA,NA,"Not true",NA,NA
 "0830",NA,NA,"Somewhat or sometimes true",NA,NA
-"0831","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
+"0831","Somewhat or sometimes true","Very true or often true","Not true",NA,"no"
 "0832",NA,NA,NA,NA,NA
 "0833",NA,NA,NA,NA,NA
 "0834",NA,NA,"Not true",NA,NA
@@ -855,7 +855,7 @@
 "0854",NA,NA,"Not true",NA,NA
 "0855",NA,NA,NA,NA,NA
 "0856",NA,NA,NA,NA,NA
-"0857",NA,NA,"Not true","no","no"
+"0857",NA,NA,"Not true","no",NA
 "0858",NA,NA,"Not true",NA,NA
 "0859",NA,NA,NA,NA,NA
 "0860",NA,NA,"Not true",NA,NA
@@ -875,7 +875,7 @@
 "0874",NA,NA,NA,NA,NA
 "0875",NA,NA,"Not true",NA,NA
 "0876",NA,NA,"Not true",NA,NA
-"0877",NA,NA,"Not true","yes","yes"
+"0877",NA,NA,"Not true","yes",NA
 "0878",NA,NA,"Not true",NA,NA
 "0879",NA,NA,"Not true",NA,NA
 "0880",NA,NA,NA,NA,NA
@@ -907,8 +907,8 @@
 "0906",NA,NA,"Not true",NA,NA
 "0907",NA,NA,"Not true",NA,NA
 "0908",NA,NA,"Not true",NA,NA
-"0909",NA,NA,"Not true",NA,NA
-"0910","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"0909",NA,NA,"Not true",NA,"no"
+"0910","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "0911",NA,NA,"Not true",NA,NA
 "0912",NA,NA,NA,NA,NA
 "0913",NA,NA,"Not true",NA,NA
@@ -944,7 +944,7 @@
 "0943",NA,NA,"Not true",NA,NA
 "0944",NA,NA,NA,NA,NA
 "0945",NA,NA,"Not true",NA,NA
-"0946",NA,NA,"Not true","no","no"
+"0946",NA,NA,"Not true","no",NA
 "0947",NA,NA,"Not true",NA,NA
 "0948","Not true","Very true or often true","Not true",NA,NA
 "0949",NA,NA,NA,NA,NA
@@ -958,13 +958,13 @@
 "0957",NA,NA,"Not true",NA,NA
 "0958",NA,NA,NA,NA,NA
 "0959",NA,NA,"Not true",NA,NA
-"0960","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
+"0960","Somewhat or sometimes true","Very true or often true","Not true",NA,"no"
 "0961",NA,NA,"Not true",NA,NA
 "0962",NA,NA,"Somewhat or sometimes true",NA,NA
 "0963",NA,NA,"Very true or often true",NA,NA
 "0964","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"0965",NA,NA,NA,NA,NA
-"0966",NA,NA,NA,"no","no"
+"0965",NA,NA,NA,NA,"no"
+"0966",NA,NA,NA,"no",NA
 "0967",NA,NA,"Not true",NA,NA
 "0968",NA,NA,NA,NA,NA
 "0969",NA,NA,NA,NA,NA
@@ -989,7 +989,7 @@
 "0988",NA,NA,NA,NA,NA
 "0989",NA,NA,"Not true",NA,NA
 "0990",NA,NA,"Not true",NA,NA
-"0991","Not true","Very true or often true","Not true",NA,NA
+"0991","Not true","Very true or often true","Not true",NA,"no"
 "0992",NA,NA,NA,NA,NA
 "0993",NA,NA,NA,NA,NA
 "0994",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1010,13 +1010,13 @@
 "1009",NA,NA,NA,NA,NA
 "1010",NA,NA,"Not true",NA,NA
 "1011",NA,NA,"Not true",NA,NA
-"1012",NA,NA,"Not true",NA,NA
+"1012",NA,NA,"Not true",NA,"no"
 "1013",NA,NA,NA,NA,NA
 "1014",NA,NA,NA,NA,NA
 "1015",NA,NA,"Not true",NA,NA
 "1016",NA,NA,"Not true",NA,NA
 "1017",NA,NA,NA,NA,NA
-"1018",NA,NA,"Somewhat or sometimes true","no","no"
+"1018",NA,NA,"Somewhat or sometimes true","no",NA
 "1019",NA,NA,"Somewhat or sometimes true",NA,NA
 "1020",NA,NA,"Not true",NA,NA
 "1021",NA,NA,"Very true or often true",NA,NA
@@ -1033,21 +1033,21 @@
 "1032",NA,NA,NA,NA,NA
 "1033",NA,NA,"Not true",NA,NA
 "1034",NA,NA,NA,NA,NA
-"1035",NA,NA,"Not true","no","no"
+"1035",NA,NA,"Not true","no",NA
 "1036",NA,NA,"Not true",NA,NA
 "1037",NA,NA,"Not true",NA,NA
 "1038",NA,NA,"Not true",NA,NA
 "1039",NA,NA,NA,NA,NA
 "1040",NA,NA,NA,NA,NA
-"1041",NA,NA,"Not true",NA,NA
+"1041",NA,NA,"Not true",NA,"no"
 "1042",NA,NA,"Not true",NA,NA
 "1043",NA,NA,"Somewhat or sometimes true",NA,NA
 "1044",NA,NA,"Not true",NA,NA
 "1045",NA,NA,"Not true",NA,NA
 "1046",NA,NA,"Not true",NA,NA
 "1047",NA,NA,"Not true",NA,NA
-"1048","Very true or often true","Very true or often true","Not true","no","no"
-"1049","Somewhat or sometimes true","Very true or often true","Not true","yes","yes"
+"1048","Very true or often true","Very true or often true","Not true","no",NA
+"1049","Somewhat or sometimes true","Very true or often true","Not true","yes",NA
 "1050",NA,NA,"Not true",NA,NA
 "1051",NA,NA,"Not true",NA,NA
 "1052",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1065,7 +1065,7 @@
 "1064",NA,NA,NA,NA,NA
 "1065",NA,NA,NA,NA,NA
 "1066",NA,NA,"Very true or often true",NA,NA
-"1067",NA,NA,"Not true","no","no"
+"1067",NA,NA,"Not true","no",NA
 "1068",NA,NA,"Not true",NA,NA
 "1069",NA,NA,"Somewhat or sometimes true",NA,NA
 "1070",NA,NA,"Not true",NA,NA
@@ -1082,7 +1082,7 @@
 "1081",NA,NA,"Not true",NA,NA
 "1082",NA,NA,NA,NA,NA
 "1083",NA,NA,"Not true",NA,NA
-"1084",NA,NA,"Not true","yes","yes"
+"1084",NA,NA,"Not true","yes",NA
 "1085","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1086",NA,NA,"Somewhat or sometimes true",NA,NA
 "1087",NA,NA,"Not true",NA,NA
@@ -1119,11 +1119,11 @@
 "1118",NA,NA,"Not true",NA,NA
 "1119",NA,NA,"Somewhat or sometimes true",NA,NA
 "1120",NA,NA,"Not true",NA,NA
-"1121",NA,NA,"Not true","no","no"
+"1121",NA,NA,"Not true","no",NA
 "1122",NA,NA,NA,NA,NA
 "1123","Very true or often true","Very true or often true","Not true",NA,NA
 "1124",NA,NA,"Not true",NA,NA
-"1125",NA,NA,NA,"no","no"
+"1125",NA,NA,NA,"no",NA
 "1126",NA,NA,"Not true",NA,NA
 "1127",NA,NA,NA,NA,NA
 "1128",NA,NA,"Not true",NA,NA
@@ -1190,23 +1190,23 @@
 "1189",NA,NA,NA,NA,NA
 "1190",NA,NA,"Somewhat or sometimes true",NA,NA
 "1191",NA,NA,"Not true",NA,NA
-"1192",NA,NA,NA,"yes","yes"
+"1192",NA,NA,NA,"yes","no"
 "1193",NA,NA,"Not true",NA,NA
-"1194",NA,NA,"Somewhat or sometimes true","no","no"
+"1194",NA,NA,"Somewhat or sometimes true","no",NA
 "1195",NA,NA,"Not true",NA,NA
 "1196",NA,NA,"Not true",NA,NA
 "1197",NA,NA,NA,NA,NA
 "1198",NA,NA,NA,NA,NA
 "1199",NA,NA,NA,NA,NA
 "1200",NA,NA,NA,NA,NA
-"1201",NA,NA,"Not true","no","no"
+"1201",NA,NA,"Not true","no",NA
 "1202",NA,NA,"Not true",NA,NA
 "1203",NA,NA,NA,NA,NA
 "1204",NA,NA,"Not true",NA,NA
 "1205",NA,NA,"Somewhat or sometimes true",NA,NA
 "1206",NA,NA,"Not true",NA,NA
 "1207",NA,NA,"Not true",NA,NA
-"1208",NA,NA,"Not true","no","no"
+"1208",NA,NA,"Not true","no",NA
 "1209",NA,NA,"Not true",NA,NA
 "1210",NA,NA,"Not true",NA,NA
 "1211",NA,NA,"Not true",NA,NA
@@ -1219,7 +1219,7 @@
 "1218",NA,NA,NA,NA,NA
 "1219",NA,NA,NA,NA,NA
 "1220",NA,NA,NA,NA,NA
-"1221",NA,NA,"Not true","yes","yes"
+"1221",NA,NA,"Not true","yes","no"
 "1222",NA,NA,"Not true","no","no"
 "1223",NA,NA,NA,NA,NA
 "1224",NA,NA,NA,NA,NA
@@ -1228,10 +1228,10 @@
 "1227",NA,NA,NA,NA,NA
 "1228",NA,NA,"Not true",NA,NA
 "1229",NA,NA,NA,NA,NA
-"1230",NA,NA,"Not true","yes","yes"
+"1230",NA,NA,"Not true","yes",NA
 "1231",NA,NA,"Not true",NA,NA
 "1232",NA,NA,NA,NA,NA
-"1233",NA,NA,"Not true","yes","yes"
+"1233",NA,NA,"Not true","yes",NA
 "1234",NA,NA,"Not true",NA,NA
 "1235",NA,NA,"Not true",NA,NA
 "1236",NA,NA,NA,NA,NA
@@ -1240,7 +1240,7 @@
 "1239",NA,NA,NA,NA,NA
 "1240",NA,NA,NA,NA,NA
 "1241",NA,NA,"Not true",NA,NA
-"1242",NA,NA,"Somewhat or sometimes true","no","no"
+"1242",NA,NA,"Somewhat or sometimes true","no",NA
 "1243",NA,NA,"Not true",NA,NA
 "1244",NA,NA,NA,NA,NA
 "1245",NA,NA,NA,NA,NA
@@ -1255,7 +1255,7 @@
 "1254","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "1255","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "1256",NA,NA,NA,NA,NA
-"1257",NA,NA,"Somewhat or sometimes true","no","no"
+"1257",NA,NA,"Somewhat or sometimes true","no",NA
 "1258",NA,NA,NA,NA,NA
 "1259","Very true or often true","Very true or often true","Not true",NA,NA
 "1260",NA,NA,NA,NA,NA
@@ -1301,12 +1301,12 @@
 "1300",NA,NA,"Not true",NA,NA
 "1301",NA,NA,"Not true",NA,NA
 "1302",NA,NA,NA,NA,NA
-"1303",NA,NA,NA,NA,NA
+"1303",NA,NA,NA,NA,"no"
 "1304",NA,NA,"Not true",NA,NA
 "1305",NA,NA,"Somewhat or sometimes true",NA,NA
 "1306",NA,NA,NA,NA,NA
 "1307","Very true or often true","Very true or often true","Not true",NA,NA
-"1308",NA,NA,NA,"no","no"
+"1308",NA,NA,NA,"no",NA
 "1309",NA,NA,"Somewhat or sometimes true",NA,NA
 "1310",NA,NA,NA,NA,NA
 "1311",NA,NA,NA,NA,NA
@@ -1323,7 +1323,7 @@
 "1322",NA,NA,"Not true",NA,NA
 "1323",NA,NA,"Not true",NA,NA
 "1324",NA,NA,"Somewhat or sometimes true",NA,NA
-"1325",NA,NA,NA,"no","no"
+"1325",NA,NA,NA,"no",NA
 "1326",NA,NA,"Not true",NA,NA
 "1327",NA,NA,NA,NA,NA
 "1328",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1332,15 +1332,15 @@
 "1331",NA,NA,"Not true",NA,NA
 "1332",NA,NA,"Not true",NA,NA
 "1333",NA,NA,"Very true or often true",NA,NA
-"1334","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"1334","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "1335",NA,NA,"Not true",NA,NA
 "1336",NA,NA,"Somewhat or sometimes true",NA,NA
 "1337",NA,NA,NA,NA,NA
 "1338",NA,NA,"Not true",NA,NA
 "1339",NA,NA,"Not true",NA,NA
-"1340",NA,NA,"Somewhat or sometimes true","no","no"
+"1340",NA,NA,"Somewhat or sometimes true","no",NA
 "1341",NA,NA,"Not true",NA,NA
-"1342",NA,NA,"Not true",NA,NA
+"1342",NA,NA,"Not true",NA,"no"
 "1343",NA,NA,"Not true",NA,NA
 "1344",NA,NA,NA,NA,NA
 "1345",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1370,7 +1370,7 @@
 "1369","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
 "1370",NA,NA,"Very true or often true",NA,NA
 "1371",NA,NA,"Not true",NA,NA
-"1372",NA,NA,NA,"yes","yes"
+"1372",NA,NA,NA,"yes","no"
 "1373",NA,NA,NA,NA,NA
 "1374",NA,NA,NA,NA,NA
 "1375",NA,NA,"Not true",NA,NA
@@ -1403,11 +1403,11 @@
 "1402",NA,NA,"Somewhat or sometimes true",NA,NA
 "1403",NA,NA,NA,NA,NA
 "1404",NA,NA,NA,NA,NA
-"1405",NA,NA,"Not true","no","no"
+"1405",NA,NA,"Not true","no",NA
 "1406",NA,NA,NA,NA,NA
 "1407","Very true or often true","Very true or often true","Not true",NA,NA
 "1408","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true","no","no"
-"1409",NA,NA,"Not true","no","no"
+"1409",NA,NA,"Not true","no",NA
 "1410",NA,NA,NA,NA,NA
 "1411",NA,NA,NA,NA,NA
 "1412","Not true","Somewhat or sometimes true","Not true",NA,NA
@@ -1419,7 +1419,7 @@
 "1418",NA,NA,"Not true",NA,NA
 "1419",NA,NA,NA,NA,NA
 "1420",NA,NA,"Not true",NA,NA
-"1421",NA,NA,NA,"yes","yes"
+"1421",NA,NA,NA,"yes",NA
 "1422",NA,NA,"Not true",NA,NA
 "1423",NA,NA,"Not true",NA,NA
 "1424",NA,NA,"Not true",NA,NA
@@ -1431,7 +1431,7 @@
 "1430",NA,NA,"Not true",NA,NA
 "1431",NA,NA,NA,NA,NA
 "1432",NA,NA,"Not true",NA,NA
-"1433",NA,NA,"Not true","no","no"
+"1433",NA,NA,"Not true","no",NA
 "1434","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1435",NA,NA,"Not true",NA,NA
 "1436",NA,NA,NA,NA,NA
@@ -1449,13 +1449,13 @@
 "1448",NA,NA,"Not true",NA,NA
 "1449","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1450",NA,NA,"Not true",NA,NA
-"1451",NA,NA,"Not true","no","no"
+"1451",NA,NA,"Not true","no",NA
 "1452",NA,NA,NA,NA,NA
 "1453","Very true or often true","Very true or often true","Not true",NA,NA
 "1454",NA,NA,NA,NA,NA
 "1455",NA,NA,NA,NA,NA
 "1456",NA,NA,"Not true",NA,NA
-"1457",NA,NA,"Not true",NA,NA
+"1457",NA,NA,"Not true",NA,"no"
 "1458",NA,NA,NA,NA,NA
 "1459",NA,NA,NA,NA,NA
 "1460",NA,NA,"Not true",NA,NA
@@ -1465,13 +1465,13 @@
 "1464",NA,NA,NA,NA,NA
 "1465",NA,NA,"Not true",NA,NA
 "1466",NA,NA,NA,NA,NA
-"1467",NA,NA,"Not true",NA,NA
+"1467",NA,NA,"Not true",NA,"no"
 "1468",NA,NA,NA,NA,NA
 "1469",NA,NA,"Not true",NA,NA
 "1470",NA,NA,"Not true",NA,NA
 "1471",NA,NA,NA,NA,NA
 "1472",NA,NA,NA,NA,NA
-"1473",NA,NA,"Somewhat or sometimes true",NA,NA
+"1473",NA,NA,"Somewhat or sometimes true",NA,"no"
 "1474","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1475",NA,NA,"Not true",NA,NA
 "1476",NA,NA,"Not true",NA,NA
@@ -1505,10 +1505,10 @@
 "1504",NA,NA,"Not true",NA,NA
 "1505",NA,NA,"Not true",NA,NA
 "1506",NA,NA,"Not true",NA,NA
-"1507",NA,NA,"Not true",NA,NA
+"1507",NA,NA,"Not true",NA,"no"
 "1508","Very true or often true","Very true or often true","Not true",NA,NA
 "1509",NA,NA,"Not true",NA,NA
-"1510",NA,NA,"Not true","no","no"
+"1510",NA,NA,"Not true","no",NA
 "1511",NA,NA,"Not true",NA,NA
 "1512",NA,NA,"Not true",NA,NA
 "1513",NA,NA,NA,NA,NA
@@ -1544,14 +1544,14 @@
 "1543",NA,NA,"Not true",NA,NA
 "1544",NA,NA,NA,NA,NA
 "1545","Very true or often true","Very true or often true","Not true",NA,NA
-"1546",NA,NA,"Not true",NA,NA
+"1546",NA,NA,"Not true",NA,"no"
 "1547","Very true or often true","Very true or often true","Not true",NA,NA
 "1548","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1549",NA,NA,NA,NA,NA
 "1550",NA,NA,"Not true",NA,NA
 "1551",NA,NA,NA,NA,NA
 "1552",NA,NA,NA,NA,NA
-"1553",NA,NA,"Somewhat or sometimes true",NA,NA
+"1553",NA,NA,"Somewhat or sometimes true",NA,"no"
 "1554",NA,NA,"Not true",NA,NA
 "1555","Very true or often true","Somewhat or sometimes true","Not true",NA,NA
 "1556",NA,NA,"Not true",NA,NA
@@ -1573,7 +1573,7 @@
 "1572",NA,NA,NA,NA,NA
 "1573",NA,NA,"Not true",NA,NA
 "1574",NA,NA,"Not true",NA,NA
-"1575",NA,NA,"Somewhat or sometimes true","no","no"
+"1575",NA,NA,"Somewhat or sometimes true","no",NA
 "1576",NA,NA,"Not true",NA,NA
 "1577",NA,NA,NA,NA,NA
 "1578",NA,NA,NA,NA,NA
@@ -1584,7 +1584,7 @@
 "1583",NA,NA,"Not true",NA,NA
 "1584",NA,NA,"Not true",NA,NA
 "1585",NA,NA,NA,NA,NA
-"1586",NA,NA,"Not true","yes","yes"
+"1586",NA,NA,"Not true","yes",NA
 "1587",NA,NA,NA,NA,NA
 "1588",NA,NA,"Not true",NA,NA
 "1589",NA,NA,NA,NA,NA
@@ -1593,7 +1593,7 @@
 "1592",NA,NA,NA,NA,NA
 "1593","Very true or often true","Somewhat or sometimes true","Very true or often true",NA,NA
 "1594",NA,NA,"Not true",NA,NA
-"1595",NA,NA,NA,NA,NA
+"1595",NA,NA,NA,NA,"no"
 "1596",NA,NA,NA,NA,NA
 "1597",NA,NA,"Not true",NA,NA
 "1598",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1613,7 +1613,7 @@
 "1612",NA,NA,"Not true",NA,NA
 "1613",NA,NA,NA,NA,NA
 "1614",NA,NA,NA,NA,NA
-"1615",NA,NA,"Not true","no","no"
+"1615",NA,NA,"Not true","no",NA
 "1616",NA,NA,"Not true",NA,NA
 "1617",NA,NA,NA,NA,NA
 "1618",NA,NA,"Not true",NA,NA
@@ -1629,12 +1629,12 @@
 "1628",NA,NA,"Not true",NA,NA
 "1629",NA,NA,NA,NA,NA
 "1630","Very true or often true","Somewhat or sometimes true","Very true or often true",NA,NA
-"1631",NA,NA,"Not true","no","no"
+"1631",NA,NA,"Not true","no",NA
 "1632",NA,NA,"Not true",NA,NA
 "1633",NA,NA,"Not true",NA,NA
 "1634",NA,NA,"Not true",NA,NA
 "1635",NA,NA,"Not true",NA,NA
-"1636",NA,NA,NA,NA,NA
+"1636",NA,NA,NA,NA,"no"
 "1637",NA,NA,NA,NA,NA
 "1638",NA,NA,NA,NA,NA
 "1639",NA,NA,NA,NA,NA
@@ -1643,7 +1643,7 @@
 "1642","Very true or often true","Very true or often true","Not true",NA,NA
 "1643",NA,NA,NA,NA,NA
 "1644",NA,NA,NA,NA,NA
-"1645",NA,NA,NA,"no","no"
+"1645",NA,NA,NA,"no",NA
 "1646",NA,NA,NA,NA,NA
 "1647",NA,NA,"Not true",NA,NA
 "1648",NA,NA,NA,NA,NA
@@ -1661,7 +1661,7 @@
 "1660",NA,NA,NA,NA,NA
 "1661",NA,NA,"Somewhat or sometimes true",NA,NA
 "1662",NA,NA,"Somewhat or sometimes true",NA,NA
-"1663",NA,NA,"Not true","yes","yes"
+"1663",NA,NA,"Not true","yes",NA
 "1664",NA,NA,NA,NA,NA
 "1665",NA,NA,"Not true",NA,NA
 "1666",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1682,7 +1682,7 @@
 "1681",NA,NA,"Not true",NA,NA
 "1682",NA,NA,"Somewhat or sometimes true",NA,NA
 "1683","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"1684",NA,NA,"Not true","yes","yes"
+"1684",NA,NA,"Not true","yes","no"
 "1685",NA,NA,NA,NA,NA
 "1686",NA,NA,NA,NA,NA
 "1687",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1691,13 +1691,13 @@
 "1690",NA,NA,NA,NA,NA
 "1691",NA,NA,NA,NA,NA
 "1692",NA,NA,"Somewhat or sometimes true",NA,NA
-"1693",NA,NA,"Not true","yes","yes"
+"1693",NA,NA,"Not true","yes",NA
 "1694","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1695","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1696",NA,NA,NA,NA,NA
 "1697",NA,NA,"Not true",NA,NA
 "1698","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
-"1699",NA,NA,"Somewhat or sometimes true","no","no"
+"1699",NA,NA,"Somewhat or sometimes true","no",NA
 "1700",NA,NA,NA,NA,NA
 "1701",NA,NA,NA,NA,NA
 "1702",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1711,25 +1711,25 @@
 "1710","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1711",NA,NA,"Not true",NA,NA
 "1712",NA,NA,NA,NA,NA
-"1713",NA,NA,"Not true","no","no"
+"1713",NA,NA,"Not true","no",NA
 "1714",NA,NA,NA,NA,NA
-"1715",NA,NA,"Not true","no","no"
+"1715",NA,NA,"Not true","no",NA
 "1716",NA,NA,NA,NA,NA
 "1717",NA,NA,NA,NA,NA
 "1718",NA,NA,NA,NA,NA
 "1719",NA,NA,NA,NA,NA
 "1720",NA,NA,NA,NA,NA
 "1721",NA,NA,NA,NA,NA
-"1722",NA,NA,NA,"no","no"
+"1722",NA,NA,NA,"no",NA
 "1723",NA,NA,"Not true",NA,NA
 "1724",NA,NA,NA,NA,NA
 "1725",NA,NA,"Not true",NA,NA
 "1726","Very true or often true","Very true or often true","Not true",NA,NA
-"1727",NA,NA,"Not true","yes","yes"
+"1727",NA,NA,"Not true","yes","no"
 "1728",NA,NA,"Not true",NA,NA
 "1729",NA,NA,"Not true",NA,NA
 "1730",NA,NA,NA,NA,NA
-"1731",NA,NA,"Not true","yes","yes"
+"1731",NA,NA,"Not true","yes",NA
 "1732",NA,NA,"Not true",NA,NA
 "1733",NA,NA,"Not true",NA,NA
 "1734",NA,NA,"Not true",NA,NA
@@ -1748,17 +1748,17 @@
 "1747",NA,NA,"Not true",NA,NA
 "1748","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1749",NA,NA,"Not true",NA,NA
-"1750",NA,NA,"Not true","yes","yes"
+"1750",NA,NA,"Not true","yes",NA
 "1751",NA,NA,NA,NA,NA
 "1752",NA,NA,NA,NA,NA
 "1753",NA,NA,NA,NA,NA
-"1754",NA,NA,NA,"no","no"
+"1754",NA,NA,NA,"no",NA
 "1755",NA,NA,"Not true",NA,NA
 "1756",NA,NA,NA,NA,NA
 "1757",NA,NA,"Very true or often true",NA,NA
 "1758",NA,NA,NA,NA,NA
 "1759",NA,NA,"Not true",NA,NA
-"1760",NA,NA,NA,NA,NA
+"1760",NA,NA,NA,NA,"no"
 "1761",NA,NA,NA,NA,NA
 "1762",NA,NA,"Very true or often true",NA,NA
 "1763",NA,NA,"Not true",NA,NA
@@ -1780,13 +1780,13 @@
 "1779",NA,NA,"Not true",NA,NA
 "1780",NA,NA,"Not true",NA,NA
 "1781",NA,NA,"Not true",NA,NA
-"1782",NA,NA,"Somewhat or sometimes true","no","no"
+"1782",NA,NA,"Somewhat or sometimes true","no",NA
 "1783",NA,NA,"Not true",NA,NA
 "1784",NA,NA,NA,NA,NA
 "1785",NA,NA,"Not true",NA,NA
 "1786",NA,NA,"Not true",NA,NA
 "1787",NA,NA,"Not true",NA,NA
-"1788",NA,NA,"Very true or often true",NA,NA
+"1788",NA,NA,"Very true or often true",NA,"no"
 "1789",NA,NA,"Not true",NA,NA
 "1790",NA,NA,"Not true",NA,NA
 "1791",NA,NA,"Not true",NA,NA
@@ -1803,9 +1803,9 @@
 "1802",NA,NA,"Not true",NA,NA
 "1803",NA,NA,"Not true",NA,NA
 "1804","Very true or often true","Very true or often true","Very true or often true",NA,NA
-"1805",NA,NA,"Not true",NA,NA
+"1805",NA,NA,"Not true",NA,"no"
 "1806",NA,NA,NA,NA,NA
-"1807",NA,NA,"Somewhat or sometimes true","no","no"
+"1807",NA,NA,"Somewhat or sometimes true","no",NA
 "1808",NA,NA,NA,NA,NA
 "1809",NA,NA,"Somewhat or sometimes true",NA,NA
 "1810",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1818,7 +1818,7 @@
 "1817","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1818",NA,NA,NA,NA,NA
 "1819",NA,NA,"Somewhat or sometimes true",NA,NA
-"1820",NA,NA,"Not true","no","no"
+"1820",NA,NA,"Not true","no",NA
 "1821",NA,NA,NA,NA,NA
 "1822",NA,NA,NA,NA,NA
 "1823",NA,NA,"Not true",NA,NA
@@ -1827,8 +1827,8 @@
 "1826",NA,NA,"Not true",NA,NA
 "1827",NA,NA,"Not true",NA,NA
 "1828",NA,NA,NA,NA,NA
-"1829",NA,NA,NA,"yes","yes"
-"1830",NA,NA,NA,"yes","yes"
+"1829",NA,NA,NA,"yes",NA
+"1830",NA,NA,NA,"yes",NA
 "1831","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1832",NA,NA,"Somewhat or sometimes true",NA,NA
 "1833",NA,NA,"Not true",NA,NA
@@ -1884,12 +1884,12 @@
 "1883",NA,NA,"Not true",NA,NA
 "1884","Not true","Very true or often true","Somewhat or sometimes true",NA,NA
 "1885",NA,NA,NA,NA,NA
-"1886",NA,NA,"Not true","no","no"
+"1886",NA,NA,"Not true","no",NA
 "1887",NA,NA,NA,NA,NA
 "1888",NA,NA,NA,NA,NA
 "1889",NA,NA,"Somewhat or sometimes true",NA,NA
 "1890",NA,NA,NA,NA,NA
-"1891","Very true or often true","Very true or often true","Not true",NA,NA
+"1891","Very true or often true","Very true or often true","Not true",NA,"no"
 "1892",NA,NA,NA,NA,NA
 "1893",NA,NA,"Not true",NA,NA
 "1894",NA,NA,NA,NA,NA
@@ -1919,8 +1919,8 @@
 "1918",NA,NA,NA,NA,NA
 "1919",NA,NA,NA,NA,NA
 "1920",NA,NA,NA,NA,NA
-"1921",NA,NA,NA,"no","no"
-"1922",NA,NA,NA,NA,NA
+"1921",NA,NA,NA,"no",NA
+"1922",NA,NA,NA,NA,"no"
 "1923",NA,NA,"Not true",NA,NA
 "1924",NA,NA,"Not true",NA,NA
 "1925",NA,NA,"Not true",NA,NA
@@ -1929,25 +1929,25 @@
 "1928",NA,NA,"Not true",NA,NA
 "1929",NA,NA,"Not true",NA,NA
 "1930",NA,NA,"Not true",NA,NA
-"1931",NA,NA,"Not true","no","no"
+"1931",NA,NA,"Not true","no",NA
 "1932",NA,NA,NA,NA,NA
 "1933",NA,NA,"Not true",NA,NA
 "1934",NA,NA,NA,NA,NA
-"1935",NA,NA,"Not true","no","no"
+"1935",NA,NA,"Not true","no",NA
 "1936",NA,NA,NA,NA,NA
 "1937",NA,NA,"Not true",NA,NA
 "1938",NA,NA,"Not true",NA,NA
 "1939",NA,NA,"Not true",NA,NA
 "1940",NA,NA,"Somewhat or sometimes true",NA,NA
 "1941",NA,NA,"Not true",NA,NA
-"1942","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true","no","no"
+"1942","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true","no",NA
 "1943",NA,NA,NA,NA,NA
-"1944",NA,NA,"Somewhat or sometimes true",NA,NA
+"1944",NA,NA,"Somewhat or sometimes true",NA,"no"
 "1945",NA,NA,"Not true",NA,NA
 "1946",NA,NA,NA,NA,NA
 "1947",NA,NA,NA,NA,NA
 "1948",NA,NA,NA,NA,NA
-"1949",NA,NA,NA,"no","no"
+"1949",NA,NA,NA,"no",NA
 "1950",NA,NA,NA,NA,NA
 "1951",NA,NA,NA,NA,NA
 "1952",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -1956,21 +1956,21 @@
 "1955",NA,NA,NA,NA,NA
 "1956",NA,NA,"Not true","no","no"
 "1957","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"1958",NA,NA,"Somewhat or sometimes true","no","no"
+"1958",NA,NA,"Somewhat or sometimes true","no",NA
 "1959",NA,NA,NA,NA,NA
 "1960",NA,NA,NA,NA,NA
 "1961",NA,NA,NA,NA,NA
-"1962",NA,NA,"Not true","no","no"
+"1962",NA,NA,"Not true","no",NA
 "1963",NA,NA,"Somewhat or sometimes true",NA,NA
 "1964",NA,NA,"Not true",NA,NA
 "1965",NA,NA,"Not true",NA,NA
 "1966",NA,NA,"Not true",NA,NA
-"1967",NA,NA,"Not true",NA,NA
+"1967",NA,NA,"Not true",NA,"no"
 "1968",NA,NA,"Not true",NA,NA
 "1969","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1970",NA,NA,"Not true",NA,NA
 "1971",NA,NA,"Not true",NA,NA
-"1972",NA,NA,"Not true","no","no"
+"1972",NA,NA,"Not true","no",NA
 "1973","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "1974","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "1975",NA,NA,NA,NA,NA
@@ -1992,9 +1992,9 @@
 "1991",NA,NA,"Not true",NA,NA
 "1992","Very true or often true","Very true or often true","Not true",NA,NA
 "1993",NA,NA,NA,NA,NA
-"1994",NA,NA,"Not true","no","no"
+"1994",NA,NA,"Not true","no",NA
 "1995",NA,NA,"Not true",NA,NA
-"1996",NA,NA,"Not true","no","no"
+"1996",NA,NA,"Not true","no",NA
 "1997",NA,NA,NA,NA,NA
 "1998",NA,NA,"Not true",NA,NA
 "1999",NA,NA,NA,NA,NA
@@ -2005,7 +2005,7 @@
 "2004",NA,NA,"Not true",NA,NA
 "2005",NA,NA,"Not true",NA,NA
 "2006","Not true","Very true or often true","Not true",NA,NA
-"2007",NA,NA,"Not true","no","no"
+"2007",NA,NA,"Not true","no",NA
 "2008",NA,NA,"Not true",NA,NA
 "2009",NA,NA,NA,NA,NA
 "2010",NA,NA,"Not true",NA,NA
@@ -2062,18 +2062,18 @@
 "2061",NA,NA,"Somewhat or sometimes true",NA,NA
 "2062",NA,NA,"Not true",NA,NA
 "2063",NA,NA,"Not true",NA,NA
-"2064","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"2064","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "2065",NA,NA,"Not true",NA,NA
 "2066",NA,NA,"Not true",NA,NA
 "2067",NA,NA,"Not true",NA,NA
-"2068",NA,NA,"Not true","yes","yes"
+"2068",NA,NA,"Not true","yes",NA
 "2069",NA,NA,"Not true",NA,NA
 "2070",NA,NA,NA,NA,NA
 "2071",NA,NA,"Not true",NA,NA
-"2072",NA,NA,"Not true","no","no"
+"2072",NA,NA,"Not true","no",NA
 "2073",NA,NA,NA,NA,NA
 "2074",NA,NA,NA,NA,NA
-"2075",NA,NA,"Somewhat or sometimes true","yes","yes"
+"2075",NA,NA,"Somewhat or sometimes true","yes",NA
 "2076",NA,NA,"Somewhat or sometimes true",NA,NA
 "2077",NA,NA,"Somewhat or sometimes true",NA,NA
 "2078",NA,NA,"Not true",NA,NA
@@ -2089,7 +2089,7 @@
 "2088",NA,NA,NA,NA,NA
 "2089",NA,NA,"Not true",NA,NA
 "2090",NA,NA,NA,NA,NA
-"2091",NA,NA,NA,"yes","yes"
+"2091",NA,NA,NA,"yes",NA
 "2092",NA,NA,"Very true or often true",NA,NA
 "2093",NA,NA,"Somewhat or sometimes true",NA,NA
 "2094",NA,NA,NA,NA,NA
@@ -2114,13 +2114,13 @@
 "2113",NA,NA,"Not true",NA,NA
 "2114",NA,NA,"Not true",NA,NA
 "2115",NA,NA,NA,NA,NA
-"2116",NA,NA,"Not true","no","no"
+"2116",NA,NA,"Not true","no",NA
 "2117",NA,NA,NA,NA,NA
 "2118",NA,NA,"Not true",NA,NA
 "2119",NA,NA,NA,NA,NA
 "2120","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2121",NA,NA,"Not true",NA,NA
-"2122",NA,NA,"Somewhat or sometimes true","yes","yes"
+"2122",NA,NA,"Somewhat or sometimes true","yes",NA
 "2123",NA,NA,"Not true",NA,NA
 "2124",NA,NA,"Not true",NA,NA
 "2125",NA,NA,NA,NA,NA
@@ -2128,16 +2128,16 @@
 "2127",NA,NA,NA,NA,NA
 "2128",NA,NA,NA,NA,NA
 "2129",NA,NA,"Somewhat or sometimes true",NA,NA
-"2130",NA,NA,"Not true","yes","yes"
+"2130",NA,NA,"Not true","yes",NA
 "2131",NA,NA,"Not true",NA,NA
-"2132",NA,NA,"Not true","yes","yes"
+"2132",NA,NA,"Not true","yes",NA
 "2133",NA,NA,"Not true",NA,NA
-"2134",NA,NA,"Not true","no","no"
+"2134",NA,NA,"Not true","no",NA
 "2135",NA,NA,NA,NA,NA
 "2136",NA,NA,"Not true",NA,NA
 "2137",NA,NA,"Not true",NA,NA
 "2138",NA,NA,"Not true",NA,NA
-"2139",NA,NA,"Not true","no","no"
+"2139",NA,NA,"Not true","no",NA
 "2140",NA,NA,"Somewhat or sometimes true",NA,NA
 "2141",NA,NA,NA,NA,NA
 "2142",NA,NA,"Not true",NA,NA
@@ -2152,7 +2152,7 @@
 "2151",NA,NA,"Somewhat or sometimes true",NA,NA
 "2152",NA,NA,"Not true",NA,NA
 "2153",NA,NA,"Not true",NA,NA
-"2154",NA,NA,"Not true",NA,NA
+"2154",NA,NA,"Not true",NA,"yes"
 "2155",NA,NA,NA,NA,NA
 "2156","Very true or often true","Very true or often true","Not true",NA,NA
 "2157",NA,NA,NA,NA,NA
@@ -2183,25 +2183,25 @@
 "2182",NA,NA,NA,NA,NA
 "2183",NA,NA,"Not true",NA,NA
 "2184",NA,NA,"Not true",NA,NA
-"2185",NA,NA,"Not true",NA,NA
-"2186",NA,NA,"Not true","no","no"
+"2185",NA,NA,"Not true",NA,"no"
+"2186",NA,NA,"Not true","no",NA
 "2187",NA,NA,NA,NA,NA
 "2188",NA,NA,NA,NA,NA
-"2189",NA,NA,"Somewhat or sometimes true","yes","yes"
+"2189",NA,NA,"Somewhat or sometimes true","yes",NA
 "2190",NA,NA,NA,NA,NA
 "2191",NA,NA,"Not true",NA,NA
 "2192",NA,NA,"Not true",NA,NA
 "2193",NA,NA,"Not true",NA,NA
-"2194","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"2194","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "2195","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
 "2196",NA,NA,NA,NA,NA
 "2197",NA,NA,"Not true",NA,NA
 "2198",NA,NA,NA,NA,NA
 "2199",NA,NA,"Not true",NA,NA
-"2200",NA,NA,"Somewhat or sometimes true","no","no"
+"2200",NA,NA,"Somewhat or sometimes true","no",NA
 "2201",NA,NA,"Not true",NA,NA
 "2202",NA,NA,"Not true",NA,NA
-"2203",NA,NA,NA,NA,NA
+"2203",NA,NA,NA,NA,"yes"
 "2204",NA,NA,"Not true",NA,NA
 "2205",NA,NA,NA,NA,NA
 "2206",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -2209,13 +2209,13 @@
 "2208",NA,NA,NA,NA,NA
 "2209","Very true or often true","Very true or often true","Not true",NA,NA
 "2210",NA,NA,NA,NA,NA
-"2211",NA,NA,NA,"no","no"
+"2211",NA,NA,NA,"no",NA
 "2212",NA,NA,"Somewhat or sometimes true",NA,NA
 "2213",NA,NA,NA,NA,NA
 "2214",NA,NA,"Not true",NA,NA
 "2215",NA,NA,NA,NA,NA
 "2216",NA,NA,NA,NA,NA
-"2217",NA,NA,NA,"no","no"
+"2217",NA,NA,NA,"no",NA
 "2218",NA,NA,"Not true",NA,NA
 "2219",NA,NA,"Not true",NA,NA
 "2220",NA,NA,"Not true",NA,NA
@@ -2224,17 +2224,17 @@
 "2223",NA,NA,NA,NA,NA
 "2224",NA,NA,"Very true or often true",NA,NA
 "2225",NA,NA,"Not true",NA,NA
-"2226",NA,NA,"Not true","yes","yes"
+"2226",NA,NA,"Not true","yes",NA
 "2227",NA,NA,NA,NA,NA
 "2228",NA,NA,NA,NA,NA
-"2229",NA,NA,"Very true or often true","no","no"
+"2229",NA,NA,"Very true or often true","no",NA
 "2230",NA,NA,"Not true",NA,NA
 "2231",NA,NA,NA,NA,NA
 "2232",NA,NA,NA,NA,NA
 "2233",NA,NA,NA,NA,NA
 "2234",NA,NA,NA,NA,NA
 "2235",NA,NA,NA,NA,NA
-"2236",NA,NA,"Not true","no","no"
+"2236",NA,NA,"Not true","no",NA
 "2237","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2238",NA,NA,"Somewhat or sometimes true",NA,NA
 "2239",NA,NA,NA,NA,NA
@@ -2276,7 +2276,7 @@
 "2275",NA,NA,NA,NA,NA
 "2276",NA,NA,"Not true",NA,NA
 "2277",NA,NA,"Not true",NA,NA
-"2278",NA,NA,"Not true","no","no"
+"2278",NA,NA,"Not true","no",NA
 "2279",NA,NA,"Somewhat or sometimes true",NA,NA
 "2280",NA,NA,"Very true or often true",NA,NA
 "2281","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
@@ -2308,12 +2308,12 @@
 "2307",NA,NA,"Somewhat or sometimes true",NA,NA
 "2308",NA,NA,"Not true",NA,NA
 "2309",NA,NA,"Not true",NA,NA
-"2310",NA,NA,"Not true",NA,NA
+"2310",NA,NA,"Not true",NA,"no"
 "2311",NA,NA,NA,NA,NA
 "2312",NA,NA,NA,NA,NA
 "2313",NA,NA,NA,NA,NA
 "2314",NA,NA,"Not true",NA,NA
-"2315",NA,NA,"Not true","no","no"
+"2315",NA,NA,"Not true","no",NA
 "2316","Very true or often true","Very true or often true","Not true",NA,NA
 "2317",NA,NA,"Not true",NA,NA
 "2318",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -2334,12 +2334,12 @@
 "2333",NA,NA,NA,NA,NA
 "2334",NA,NA,NA,NA,NA
 "2335",NA,NA,NA,NA,NA
-"2336",NA,NA,NA,"yes","yes"
+"2336",NA,NA,NA,"yes",NA
 "2337",NA,NA,NA,NA,NA
 "2338","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
 "2339","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2340",NA,NA,"Not true",NA,NA
-"2341","Somewhat or sometimes true","Somewhat or sometimes true","Not true","no","no"
+"2341","Somewhat or sometimes true","Somewhat or sometimes true","Not true","no",NA
 "2342",NA,NA,NA,NA,NA
 "2343",NA,NA,"Not true",NA,NA
 "2344",NA,NA,NA,NA,NA
@@ -2347,7 +2347,7 @@
 "2346",NA,NA,"Not true",NA,NA
 "2347",NA,NA,NA,NA,NA
 "2348",NA,NA,"Not true",NA,NA
-"2349",NA,NA,"Not true","yes","yes"
+"2349",NA,NA,"Not true","yes",NA
 "2350",NA,NA,"Not true",NA,NA
 "2351",NA,NA,NA,NA,NA
 "2352",NA,NA,"Not true",NA,NA
@@ -2359,10 +2359,10 @@
 "2358","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2359","Somewhat or sometimes true","Not true","Not true",NA,NA
 "2360",NA,NA,"Not true",NA,NA
-"2361",NA,NA,"Not true","no","no"
+"2361",NA,NA,"Not true","no",NA
 "2362",NA,NA,"Not true",NA,NA
 "2363",NA,NA,"Not true",NA,NA
-"2364",NA,NA,"Very true or often true",NA,NA
+"2364",NA,NA,"Very true or often true",NA,"no"
 "2365",NA,NA,NA,NA,NA
 "2366",NA,NA,NA,NA,NA
 "2367",NA,NA,NA,NA,NA
@@ -2384,7 +2384,7 @@
 "2383",NA,NA,"Not true",NA,NA
 "2384","Not true","Very true or often true","Somewhat or sometimes true",NA,NA
 "2385",NA,NA,NA,NA,NA
-"2386",NA,NA,NA,"yes","yes"
+"2386",NA,NA,NA,"yes",NA
 "2387",NA,NA,"Not true",NA,NA
 "2388",NA,NA,"Not true",NA,NA
 "2389",NA,NA,"Very true or often true",NA,NA
@@ -2413,7 +2413,7 @@
 "2412","Very true or often true","Very true or often true","Not true",NA,NA
 "2413",NA,NA,"Not true",NA,NA
 "2414",NA,NA,NA,NA,NA
-"2415",NA,NA,"Not true",NA,NA
+"2415",NA,NA,"Not true",NA,"no"
 "2416",NA,NA,NA,NA,NA
 "2417",NA,NA,"Not true",NA,NA
 "2418",NA,NA,"Not true",NA,NA
@@ -2424,7 +2424,7 @@
 "2423",NA,NA,NA,NA,NA
 "2424",NA,NA,NA,NA,NA
 "2425",NA,NA,NA,NA,NA
-"2426",NA,NA,"Somewhat or sometimes true",NA,NA
+"2426",NA,NA,"Somewhat or sometimes true",NA,"no"
 "2427","Very true or often true","Very true or often true","Not true",NA,NA
 "2428",NA,NA,NA,NA,NA
 "2429",NA,NA,"Not true",NA,NA
@@ -2435,7 +2435,7 @@
 "2434",NA,NA,NA,NA,NA
 "2435",NA,NA,"Not true",NA,NA
 "2436",NA,NA,"Not true",NA,NA
-"2437",NA,NA,"Not true",NA,NA
+"2437",NA,NA,"Not true",NA,"no"
 "2438","Very true or often true","Very true or often true","Not true",NA,NA
 "2439",NA,NA,"Not true",NA,NA
 "2440",NA,NA,"Not true",NA,NA
@@ -2446,13 +2446,13 @@
 "2445",NA,NA,NA,NA,NA
 "2446",NA,NA,NA,NA,NA
 "2447",NA,NA,NA,NA,NA
-"2448",NA,NA,"Somewhat or sometimes true","yes","yes"
-"2449",NA,NA,"Not true","no","no"
+"2448",NA,NA,"Somewhat or sometimes true","yes",NA
+"2449",NA,NA,"Not true","no",NA
 "2450",NA,NA,NA,NA,NA
 "2451",NA,NA,NA,NA,NA
 "2452","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2453",NA,NA,NA,NA,NA
-"2454","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"2454","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "2455",NA,NA,"Not true",NA,NA
 "2456",NA,NA,"Somewhat or sometimes true",NA,NA
 "2457",NA,NA,NA,NA,NA
@@ -2486,7 +2486,7 @@
 "2485",NA,NA,NA,NA,NA
 "2486",NA,NA,NA,NA,NA
 "2487",NA,NA,"Very true or often true",NA,NA
-"2488","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
+"2488","Somewhat or sometimes true","Very true or often true","Not true",NA,"yes"
 "2489",NA,NA,NA,NA,NA
 "2490",NA,NA,"Not true",NA,NA
 "2491",NA,NA,NA,NA,NA
@@ -2495,11 +2495,11 @@
 "2494",NA,NA,"Not true",NA,NA
 "2495",NA,NA,"Not true",NA,NA
 "2496",NA,NA,NA,NA,NA
-"2497",NA,NA,"Somewhat or sometimes true","no","no"
+"2497",NA,NA,"Somewhat or sometimes true","no",NA
 "2498","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "2499",NA,NA,NA,NA,NA
 "2500",NA,NA,"Somewhat or sometimes true",NA,NA
-"2501",NA,NA,NA,"yes","yes"
+"2501",NA,NA,NA,"yes",NA
 "2502",NA,NA,"Somewhat or sometimes true",NA,NA
 "2503",NA,NA,"Not true",NA,NA
 "2504",NA,NA,NA,NA,NA
@@ -2509,7 +2509,7 @@
 "2508",NA,NA,NA,NA,NA
 "2509",NA,NA,NA,NA,NA
 "2510",NA,NA,NA,NA,NA
-"2511",NA,NA,NA,"no","no"
+"2511",NA,NA,NA,"no",NA
 "2512",NA,NA,"Not true",NA,NA
 "2513",NA,NA,"Not true",NA,NA
 "2514",NA,NA,"Not true",NA,NA
@@ -2548,7 +2548,7 @@
 "2547",NA,NA,"Not true",NA,NA
 "2548",NA,NA,NA,NA,NA
 "2549",NA,NA,NA,NA,NA
-"2550",NA,NA,"Not true","no","no"
+"2550",NA,NA,"Not true","no",NA
 "2551",NA,NA,"Not true",NA,NA
 "2552",NA,NA,"Not true",NA,NA
 "2553",NA,NA,"Not true",NA,NA
@@ -2565,8 +2565,8 @@
 "2564",NA,NA,NA,NA,NA
 "2565",NA,NA,"Not true",NA,NA
 "2566","Not true","Somewhat or sometimes true","Not true",NA,NA
-"2567",NA,NA,"Not true",NA,NA
-"2568",NA,NA,"Somewhat or sometimes true","no","no"
+"2567",NA,NA,"Not true",NA,"no"
+"2568",NA,NA,"Somewhat or sometimes true","no",NA
 "2569",NA,NA,"Not true",NA,NA
 "2570",NA,NA,NA,NA,NA
 "2571",NA,NA,NA,NA,NA
@@ -2581,20 +2581,20 @@
 "2580",NA,NA,NA,NA,NA
 "2581","Very true or often true","Very true or often true","Not true",NA,NA
 "2582",NA,NA,"Not true",NA,NA
-"2583",NA,NA,NA,NA,NA
+"2583",NA,NA,NA,NA,"no"
 "2584",NA,NA,"Not true",NA,NA
 "2585",NA,NA,"Not true",NA,NA
 "2586",NA,NA,"Not true",NA,NA
 "2587",NA,NA,"Not true",NA,NA
 "2588",NA,NA,NA,NA,NA
 "2589",NA,NA,NA,NA,NA
-"2590",NA,NA,"Not true","no","no"
-"2591","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"2590",NA,NA,"Not true","no",NA
+"2591","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "2592",NA,NA,NA,NA,NA
 "2593",NA,NA,NA,NA,NA
 "2594",NA,NA,"Somewhat or sometimes true",NA,NA
 "2595",NA,NA,NA,NA,NA
-"2596",NA,NA,"Not true","yes","yes"
+"2596",NA,NA,"Not true","yes",NA
 "2597",NA,NA,NA,NA,NA
 "2598",NA,NA,"Somewhat or sometimes true",NA,NA
 "2599",NA,NA,NA,NA,NA
@@ -2606,7 +2606,7 @@
 "2605",NA,NA,"Not true",NA,NA
 "2606",NA,NA,"Not true",NA,NA
 "2607",NA,NA,"Not true",NA,NA
-"2608","Very true or often true","Very true or often true","Not true",NA,NA
+"2608","Very true or often true","Very true or often true","Not true",NA,"no"
 "2609",NA,NA,"Not true",NA,NA
 "2610",NA,NA,"Not true",NA,NA
 "2611","Very true or often true","Very true or often true","Not true",NA,NA
@@ -2632,9 +2632,9 @@
 "2631",NA,NA,NA,NA,NA
 "2632",NA,NA,"Somewhat or sometimes true",NA,NA
 "2633",NA,NA,"Not true",NA,NA
-"2634",NA,NA,NA,NA,NA
-"2635",NA,NA,"Somewhat or sometimes true",NA,NA
-"2636",NA,NA,NA,NA,NA
+"2634",NA,NA,NA,NA,"yes"
+"2635",NA,NA,"Somewhat or sometimes true",NA,"no"
+"2636",NA,NA,NA,NA,"no"
 "2637",NA,NA,"Not true",NA,NA
 "2638",NA,NA,"Not true",NA,NA
 "2639",NA,NA,"Not true",NA,NA
@@ -2644,10 +2644,10 @@
 "2643",NA,NA,"Not true",NA,NA
 "2644",NA,NA,NA,NA,NA
 "2645",NA,NA,"Somewhat or sometimes true",NA,NA
-"2646","Not true","Somewhat or sometimes true","Not true",NA,NA
+"2646","Not true","Somewhat or sometimes true","Not true",NA,"no"
 "2647",NA,NA,NA,NA,NA
 "2648",NA,NA,"Not true",NA,NA
-"2649",NA,NA,"Not true",NA,NA
+"2649",NA,NA,"Not true",NA,"no"
 "2650","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2651",NA,NA,NA,NA,NA
 "2652",NA,NA,"Not true",NA,NA
@@ -2660,7 +2660,7 @@
 "2659",NA,NA,NA,NA,NA
 "2660",NA,NA,NA,NA,NA
 "2661",NA,NA,NA,NA,NA
-"2662",NA,NA,"Somewhat or sometimes true",NA,NA
+"2662",NA,NA,"Somewhat or sometimes true",NA,"no"
 "2663",NA,NA,"Somewhat or sometimes true",NA,NA
 "2664",NA,NA,"Not true",NA,NA
 "2665",NA,NA,"Not true",NA,NA
@@ -2679,12 +2679,12 @@
 "2678",NA,NA,NA,NA,NA
 "2679",NA,NA,"Not true",NA,NA
 "2680",NA,NA,"Not true",NA,NA
-"2681",NA,NA,"Not true","no","no"
+"2681",NA,NA,"Not true","no",NA
 "2682",NA,NA,"Somewhat or sometimes true",NA,NA
 "2683",NA,NA,"Somewhat or sometimes true",NA,NA
 "2684","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
-"2685",NA,NA,"Not true","no","no"
-"2686",NA,NA,"Somewhat or sometimes true","yes","yes"
+"2685",NA,NA,"Not true","no",NA
+"2686",NA,NA,"Somewhat or sometimes true","yes",NA
 "2687","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2688",NA,NA,"Not true",NA,NA
 "2689",NA,NA,"Not true",NA,NA
@@ -2707,7 +2707,7 @@
 "2706",NA,NA,"Not true",NA,NA
 "2707",NA,NA,"Not true",NA,NA
 "2708",NA,NA,"Not true",NA,NA
-"2709",NA,NA,NA,"yes","yes"
+"2709",NA,NA,NA,"yes",NA
 "2710",NA,NA,"Very true or often true",NA,NA
 "2711",NA,NA,"Not true",NA,NA
 "2712",NA,NA,NA,NA,NA
@@ -2719,7 +2719,7 @@
 "2718",NA,NA,NA,NA,NA
 "2719",NA,NA,NA,NA,NA
 "2720",NA,NA,NA,NA,NA
-"2721",NA,NA,"Not true",NA,NA
+"2721",NA,NA,"Not true",NA,"no"
 "2722",NA,NA,"Not true",NA,NA
 "2723",NA,NA,"Not true",NA,NA
 "2724",NA,NA,"Not true",NA,NA
@@ -2730,9 +2730,9 @@
 "2729",NA,NA,"Not true",NA,NA
 "2730",NA,NA,NA,NA,NA
 "2731",NA,NA,"Not true",NA,NA
-"2732",NA,NA,"Somewhat or sometimes true","no","no"
+"2732",NA,NA,"Somewhat or sometimes true","no",NA
 "2733",NA,NA,"Not true",NA,NA
-"2734",NA,NA,"Not true","no","no"
+"2734",NA,NA,"Not true","no",NA
 "2735",NA,NA,"Not true",NA,NA
 "2736",NA,NA,NA,NA,NA
 "2737",NA,NA,NA,NA,NA
@@ -2740,7 +2740,7 @@
 "2739",NA,NA,"Not true",NA,NA
 "2740",NA,NA,NA,NA,NA
 "2741","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"2742",NA,NA,NA,"no","no"
+"2742",NA,NA,NA,"no",NA
 "2743",NA,NA,NA,NA,NA
 "2744",NA,NA,"Not true",NA,NA
 "2745",NA,NA,"Not true",NA,NA
@@ -2752,7 +2752,7 @@
 "2751",NA,NA,"Not true",NA,NA
 "2752",NA,NA,NA,NA,NA
 "2753",NA,NA,"Not true",NA,NA
-"2754",NA,NA,"Somewhat or sometimes true","yes","yes"
+"2754",NA,NA,"Somewhat or sometimes true","yes",NA
 "2755",NA,NA,"Somewhat or sometimes true",NA,NA
 "2756",NA,NA,"Not true",NA,NA
 "2757",NA,NA,"Not true",NA,NA
@@ -2788,7 +2788,7 @@
 "2787",NA,NA,NA,NA,NA
 "2788",NA,NA,"Not true",NA,NA
 "2789",NA,NA,"Not true",NA,NA
-"2790",NA,NA,"Somewhat or sometimes true","no","no"
+"2790",NA,NA,"Somewhat or sometimes true","no",NA
 "2791",NA,NA,"Not true",NA,NA
 "2792","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2793",NA,NA,"Not true",NA,NA
@@ -2801,14 +2801,14 @@
 "2800",NA,NA,"Somewhat or sometimes true",NA,NA
 "2801",NA,NA,"Not true",NA,NA
 "2802",NA,NA,NA,NA,NA
-"2803","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"2803","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "2804","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2805",NA,NA,"Somewhat or sometimes true",NA,NA
 "2806",NA,NA,NA,NA,NA
 "2807",NA,NA,NA,NA,NA
 "2808",NA,NA,"Not true",NA,NA
 "2809",NA,NA,NA,NA,NA
-"2810",NA,NA,"Not true","no","no"
+"2810",NA,NA,"Not true","no",NA
 "2811",NA,NA,"Not true",NA,NA
 "2812",NA,NA,NA,NA,NA
 "2813",NA,NA,"Not true",NA,NA
@@ -2817,20 +2817,20 @@
 "2816",NA,NA,"Not true",NA,NA
 "2817",NA,NA,NA,NA,NA
 "2818",NA,NA,"Not true",NA,NA
-"2819",NA,NA,NA,NA,NA
+"2819",NA,NA,NA,NA,"no"
 "2820",NA,NA,"Somewhat or sometimes true",NA,NA
 "2821",NA,NA,"Not true",NA,NA
 "2822",NA,NA,NA,NA,NA
 "2823",NA,NA,"Somewhat or sometimes true",NA,NA
 "2824",NA,NA,"Somewhat or sometimes true",NA,NA
-"2825",NA,NA,"Not true",NA,NA
+"2825",NA,NA,"Not true",NA,"no"
 "2826",NA,NA,NA,NA,NA
 "2827",NA,NA,NA,NA,NA
 "2828",NA,NA,NA,NA,NA
 "2829",NA,NA,"Not true",NA,NA
 "2830",NA,NA,"Not true",NA,NA
-"2831",NA,NA,NA,"yes","yes"
-"2832",NA,NA,"Not true","yes","yes"
+"2831",NA,NA,NA,"yes",NA
+"2832",NA,NA,"Not true","yes",NA
 "2833",NA,NA,"Not true",NA,NA
 "2834",NA,NA,"Very true or often true",NA,NA
 "2835",NA,NA,"Not true",NA,NA
@@ -2851,11 +2851,11 @@
 "2850",NA,NA,"Very true or often true",NA,NA
 "2851",NA,NA,"Not true",NA,NA
 "2852",NA,NA,NA,NA,NA
-"2853","Somewhat or sometimes true","Very true or often true","Not true","yes","yes"
+"2853","Somewhat or sometimes true","Very true or often true","Not true","yes",NA
 "2854",NA,NA,NA,NA,NA
 "2855","Not true","Very true or often true","Not true",NA,NA
 "2856",NA,NA,"Somewhat or sometimes true",NA,NA
-"2857",NA,NA,"Not true",NA,NA
+"2857",NA,NA,"Not true",NA,"no"
 "2858",NA,NA,"Somewhat or sometimes true",NA,NA
 "2859",NA,NA,NA,NA,NA
 "2860",NA,NA,"Not true",NA,NA
@@ -2867,14 +2867,14 @@
 "2866",NA,NA,NA,NA,NA
 "2867",NA,NA,NA,NA,NA
 "2868",NA,NA,"Not true",NA,NA
-"2869",NA,NA,"Not true",NA,NA
+"2869",NA,NA,"Not true",NA,"no"
 "2870",NA,NA,"Not true",NA,NA
 "2871",NA,NA,NA,NA,NA
 "2872",NA,NA,"Not true",NA,NA
-"2873",NA,NA,"Not true","yes","yes"
+"2873",NA,NA,"Not true","yes",NA
 "2874",NA,NA,NA,NA,NA
 "2875",NA,NA,NA,NA,NA
-"2876",NA,NA,"Not true","yes","yes"
+"2876",NA,NA,"Not true","yes",NA
 "2877",NA,NA,"Somewhat or sometimes true",NA,NA
 "2878",NA,NA,"Not true",NA,NA
 "2879",NA,NA,NA,NA,NA
@@ -2889,7 +2889,7 @@
 "2888",NA,NA,NA,NA,NA
 "2889",NA,NA,NA,NA,NA
 "2890",NA,NA,NA,NA,NA
-"2891",NA,NA,"Not true","yes","yes"
+"2891",NA,NA,"Not true","yes",NA
 "2892",NA,NA,"Not true",NA,NA
 "2893",NA,NA,NA,NA,NA
 "2894",NA,NA,"Not true",NA,NA
@@ -2901,7 +2901,7 @@
 "2900",NA,NA,"Not true",NA,NA
 "2901","Very true or often true","Somewhat or sometimes true","Not true",NA,NA
 "2902",NA,NA,"Not true",NA,NA
-"2903",NA,NA,NA,NA,NA
+"2903",NA,NA,NA,NA,"no"
 "2904",NA,NA,"Not true",NA,NA
 "2905",NA,NA,"Not true",NA,NA
 "2906","Very true or often true","Very true or often true","Not true",NA,NA
@@ -2915,13 +2915,13 @@
 "2914",NA,NA,"Not true",NA,NA
 "2915",NA,NA,"Not true",NA,NA
 "2916","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"2917",NA,NA,"Not true",NA,NA
+"2917",NA,NA,"Not true",NA,"no"
 "2918",NA,NA,NA,NA,NA
 "2919",NA,NA,NA,NA,NA
 "2920",NA,NA,"Somewhat or sometimes true",NA,NA
-"2921",NA,NA,NA,"no","no"
+"2921",NA,NA,NA,"no",NA
 "2922",NA,NA,"Not true",NA,NA
-"2923",NA,NA,NA,NA,NA
+"2923",NA,NA,NA,NA,"yes"
 "2924",NA,NA,NA,NA,NA
 "2925",NA,NA,"Somewhat or sometimes true",NA,NA
 "2926",NA,NA,"Not true",NA,NA
@@ -2958,9 +2958,9 @@
 "2957",NA,NA,"Not true",NA,NA
 "2958",NA,NA,"Not true",NA,NA
 "2959",NA,NA,NA,NA,NA
-"2960",NA,NA,"Not true","yes","yes"
+"2960",NA,NA,"Not true","yes",NA
 "2961",NA,NA,"Very true or often true",NA,NA
-"2962","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true","no","no"
+"2962","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true","no",NA
 "2963",NA,NA,"Somewhat or sometimes true",NA,NA
 "2964",NA,NA,NA,NA,NA
 "2965",NA,NA,NA,NA,NA
@@ -2972,28 +2972,28 @@
 "2971",NA,NA,"Not true",NA,NA
 "2972",NA,NA,"Not true",NA,NA
 "2973",NA,NA,"Not true",NA,NA
-"2974",NA,NA,"Not true",NA,NA
+"2974",NA,NA,"Not true",NA,"yes"
 "2975",NA,NA,"Not true",NA,NA
 "2976",NA,NA,"Not true",NA,NA
 "2977",NA,NA,NA,NA,NA
 "2978","Very true or often true","Very true or often true","Not true",NA,NA
 "2979",NA,NA,"Not true",NA,NA
 "2980",NA,NA,"Not true",NA,NA
-"2981",NA,NA,"Not true","no","no"
+"2981",NA,NA,"Not true","no",NA
 "2982",NA,NA,"Not true",NA,NA
 "2983",NA,NA,NA,NA,NA
 "2984",NA,NA,NA,NA,NA
 "2985",NA,NA,"Somewhat or sometimes true",NA,NA
 "2986",NA,NA,"Not true",NA,NA
-"2987",NA,NA,NA,NA,NA
+"2987",NA,NA,NA,NA,"no"
 "2988",NA,NA,NA,NA,NA
 "2989",NA,NA,"Not true",NA,NA
-"2990",NA,NA,"Not true","no","no"
+"2990",NA,NA,"Not true","no",NA
 "2991",NA,NA,"Somewhat or sometimes true",NA,NA
 "2992","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2993","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "2994",NA,NA,"Somewhat or sometimes true",NA,NA
-"2995",NA,NA,"Very true or often true","no","no"
+"2995",NA,NA,"Very true or often true","no",NA
 "2996","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "2997",NA,NA,"Very true or often true",NA,NA
 "2998",NA,NA,NA,NA,NA
@@ -3009,7 +3009,7 @@
 "3008",NA,NA,NA,NA,NA
 "3009",NA,NA,"Not true",NA,NA
 "3010",NA,NA,"Not true",NA,NA
-"3011",NA,NA,"Very true or often true","yes","yes"
+"3011",NA,NA,"Very true or often true","yes",NA
 "3012",NA,NA,"Not true",NA,NA
 "3013",NA,NA,NA,NA,NA
 "3014",NA,NA,NA,NA,NA
@@ -3024,7 +3024,7 @@
 "3023",NA,NA,"Not true",NA,NA
 "3024",NA,NA,NA,NA,NA
 "3025",NA,NA,NA,NA,NA
-"3026",NA,NA,"Not true","no","no"
+"3026",NA,NA,"Not true","no",NA
 "3027",NA,NA,NA,NA,NA
 "3028",NA,NA,"Not true",NA,NA
 "3029",NA,NA,NA,NA,NA
@@ -3040,12 +3040,12 @@
 "3039",NA,NA,"Not true",NA,NA
 "3040",NA,NA,NA,NA,NA
 "3041",NA,NA,"Not true",NA,NA
-"3042",NA,NA,"Not true","no","no"
+"3042",NA,NA,"Not true","no",NA
 "3043",NA,NA,"Not true",NA,NA
 "3044",NA,NA,"Somewhat or sometimes true",NA,NA
 "3045",NA,NA,"Not true","no","no"
 "3046",NA,NA,"Not true",NA,NA
-"3047",NA,NA,NA,"no","no"
+"3047",NA,NA,NA,"no",NA
 "3048",NA,NA,NA,NA,NA
 "3049","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3050","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
@@ -3063,10 +3063,10 @@
 "3062",NA,NA,NA,NA,NA
 "3063",NA,NA,NA,NA,NA
 "3064",NA,NA,NA,NA,NA
-"3065","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"3065","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "3066",NA,NA,NA,NA,NA
 "3067",NA,NA,"Not true",NA,NA
-"3068",NA,NA,"Somewhat or sometimes true","no","no"
+"3068",NA,NA,"Somewhat or sometimes true","no",NA
 "3069",NA,NA,"Not true",NA,NA
 "3070","Not true","Very true or often true","Not true",NA,NA
 "3071",NA,NA,NA,NA,NA
@@ -3076,7 +3076,7 @@
 "3075",NA,NA,"Not true",NA,NA
 "3076",NA,NA,NA,NA,NA
 "3077",NA,NA,"Not true",NA,NA
-"3078",NA,NA,"Somewhat or sometimes true","yes","yes"
+"3078",NA,NA,"Somewhat or sometimes true","yes",NA
 "3079",NA,NA,NA,NA,NA
 "3080",NA,NA,"Not true",NA,NA
 "3081","Very true or often true","Very true or often true","Not true",NA,NA
@@ -3090,7 +3090,7 @@
 "3089",NA,NA,"Not true",NA,NA
 "3090",NA,NA,"Not true",NA,NA
 "3091",NA,NA,"Not true",NA,NA
-"3092",NA,NA,"Not true","yes","yes"
+"3092",NA,NA,"Not true","yes",NA
 "3093",NA,NA,"Somewhat or sometimes true",NA,NA
 "3094",NA,NA,NA,NA,NA
 "3095",NA,NA,NA,NA,NA
@@ -3107,8 +3107,8 @@
 "3106",NA,NA,NA,NA,NA
 "3107",NA,NA,"Not true",NA,NA
 "3108",NA,NA,"Not true",NA,NA
-"3109",NA,NA,NA,"no","no"
-"3110",NA,NA,"Not true","no","no"
+"3109",NA,NA,NA,"no",NA
+"3110",NA,NA,"Not true","no",NA
 "3111",NA,NA,"Not true",NA,NA
 "3112",NA,NA,"Not true",NA,NA
 "3113",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -3129,7 +3129,7 @@
 "3128",NA,NA,NA,NA,NA
 "3129",NA,NA,NA,NA,NA
 "3130",NA,NA,NA,NA,NA
-"3131",NA,NA,"Not true","no","no"
+"3131",NA,NA,"Not true","no",NA
 "3132",NA,NA,"Not true",NA,NA
 "3133",NA,NA,NA,NA,NA
 "3134",NA,NA,NA,NA,NA
@@ -3139,7 +3139,7 @@
 "3138",NA,NA,NA,NA,NA
 "3139",NA,NA,"Not true",NA,NA
 "3140",NA,NA,NA,NA,NA
-"3141",NA,NA,"Not true","no","no"
+"3141",NA,NA,"Not true","no",NA
 "3142",NA,NA,NA,NA,NA
 "3143",NA,NA,NA,NA,NA
 "3144","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true",NA,NA
@@ -3163,19 +3163,19 @@
 "3162",NA,NA,NA,NA,NA
 "3163",NA,NA,"Not true",NA,NA
 "3164",NA,NA,"Not true",NA,NA
-"3165",NA,NA,"Not true","no","no"
+"3165",NA,NA,"Not true","no",NA
 "3166",NA,NA,"Somewhat or sometimes true",NA,NA
 "3167","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true",NA,NA
 "3168",NA,NA,NA,NA,NA
 "3169",NA,NA,NA,NA,NA
 "3170",NA,NA,"Not true",NA,NA
-"3171",NA,NA,"Not true","no","no"
+"3171",NA,NA,"Not true","no",NA
 "3172","Not true","Very true or often true","Not true",NA,NA
 "3173",NA,NA,NA,NA,NA
 "3174",NA,NA,"Not true",NA,NA
 "3175",NA,NA,NA,NA,NA
-"3176",NA,NA,"Not true","no","no"
-"3177",NA,NA,NA,"yes","yes"
+"3176",NA,NA,"Not true","no",NA
+"3177",NA,NA,NA,"yes",NA
 "3178",NA,NA,NA,NA,NA
 "3179",NA,NA,"Somewhat or sometimes true",NA,NA
 "3180",NA,NA,"Not true",NA,NA
@@ -3192,7 +3192,7 @@
 "3191",NA,NA,"Not true",NA,NA
 "3192",NA,NA,"Not true",NA,NA
 "3193",NA,NA,NA,NA,NA
-"3194",NA,NA,"Not true","yes","yes"
+"3194",NA,NA,"Not true","yes",NA
 "3195",NA,NA,NA,NA,NA
 "3196",NA,NA,"Not true",NA,NA
 "3197",NA,NA,"Not true",NA,NA
@@ -3202,7 +3202,7 @@
 "3201",NA,NA,NA,NA,NA
 "3202",NA,NA,NA,NA,NA
 "3203",NA,NA,NA,NA,NA
-"3204","Very true or often true","Very true or often true","Not true",NA,NA
+"3204","Very true or often true","Very true or often true","Not true",NA,"no"
 "3205",NA,NA,NA,NA,NA
 "3206",NA,NA,"Not true",NA,NA
 "3207",NA,NA,NA,NA,NA
@@ -3215,7 +3215,7 @@
 "3214",NA,NA,"Somewhat or sometimes true",NA,NA
 "3215",NA,NA,NA,NA,NA
 "3216",NA,NA,"Not true",NA,NA
-"3217",NA,NA,"Not true","no","no"
+"3217",NA,NA,"Not true","no",NA
 "3218",NA,NA,"Not true",NA,NA
 "3219","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3220",NA,NA,"Not true",NA,NA
@@ -3224,7 +3224,7 @@
 "3223",NA,NA,NA,NA,NA
 "3224","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "3225",NA,NA,NA,NA,NA
-"3226",NA,NA,NA,"yes","yes"
+"3226",NA,NA,NA,"yes",NA
 "3227",NA,NA,"Not true",NA,NA
 "3228",NA,NA,"Not true",NA,NA
 "3229",NA,NA,"Not true",NA,NA
@@ -3238,11 +3238,11 @@
 "3237",NA,NA,"Not true",NA,NA
 "3238",NA,NA,"Somewhat or sometimes true",NA,NA
 "3239",NA,NA,"Somewhat or sometimes true",NA,NA
-"3240",NA,NA,"Not true",NA,NA
+"3240",NA,NA,"Not true",NA,"no"
 "3241",NA,NA,NA,NA,NA
 "3242",NA,NA,NA,NA,NA
 "3243",NA,NA,"Not true",NA,NA
-"3244","Not true","Very true or often true","Not true","no","no"
+"3244","Not true","Very true or often true","Not true","no",NA
 "3245",NA,NA,NA,NA,NA
 "3246",NA,NA,NA,NA,NA
 "3247",NA,NA,"Not true",NA,NA
@@ -3255,7 +3255,7 @@
 "3254",NA,NA,"Not true",NA,NA
 "3255",NA,NA,NA,NA,NA
 "3256",NA,NA,"Not true",NA,NA
-"3257",NA,NA,NA,NA,NA
+"3257",NA,NA,NA,NA,"no"
 "3258",NA,NA,NA,NA,NA
 "3259",NA,NA,"Not true",NA,NA
 "3260",NA,NA,"Not true",NA,NA
@@ -3266,7 +3266,7 @@
 "3265",NA,NA,NA,"no","no"
 "3266",NA,NA,"Not true",NA,NA
 "3267",NA,NA,NA,NA,NA
-"3268",NA,NA,"Not true","no","no"
+"3268",NA,NA,"Not true","no",NA
 "3269",NA,NA,"Not true",NA,NA
 "3270",NA,NA,"Not true",NA,NA
 "3271",NA,NA,NA,NA,NA
@@ -3284,13 +3284,13 @@
 "3283",NA,NA,"Very true or often true",NA,NA
 "3284",NA,NA,NA,NA,NA
 "3285",NA,NA,"Somewhat or sometimes true",NA,NA
-"3286","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
+"3286","Somewhat or sometimes true","Very true or often true","Not true",NA,"yes"
 "3287",NA,NA,NA,NA,NA
 "3288",NA,NA,"Not true",NA,NA
-"3289",NA,NA,"Not true",NA,NA
+"3289",NA,NA,"Not true",NA,"no"
 "3290","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "3291",NA,NA,"Somewhat or sometimes true",NA,NA
-"3292",NA,NA,"Not true","no","no"
+"3292",NA,NA,"Not true","no",NA
 "3293",NA,NA,NA,NA,NA
 "3294",NA,NA,"Very true or often true",NA,NA
 "3295",NA,NA,"Not true",NA,NA
@@ -3335,7 +3335,7 @@
 "3334",NA,NA,NA,NA,NA
 "3335",NA,NA,"Not true",NA,NA
 "3336",NA,NA,"Not true",NA,NA
-"3337",NA,NA,"Somewhat or sometimes true","yes","yes"
+"3337",NA,NA,"Somewhat or sometimes true","yes",NA
 "3338",NA,NA,"Somewhat or sometimes true",NA,NA
 "3339",NA,NA,"Not true",NA,NA
 "3340",NA,NA,"Not true",NA,NA
@@ -3343,14 +3343,14 @@
 "3342",NA,NA,"Not true",NA,NA
 "3343",NA,NA,NA,NA,NA
 "3344",NA,NA,NA,NA,NA
-"3345",NA,NA,"Not true",NA,NA
+"3345",NA,NA,"Not true",NA,"yes"
 "3346",NA,NA,"Not true",NA,NA
-"3347","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
+"3347","Somewhat or sometimes true","Very true or often true","Not true",NA,"no"
 "3348",NA,NA,"Not true",NA,NA
 "3349",NA,NA,"Somewhat or sometimes true",NA,NA
 "3350",NA,NA,"Not true",NA,NA
 "3351",NA,NA,"Not true",NA,NA
-"3352",NA,NA,"Not true","yes","yes"
+"3352",NA,NA,"Not true","yes",NA
 "3353",NA,NA,NA,NA,NA
 "3354",NA,NA,"Not true",NA,NA
 "3355",NA,NA,NA,NA,NA
@@ -3377,7 +3377,7 @@
 "3376",NA,NA,"Somewhat or sometimes true",NA,NA
 "3377",NA,NA,"Very true or often true",NA,NA
 "3378",NA,NA,NA,NA,NA
-"3379",NA,NA,"Somewhat or sometimes true",NA,NA
+"3379",NA,NA,"Somewhat or sometimes true",NA,"no"
 "3380",NA,NA,"Not true",NA,NA
 "3381",NA,NA,NA,NA,NA
 "3382",NA,NA,"Not true",NA,NA
@@ -3396,7 +3396,7 @@
 "3395",NA,NA,NA,NA,NA
 "3396",NA,NA,"Not true",NA,NA
 "3397",NA,NA,"Not true",NA,NA
-"3398",NA,NA,"Not true","yes","yes"
+"3398",NA,NA,"Not true","yes","no"
 "3399",NA,NA,"Not true",NA,NA
 "3400",NA,NA,NA,NA,NA
 "3401",NA,NA,"Not true",NA,NA
@@ -3424,16 +3424,16 @@
 "3423",NA,NA,"Not true",NA,NA
 "3424","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "3425",NA,NA,"Not true",NA,NA
-"3426",NA,NA,"Not true","yes","yes"
+"3426",NA,NA,"Not true","yes",NA
 "3427",NA,NA,"Not true",NA,NA
 "3428",NA,NA,NA,NA,NA
-"3429",NA,NA,"Somewhat or sometimes true",NA,NA
-"3430",NA,NA,"Not true",NA,NA
+"3429",NA,NA,"Somewhat or sometimes true",NA,"no"
+"3430",NA,NA,"Not true",NA,"no"
 "3431",NA,NA,"Not true",NA,NA
 "3432",NA,NA,NA,NA,NA
-"3433",NA,NA,"Somewhat or sometimes true","no","no"
+"3433",NA,NA,"Somewhat or sometimes true","no",NA
 "3434",NA,NA,NA,NA,NA
-"3435",NA,NA,"Not true","no","no"
+"3435",NA,NA,"Not true","no",NA
 "3436",NA,NA,"Somewhat or sometimes true",NA,NA
 "3437",NA,NA,"Somewhat or sometimes true",NA,NA
 "3438",NA,NA,"Not true",NA,NA
@@ -3446,13 +3446,13 @@
 "3445",NA,NA,"Somewhat or sometimes true",NA,NA
 "3446",NA,NA,"Very true or often true",NA,NA
 "3447","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"3448",NA,NA,NA,"yes","yes"
+"3448",NA,NA,NA,"yes",NA
 "3449",NA,NA,"Not true",NA,NA
 "3450","Very true or often true","Very true or often true","Not true",NA,NA
-"3451","Very true or often true","Very true or often true","Not true","no","no"
+"3451","Very true or often true","Very true or often true","Not true","no",NA
 "3452",NA,NA,NA,NA,NA
 "3453",NA,NA,"Not true",NA,NA
-"3454",NA,NA,"Very true or often true","no","no"
+"3454",NA,NA,"Very true or often true","no",NA
 "3455",NA,NA,"Not true",NA,NA
 "3456",NA,NA,"Not true",NA,NA
 "3457",NA,NA,"Not true",NA,NA
@@ -3468,11 +3468,11 @@
 "3467",NA,NA,NA,NA,NA
 "3468",NA,NA,"Not true",NA,NA
 "3469",NA,NA,NA,NA,NA
-"3470",NA,NA,NA,"no","no"
+"3470",NA,NA,NA,"no",NA
 "3471",NA,NA,"Not true",NA,NA
 "3472",NA,NA,"Somewhat or sometimes true",NA,NA
 "3473",NA,NA,NA,NA,NA
-"3474",NA,NA,"Somewhat or sometimes true","no","no"
+"3474",NA,NA,"Somewhat or sometimes true","no",NA
 "3475",NA,NA,"Not true",NA,NA
 "3476",NA,NA,"Not true",NA,NA
 "3477",NA,NA,"Not true",NA,NA
@@ -3489,7 +3489,7 @@
 "3488",NA,NA,NA,NA,NA
 "3489","Very true or often true","Very true or often true","Not true",NA,NA
 "3490",NA,NA,"Not true",NA,NA
-"3491",NA,NA,"Not true",NA,NA
+"3491",NA,NA,"Not true",NA,"no"
 "3492",NA,NA,NA,NA,NA
 "3493",NA,NA,"Somewhat or sometimes true",NA,NA
 "3494",NA,NA,"Not true",NA,NA
@@ -3498,10 +3498,10 @@
 "3497",NA,NA,NA,NA,NA
 "3498",NA,NA,"Not true",NA,NA
 "3499",NA,NA,NA,NA,NA
-"3500",NA,NA,"Not true","yes","yes"
+"3500",NA,NA,"Not true","yes",NA
 "3501","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "3502","Not true","Very true or often true","Not true",NA,NA
-"3503",NA,NA,"Not true","yes","yes"
+"3503",NA,NA,"Not true","yes","no"
 "3504",NA,NA,"Not true",NA,NA
 "3505",NA,NA,"Not true",NA,NA
 "3506",NA,NA,"Not true",NA,NA
@@ -3513,7 +3513,7 @@
 "3512",NA,NA,NA,NA,NA
 "3513","Very true or often true","Very true or often true","Not true",NA,NA
 "3514",NA,NA,"Somewhat or sometimes true",NA,NA
-"3515",NA,NA,"Not true","no","no"
+"3515",NA,NA,"Not true","no",NA
 "3516",NA,NA,"Not true",NA,NA
 "3517",NA,NA,"Not true",NA,NA
 "3518",NA,NA,"Not true",NA,NA
@@ -3534,7 +3534,7 @@
 "3533",NA,NA,NA,NA,NA
 "3534",NA,NA,NA,NA,NA
 "3535",NA,NA,"Not true",NA,NA
-"3536",NA,NA,NA,"yes","yes"
+"3536",NA,NA,NA,"yes",NA
 "3537",NA,NA,"Not true",NA,NA
 "3538",NA,NA,NA,NA,NA
 "3539",NA,NA,"Not true",NA,NA
@@ -3544,7 +3544,7 @@
 "3543",NA,NA,"Not true",NA,NA
 "3544",NA,NA,"Not true",NA,NA
 "3545",NA,NA,"Not true",NA,NA
-"3546","Somewhat or sometimes true","Very true or often true","Not true","yes","yes"
+"3546","Somewhat or sometimes true","Very true or often true","Not true","yes",NA
 "3547",NA,NA,"Very true or often true",NA,NA
 "3548",NA,NA,"Not true",NA,NA
 "3549",NA,NA,"Not true",NA,NA
@@ -3563,12 +3563,12 @@
 "3562",NA,NA,"Not true",NA,NA
 "3563",NA,NA,"Not true",NA,NA
 "3564",NA,NA,"Not true",NA,NA
-"3565",NA,NA,"Somewhat or sometimes true","no","no"
+"3565",NA,NA,"Somewhat or sometimes true","no",NA
 "3566",NA,NA,NA,NA,NA
-"3567",NA,NA,"Somewhat or sometimes true",NA,NA
+"3567",NA,NA,"Somewhat or sometimes true",NA,"no"
 "3568",NA,NA,"Not true",NA,NA
-"3569",NA,NA,NA,"no","no"
-"3570",NA,NA,"Not true","no","no"
+"3569",NA,NA,NA,"no",NA
+"3570",NA,NA,"Not true","no",NA
 "3571",NA,NA,"Not true",NA,NA
 "3572",NA,NA,"Somewhat or sometimes true",NA,NA
 "3573",NA,NA,NA,NA,NA
@@ -3580,7 +3580,7 @@
 "3579",NA,NA,"Somewhat or sometimes true",NA,NA
 "3580",NA,NA,NA,NA,NA
 "3581",NA,NA,"Not true",NA,NA
-"3582",NA,NA,"Not true","no","no"
+"3582",NA,NA,"Not true","no",NA
 "3583",NA,NA,"Not true",NA,NA
 "3584",NA,NA,"Not true",NA,NA
 "3585","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
@@ -3600,10 +3600,10 @@
 "3599",NA,NA,"Not true",NA,NA
 "3600",NA,NA,"Not true",NA,NA
 "3601",NA,NA,NA,NA,NA
-"3602",NA,NA,"Not true","no","no"
+"3602",NA,NA,"Not true","no",NA
 "3603",NA,NA,"Not true",NA,NA
 "3604",NA,NA,NA,NA,NA
-"3605",NA,NA,NA,"no","no"
+"3605",NA,NA,NA,"no",NA
 "3606",NA,NA,"Not true",NA,NA
 "3607",NA,NA,"Not true",NA,NA
 "3608",NA,NA,NA,NA,NA
@@ -3612,7 +3612,7 @@
 "3611",NA,NA,"Not true",NA,NA
 "3612",NA,NA,"Not true",NA,NA
 "3613",NA,NA,NA,NA,NA
-"3614",NA,NA,"Not true","no","no"
+"3614",NA,NA,"Not true","no",NA
 "3615",NA,NA,NA,NA,NA
 "3616",NA,NA,"Not true",NA,NA
 "3617",NA,NA,NA,NA,NA
@@ -3627,7 +3627,7 @@
 "3626",NA,NA,"Somewhat or sometimes true",NA,NA
 "3627",NA,NA,"Somewhat or sometimes true",NA,NA
 "3628",NA,NA,NA,NA,NA
-"3629",NA,NA,"Somewhat or sometimes true","no","no"
+"3629",NA,NA,"Somewhat or sometimes true","no",NA
 "3630",NA,NA,NA,NA,NA
 "3631",NA,NA,"Not true",NA,NA
 "3632",NA,NA,NA,NA,NA
@@ -3642,7 +3642,7 @@
 "3641",NA,NA,NA,NA,NA
 "3642",NA,NA,"Somewhat or sometimes true",NA,NA
 "3643",NA,NA,"Somewhat or sometimes true",NA,NA
-"3644",NA,NA,"Not true",NA,NA
+"3644",NA,NA,"Not true",NA,"no"
 "3645",NA,NA,"Not true",NA,NA
 "3646",NA,NA,"Not true",NA,NA
 "3647",NA,NA,"Not true",NA,NA
@@ -3670,21 +3670,21 @@
 "3669",NA,NA,"Not true",NA,NA
 "3670",NA,NA,NA,NA,NA
 "3671",NA,NA,"Somewhat or sometimes true",NA,NA
-"3672",NA,NA,"Not true","no","no"
+"3672",NA,NA,"Not true","no",NA
 "3673","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3674","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true",NA,NA
 "3675",NA,NA,NA,NA,NA
 "3676",NA,NA,NA,NA,NA
-"3677",NA,NA,"Not true","no","no"
+"3677",NA,NA,"Not true","no",NA
 "3678",NA,NA,"Not true",NA,NA
 "3679",NA,NA,NA,NA,NA
-"3680",NA,NA,NA,"no","no"
+"3680",NA,NA,NA,"no",NA
 "3681",NA,NA,"Somewhat or sometimes true",NA,NA
 "3682","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3683",NA,NA,"Not true",NA,NA
 "3684",NA,NA,NA,NA,NA
 "3685",NA,NA,"Somewhat or sometimes true",NA,NA
-"3686",NA,NA,"Not true","no","no"
+"3686",NA,NA,"Not true","no",NA
 "3687",NA,NA,"Not true",NA,NA
 "3688",NA,NA,"Not true",NA,NA
 "3689",NA,NA,"Not true",NA,NA
@@ -3692,25 +3692,25 @@
 "3691",NA,NA,"Not true",NA,NA
 "3692","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "3693",NA,NA,NA,NA,NA
-"3694",NA,NA,"Not true","yes","yes"
+"3694",NA,NA,"Not true","yes",NA
 "3695",NA,NA,NA,NA,NA
 "3696",NA,NA,NA,NA,NA
 "3697",NA,NA,"Not true",NA,NA
 "3698",NA,NA,NA,NA,NA
-"3699",NA,NA,"Not true","yes","yes"
+"3699",NA,NA,"Not true","yes",NA
 "3700","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3701",NA,NA,"Not true",NA,NA
 "3702",NA,NA,"Not true",NA,NA
 "3703",NA,NA,NA,NA,NA
 "3704",NA,NA,"Not true",NA,NA
 "3705",NA,NA,"Not true",NA,NA
-"3706",NA,NA,NA,NA,NA
+"3706",NA,NA,NA,NA,"no"
 "3707","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3708","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3709",NA,NA,"Somewhat or sometimes true",NA,NA
 "3710",NA,NA,"Not true",NA,NA
-"3711",NA,NA,"Not true","yes","yes"
-"3712",NA,NA,"Not true","no","no"
+"3711",NA,NA,"Not true","yes",NA
+"3712",NA,NA,"Not true","no",NA
 "3713",NA,NA,"Very true or often true",NA,NA
 "3714",NA,NA,"Not true",NA,NA
 "3715",NA,NA,"Not true",NA,NA
@@ -3729,7 +3729,7 @@
 "3728",NA,NA,NA,NA,NA
 "3729",NA,NA,NA,NA,NA
 "3730","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"3731",NA,NA,"Somewhat or sometimes true","yes","yes"
+"3731",NA,NA,"Somewhat or sometimes true","yes",NA
 "3732",NA,NA,"Not true",NA,NA
 "3733",NA,NA,NA,NA,NA
 "3734",NA,NA,"Not true",NA,NA
@@ -3741,7 +3741,7 @@
 "3740",NA,NA,"Not true",NA,NA
 "3741",NA,NA,"Not true",NA,NA
 "3742",NA,NA,"Not true",NA,NA
-"3743",NA,NA,NA,"no","no"
+"3743",NA,NA,NA,"no",NA
 "3744",NA,NA,"Very true or often true",NA,NA
 "3745",NA,NA,"Not true",NA,NA
 "3746",NA,NA,NA,NA,NA
@@ -3756,7 +3756,7 @@
 "3755",NA,NA,NA,NA,NA
 "3756",NA,NA,"Somewhat or sometimes true",NA,NA
 "3757",NA,NA,"Not true",NA,NA
-"3758","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
+"3758","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,"no"
 "3759",NA,NA,"Not true",NA,NA
 "3760",NA,NA,"Not true",NA,NA
 "3761",NA,NA,"Not true",NA,NA
@@ -3798,7 +3798,7 @@
 "3797",NA,NA,"Somewhat or sometimes true",NA,NA
 "3798",NA,NA,"Not true",NA,NA
 "3799",NA,NA,NA,NA,NA
-"3800",NA,NA,"Somewhat or sometimes true","no","no"
+"3800",NA,NA,"Somewhat or sometimes true","no",NA
 "3801",NA,NA,NA,NA,NA
 "3802",NA,NA,"Not true",NA,NA
 "3803",NA,NA,"Not true",NA,NA
@@ -3819,7 +3819,7 @@
 "3818",NA,NA,NA,NA,NA
 "3819",NA,NA,"Not true",NA,NA
 "3820",NA,NA,"Not true",NA,NA
-"3821",NA,NA,NA,NA,NA
+"3821",NA,NA,NA,NA,"no"
 "3822",NA,NA,NA,NA,NA
 "3823",NA,NA,"Not true",NA,NA
 "3824",NA,NA,NA,NA,NA
@@ -3834,17 +3834,17 @@
 "3833",NA,NA,NA,NA,NA
 "3834",NA,NA,"Somewhat or sometimes true",NA,NA
 "3835","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"3836",NA,NA,"Somewhat or sometimes true","no","no"
+"3836",NA,NA,"Somewhat or sometimes true","no",NA
 "3837",NA,NA,NA,NA,NA
 "3838",NA,NA,NA,NA,NA
 "3839",NA,NA,"Somewhat or sometimes true",NA,NA
 "3840",NA,NA,"Somewhat or sometimes true",NA,NA
 "3841",NA,NA,NA,NA,NA
 "3842","Not true","Very true or often true","Somewhat or sometimes true",NA,NA
-"3843",NA,NA,"Not true","no","no"
-"3844",NA,NA,NA,NA,NA
+"3843",NA,NA,"Not true","no",NA
+"3844",NA,NA,NA,NA,"no"
 "3845",NA,NA,NA,NA,NA
-"3846",NA,NA,"Not true",NA,NA
+"3846",NA,NA,"Not true",NA,"no"
 "3847",NA,NA,NA,NA,NA
 "3848",NA,NA,"Not true",NA,NA
 "3849",NA,NA,NA,NA,NA
@@ -3882,7 +3882,7 @@
 "3881",NA,NA,"Not true",NA,NA
 "3882",NA,NA,"Not true",NA,NA
 "3883",NA,NA,NA,NA,NA
-"3884",NA,NA,"Not true","no","no"
+"3884",NA,NA,"Not true","no",NA
 "3885",NA,NA,"Not true",NA,NA
 "3886",NA,NA,NA,NA,NA
 "3887",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -3920,27 +3920,27 @@
 "3919",NA,NA,NA,NA,NA
 "3920",NA,NA,"Not true",NA,NA
 "3921",NA,NA,"Not true",NA,NA
-"3922",NA,NA,"Not true","no","no"
+"3922",NA,NA,"Not true","no",NA
 "3923",NA,NA,"Not true",NA,NA
 "3924",NA,NA,NA,NA,NA
 "3925",NA,NA,"Not true",NA,NA
-"3926",NA,NA,NA,NA,NA
+"3926",NA,NA,NA,NA,"no"
 "3927",NA,NA,"Not true",NA,NA
-"3928",NA,NA,"Not true","no","no"
+"3928",NA,NA,"Not true","no",NA
 "3929",NA,NA,"Not true",NA,NA
 "3930",NA,NA,"Not true",NA,NA
 "3931",NA,NA,"Not true",NA,NA
 "3932",NA,NA,"Not true",NA,NA
 "3933",NA,NA,"Very true or often true",NA,NA
 "3934",NA,NA,NA,NA,NA
-"3935",NA,NA,"Not true","no","no"
+"3935",NA,NA,"Not true","no",NA
 "3936",NA,NA,NA,NA,NA
-"3937",NA,NA,NA,NA,NA
+"3937",NA,NA,NA,NA,"yes"
 "3938",NA,NA,NA,NA,NA
 "3939","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3940",NA,NA,NA,NA,NA
-"3941",NA,NA,"Not true","no","no"
-"3942",NA,NA,"Not true",NA,NA
+"3941",NA,NA,"Not true","no",NA
+"3942",NA,NA,"Not true",NA,"yes"
 "3943",NA,NA,NA,NA,NA
 "3944",NA,NA,"Somewhat or sometimes true",NA,NA
 "3945",NA,NA,"Not true",NA,NA
@@ -3956,26 +3956,26 @@
 "3955",NA,NA,"Somewhat or sometimes true",NA,NA
 "3956",NA,NA,NA,NA,NA
 "3957","Not true","Very true or often true","Not true",NA,NA
-"3958",NA,NA,"Not true",NA,NA
+"3958",NA,NA,"Not true",NA,"no"
 "3959",NA,NA,"Not true",NA,NA
-"3960",NA,NA,"Not true","yes","yes"
+"3960",NA,NA,"Not true","yes",NA
 "3961","Very true or often true","Very true or often true","Not true",NA,NA
 "3962",NA,NA,"Not true",NA,NA
 "3963",NA,NA,"Not true",NA,NA
 "3964",NA,NA,"Not true",NA,NA
 "3965",NA,NA,NA,NA,NA
 "3966",NA,NA,"Not true",NA,NA
-"3967",NA,NA,NA,"yes","yes"
-"3968",NA,NA,"Not true","no","no"
+"3967",NA,NA,NA,"yes",NA
+"3968",NA,NA,"Not true","no",NA
 "3969",NA,NA,NA,NA,NA
 "3970",NA,NA,"Not true",NA,NA
 "3971",NA,NA,"Not true",NA,NA
 "3972",NA,NA,NA,NA,NA
 "3973","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "3974",NA,NA,"Somewhat or sometimes true",NA,NA
-"3975",NA,NA,"Somewhat or sometimes true","no","no"
+"3975",NA,NA,"Somewhat or sometimes true","no",NA
 "3976",NA,NA,NA,NA,NA
-"3977",NA,NA,"Not true","yes","yes"
+"3977",NA,NA,"Not true","yes",NA
 "3978","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "3979",NA,NA,"Not true",NA,NA
 "3980",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -3994,7 +3994,7 @@
 "3993",NA,NA,NA,NA,NA
 "3994","Somewhat or sometimes true","Very true or often true",NA,NA,NA
 "3995",NA,NA,"Not true",NA,NA
-"3996",NA,NA,"Not true","no","no"
+"3996",NA,NA,"Not true","no",NA
 "3997",NA,NA,"Not true",NA,NA
 "3998",NA,NA,"Not true",NA,NA
 "3999","Very true or often true","Very true or often true","Not true",NA,NA
@@ -4028,7 +4028,7 @@
 "4027",NA,NA,"Not true",NA,NA
 "4028",NA,NA,"Not true",NA,NA
 "4029",NA,NA,NA,NA,NA
-"4030",NA,NA,"Not true","yes","yes"
+"4030",NA,NA,"Not true","yes",NA
 "4031",NA,NA,"Not true",NA,NA
 "4032",NA,NA,"Not true",NA,NA
 "4033",NA,NA,"Not true",NA,NA
@@ -4053,7 +4053,7 @@
 "4052",NA,NA,"Not true",NA,NA
 "4053",NA,NA,"Not true",NA,NA
 "4054",NA,NA,NA,NA,NA
-"4055",NA,NA,"Not true","no","no"
+"4055",NA,NA,"Not true","no",NA
 "4056",NA,NA,NA,NA,NA
 "4057",NA,NA,"Not true",NA,NA
 "4058",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -4065,7 +4065,7 @@
 "4064",NA,NA,NA,NA,NA
 "4065",NA,NA,NA,NA,NA
 "4066",NA,NA,"Not true",NA,NA
-"4067",NA,NA,NA,"no","no"
+"4067",NA,NA,NA,"no",NA
 "4068",NA,NA,"Somewhat or sometimes true",NA,NA
 "4069","Not true","Very true or often true","Not true",NA,NA
 "4070",NA,NA,"Not true",NA,NA
@@ -4077,9 +4077,9 @@
 "4076",NA,NA,NA,NA,NA
 "4077",NA,NA,NA,NA,NA
 "4078",NA,NA,NA,NA,NA
-"4079",NA,NA,"Very true or often true","yes","yes"
-"4080",NA,NA,NA,NA,NA
-"4081",NA,NA,NA,"no","no"
+"4079",NA,NA,"Very true or often true","yes",NA
+"4080",NA,NA,NA,NA,"no"
+"4081",NA,NA,NA,"no",NA
 "4082",NA,NA,NA,NA,NA
 "4083",NA,NA,"Not true",NA,NA
 "4084",NA,NA,NA,NA,NA
@@ -4097,7 +4097,7 @@
 "4096",NA,NA,"Somewhat or sometimes true",NA,NA
 "4097",NA,NA,NA,NA,NA
 "4098",NA,NA,NA,NA,NA
-"4099",NA,NA,"Not true",NA,NA
+"4099",NA,NA,"Not true",NA,"no"
 "4100",NA,NA,"Not true",NA,NA
 "4101","Very true or often true","Very true or often true","Not true",NA,NA
 "4102",NA,NA,"Not true",NA,NA
@@ -4126,7 +4126,7 @@
 "4125",NA,NA,NA,NA,NA
 "4126",NA,NA,NA,NA,NA
 "4127",NA,NA,NA,NA,NA
-"4128",NA,NA,NA,NA,NA
+"4128",NA,NA,NA,NA,"no"
 "4129",NA,NA,"Not true",NA,NA
 "4130",NA,NA,"Somewhat or sometimes true",NA,NA
 "4131",NA,NA,"Not true",NA,NA
@@ -4154,25 +4154,25 @@
 "4153",NA,NA,NA,NA,NA
 "4154",NA,NA,"Not true",NA,NA
 "4155",NA,NA,"Not true",NA,NA
-"4156",NA,NA,"Not true","no","no"
+"4156",NA,NA,"Not true","no",NA
 "4157",NA,NA,"Not true",NA,NA
 "4158",NA,NA,NA,NA,NA
 "4159",NA,NA,"Not true",NA,NA
 "4160","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "4161",NA,NA,NA,NA,NA
 "4162",NA,NA,"Very true or often true",NA,NA
-"4163",NA,NA,"Not true","yes","yes"
-"4164",NA,NA,"Not true","yes","yes"
+"4163",NA,NA,"Not true","yes",NA
+"4164",NA,NA,"Not true","yes",NA
 "4165",NA,NA,NA,NA,NA
-"4166",NA,NA,NA,"yes","yes"
+"4166",NA,NA,NA,"yes",NA
 "4167",NA,NA,NA,NA,NA
 "4168",NA,NA,"Not true",NA,NA
 "4169",NA,NA,"Not true",NA,NA
-"4170",NA,NA,"Not true","no","no"
+"4170",NA,NA,"Not true","no",NA
 "4171",NA,NA,"Not true",NA,NA
 "4172",NA,NA,"Not true",NA,NA
 "4173","Very true or often true","Very true or often true","Not true",NA,NA
-"4174",NA,NA,"Not true","yes","yes"
+"4174",NA,NA,"Not true","yes",NA
 "4175","Not true","Very true or often true","Not true",NA,NA
 "4176",NA,NA,NA,NA,NA
 "4177",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -4219,7 +4219,7 @@
 "4218",NA,NA,NA,NA,NA
 "4219",NA,NA,NA,NA,NA
 "4220",NA,NA,"Not true",NA,NA
-"4221",NA,NA,"Not true","no","no"
+"4221",NA,NA,"Not true","no",NA
 "4222",NA,NA,"Not true",NA,NA
 "4223",NA,NA,"Somewhat or sometimes true",NA,NA
 "4224",NA,NA,NA,NA,NA
@@ -4229,14 +4229,14 @@
 "4228",NA,NA,"Not true",NA,NA
 "4229",NA,NA,"Not true",NA,NA
 "4230",NA,NA,NA,NA,NA
-"4231",NA,NA,"Not true","yes","yes"
-"4232",NA,NA,"Not true",NA,NA
+"4231",NA,NA,"Not true","yes",NA
+"4232",NA,NA,"Not true",NA,"no"
 "4233",NA,NA,NA,NA,NA
 "4234",NA,NA,"Not true",NA,NA
 "4235",NA,NA,"Not true",NA,NA
 "4236",NA,NA,"Not true",NA,NA
 "4237",NA,NA,"Not true",NA,NA
-"4238","Very true or often true","Very true or often true","Not true","no","no"
+"4238","Very true or often true","Very true or often true","Not true","no",NA
 "4239",NA,NA,"Not true",NA,NA
 "4240",NA,NA,"Not true",NA,NA
 "4241",NA,NA,"Very true or often true",NA,NA
@@ -4246,18 +4246,18 @@
 "4245",NA,NA,NA,NA,NA
 "4246",NA,NA,"Not true",NA,NA
 "4247","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"4248",NA,NA,"Not true","no","no"
+"4248",NA,NA,"Not true","no",NA
 "4249",NA,NA,"Not true",NA,NA
 "4250",NA,NA,NA,NA,NA
 "4251",NA,NA,NA,NA,NA
 "4252","Very true or often true","Very true or often true","Somewhat or sometimes true",NA,NA
-"4253",NA,NA,"Somewhat or sometimes true","no","no"
+"4253",NA,NA,"Somewhat or sometimes true","no",NA
 "4254",NA,NA,NA,NA,NA
 "4255",NA,NA,NA,NA,NA
 "4256",NA,NA,NA,NA,NA
 "4257",NA,NA,NA,NA,NA
 "4258",NA,NA,"Not true",NA,NA
-"4259",NA,NA,"Not true","yes","yes"
+"4259",NA,NA,"Not true","yes","no"
 "4260",NA,NA,"Not true",NA,NA
 "4261",NA,NA,"Somewhat or sometimes true",NA,NA
 "4262",NA,NA,"Not true",NA,NA
@@ -4283,7 +4283,7 @@
 "4282",NA,NA,"Not true","no","no"
 "4283",NA,NA,NA,NA,NA
 "4284",NA,NA,NA,NA,NA
-"4285",NA,NA,"Not true","yes","yes"
+"4285",NA,NA,"Not true","yes",NA
 "4286",NA,NA,NA,NA,NA
 "4287","Very true or often true","Very true or often true","Not true",NA,NA
 "4288",NA,NA,"Not true",NA,NA
@@ -4314,11 +4314,11 @@
 "4313",NA,NA,"Not true",NA,NA
 "4314",NA,NA,NA,NA,NA
 "4315",NA,NA,NA,NA,NA
-"4316",NA,NA,"Not true","yes","yes"
+"4316",NA,NA,"Not true","yes",NA
 "4317",NA,NA,"Not true",NA,NA
 "4318",NA,NA,"Not true",NA,NA
 "4319",NA,NA,"Not true",NA,NA
-"4320",NA,NA,"Very true or often true","yes","yes"
+"4320",NA,NA,"Very true or often true","yes",NA
 "4321",NA,NA,NA,NA,NA
 "4322",NA,NA,NA,NA,NA
 "4323",NA,NA,"Not true",NA,NA
@@ -4339,7 +4339,7 @@
 "4338","Very true or often true","Very true or often true","Not true",NA,NA
 "4339",NA,NA,"Not true",NA,NA
 "4340","Not true","Very true or often true","Not true",NA,NA
-"4341",NA,NA,"Very true or often true","no","no"
+"4341",NA,NA,"Very true or often true","no",NA
 "4342","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "4343",NA,NA,NA,NA,NA
 "4344",NA,NA,NA,NA,NA
@@ -4349,7 +4349,7 @@
 "4348",NA,NA,NA,NA,NA
 "4349","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "4350",NA,NA,"Not true",NA,NA
-"4351",NA,NA,"Not true","no","no"
+"4351",NA,NA,"Not true","no",NA
 "4352",NA,NA,NA,NA,NA
 "4353",NA,NA,NA,NA,NA
 "4354",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -4400,9 +4400,9 @@
 "4399",NA,NA,NA,NA,NA
 "4400",NA,NA,NA,NA,NA
 "4401",NA,NA,"Not true",NA,NA
-"4402",NA,NA,NA,"yes","yes"
+"4402",NA,NA,NA,"yes",NA
 "4403",NA,NA,"Not true",NA,NA
-"4404",NA,NA,NA,"no","no"
+"4404",NA,NA,NA,"no",NA
 "4405",NA,NA,"Not true",NA,NA
 "4406",NA,NA,NA,NA,NA
 "4407",NA,NA,"Not true",NA,NA
@@ -4428,7 +4428,7 @@
 "4427",NA,NA,NA,NA,NA
 "4428",NA,NA,"Not true",NA,NA
 "4429",NA,NA,NA,NA,NA
-"4430","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true","no","no"
+"4430","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true","no",NA
 "4431",NA,NA,"Not true",NA,NA
 "4432",NA,NA,NA,NA,NA
 "4433","Not true","Somewhat or sometimes true","Somewhat or sometimes true",NA,NA
@@ -4445,7 +4445,7 @@
 "4444",NA,NA,NA,NA,NA
 "4445",NA,NA,"Not true",NA,NA
 "4446","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"4447","Somewhat or sometimes true","Very true or often true","Not true","no","no"
+"4447","Somewhat or sometimes true","Very true or often true","Not true","no",NA
 "4448",NA,NA,NA,NA,NA
 "4449",NA,NA,NA,NA,NA
 "4450",NA,NA,"Not true",NA,NA
@@ -4454,16 +4454,16 @@
 "4453",NA,NA,"Not true",NA,NA
 "4454",NA,NA,"Not true",NA,NA
 "4455",NA,NA,NA,NA,NA
-"4456",NA,NA,"Not true",NA,NA
+"4456",NA,NA,"Not true",NA,"no"
 "4457",NA,NA,"Not true",NA,NA
 "4458",NA,NA,NA,NA,NA
 "4459",NA,NA,"Not true",NA,NA
 "4460",NA,NA,"Not true",NA,NA
-"4461",NA,NA,NA,"yes","yes"
-"4462","Very true or often true","Very true or often true","Not true","no","no"
+"4461",NA,NA,NA,"yes",NA
+"4462","Very true or often true","Very true or often true","Not true","no",NA
 "4463",NA,NA,"Not true",NA,NA
 "4464",NA,NA,NA,NA,NA
-"4465",NA,NA,"Not true","yes","yes"
+"4465",NA,NA,"Not true","yes",NA
 "4466",NA,NA,"Not true",NA,NA
 "4467",NA,NA,NA,NA,NA
 "4468",NA,NA,"Not true",NA,NA
@@ -4511,13 +4511,13 @@
 "4510",NA,NA,NA,NA,NA
 "4511",NA,NA,NA,NA,NA
 "4512",NA,NA,"Somewhat or sometimes true",NA,NA
-"4513",NA,NA,"Not true",NA,NA
+"4513",NA,NA,"Not true",NA,"no"
 "4514",NA,NA,NA,NA,NA
 "4515",NA,NA,"Not true",NA,NA
 "4516",NA,NA,NA,NA,NA
 "4517",NA,NA,NA,NA,NA
 "4518","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
-"4519",NA,NA,"Not true","no","no"
+"4519",NA,NA,"Not true","no",NA
 "4520",NA,NA,NA,NA,NA
 "4521",NA,NA,"Somewhat or sometimes true",NA,NA
 "4522",NA,NA,NA,NA,NA
@@ -4526,7 +4526,7 @@
 "4525",NA,NA,"Not true",NA,NA
 "4526",NA,NA,NA,NA,NA
 "4527",NA,NA,NA,NA,NA
-"4528",NA,NA,"Not true",NA,NA
+"4528",NA,NA,"Not true",NA,"no"
 "4529","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "4530",NA,NA,"Not true",NA,NA
 "4531",NA,NA,NA,NA,NA
@@ -4570,7 +4570,7 @@
 "4569",NA,NA,"Not true",NA,NA
 "4570","Somewhat or sometimes true","Very true or often true","Somewhat or sometimes true",NA,NA
 "4571",NA,NA,"Not true",NA,NA
-"4572",NA,NA,"Not true",NA,NA
+"4572",NA,NA,"Not true",NA,"no"
 "4573",NA,NA,NA,NA,NA
 "4574",NA,NA,"Not true",NA,NA
 "4575",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -4593,7 +4593,7 @@
 "4592",NA,NA,"Not true",NA,NA
 "4593",NA,NA,NA,NA,NA
 "4594",NA,NA,"Very true or often true",NA,NA
-"4595",NA,NA,NA,"no","no"
+"4595",NA,NA,NA,"no",NA
 "4596",NA,NA,"Not true",NA,NA
 "4597",NA,NA,"Somewhat or sometimes true",NA,NA
 "4598",NA,NA,"Not true",NA,NA
@@ -4605,9 +4605,9 @@
 "4604",NA,NA,"Not true",NA,NA
 "4605","Very true or often true","Very true or often true","Very true or often true",NA,NA
 "4606",NA,NA,NA,NA,NA
-"4607",NA,NA,"Not true",NA,NA
+"4607",NA,NA,"Not true",NA,"no"
 "4608",NA,NA,NA,NA,NA
-"4609",NA,NA,"Not true","no","no"
+"4609",NA,NA,"Not true","no",NA
 "4610",NA,NA,NA,NA,NA
 "4611",NA,NA,"Not true",NA,NA
 "4612",NA,NA,"Not true",NA,NA
@@ -4621,7 +4621,7 @@
 "4620",NA,NA,"Not true",NA,NA
 "4621",NA,NA,"Not true",NA,NA
 "4622","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
-"4623",NA,NA,"Not true","no","no"
+"4623",NA,NA,"Not true","no",NA
 "4624",NA,NA,NA,NA,NA
 "4625",NA,NA,NA,NA,NA
 "4626",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -4633,7 +4633,7 @@
 "4632",NA,NA,"Very true or often true",NA,NA
 "4633",NA,NA,"Somewhat or sometimes true",NA,NA
 "4634",NA,NA,"Not true",NA,NA
-"4635",NA,NA,NA,"no","no"
+"4635",NA,NA,NA,"no",NA
 "4636",NA,NA,"Not true",NA,NA
 "4637",NA,NA,NA,NA,NA
 "4638",NA,NA,"Not true",NA,NA
@@ -4642,7 +4642,7 @@
 "4641",NA,NA,"Not true",NA,NA
 "4642",NA,NA,"Not true",NA,NA
 "4643",NA,NA,"Not true",NA,NA
-"4644",NA,NA,"Not true","no","no"
+"4644",NA,NA,"Not true","no",NA
 "4645",NA,NA,"Not true",NA,NA
 "4646",NA,NA,NA,NA,NA
 "4647",NA,NA,"Not true",NA,NA
@@ -4662,7 +4662,7 @@
 "4661","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "4662",NA,NA,"Somewhat or sometimes true",NA,NA
 "4663",NA,NA,NA,NA,NA
-"4664",NA,NA,NA,NA,NA
+"4664",NA,NA,NA,NA,"yes"
 "4665",NA,NA,NA,NA,NA
 "4666",NA,NA,NA,NA,NA
 "4667",NA,NA,NA,NA,NA
@@ -4715,23 +4715,23 @@
 "4714","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "4715",NA,NA,"Not true",NA,NA
 "4716","Very true or often true","Very true or often true","Not true",NA,NA
-"4717",NA,NA,"Not true",NA,NA
+"4717",NA,NA,"Not true",NA,"no"
 "4718",NA,NA,"Not true",NA,NA
 "4719",NA,NA,"Not true",NA,NA
 "4720","Not true","Very true or often true","Not true",NA,NA
-"4721",NA,NA,"Not true","yes","yes"
+"4721",NA,NA,"Not true","yes",NA
 "4722",NA,NA,NA,NA,NA
 "4723",NA,NA,"Not true",NA,NA
-"4724","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true",NA,NA
+"4724","Somewhat or sometimes true","Somewhat or sometimes true","Somewhat or sometimes true",NA,"no"
 "4725",NA,NA,"Not true",NA,NA
 "4726",NA,NA,"Not true",NA,NA
 "4727",NA,NA,NA,NA,NA
 "4728",NA,NA,"Not true",NA,NA
 "4729",NA,NA,NA,NA,NA
-"4730",NA,NA,NA,"no","no"
+"4730",NA,NA,NA,"no",NA
 "4731","Somewhat or sometimes true","Somewhat or sometimes true","Not true",NA,NA
 "4732",NA,NA,"Not true",NA,NA
-"4733",NA,NA,"Not true","no","no"
+"4733",NA,NA,"Not true","no",NA
 "4734",NA,NA,"Not true",NA,NA
 "4735",NA,NA,NA,NA,NA
 "4736",NA,NA,"Somewhat or sometimes true",NA,NA
@@ -4758,7 +4758,7 @@
 "4757",NA,NA,"Not true",NA,NA
 "4758","Not true","Very true or often true","Somewhat or sometimes true",NA,NA
 "4759",NA,NA,NA,NA,NA
-"4760",NA,NA,"Not true",NA,NA
+"4760",NA,NA,"Not true",NA,"no"
 "4761",NA,NA,NA,NA,NA
 "4762",NA,NA,NA,NA,NA
 "4763",NA,NA,"Not true",NA,NA
@@ -4777,7 +4777,7 @@
 "4776",NA,NA,NA,NA,NA
 "4777",NA,NA,NA,NA,NA
 "4778","Not true","Very true or often true","Not true",NA,NA
-"4779",NA,NA,NA,"no","no"
+"4779",NA,NA,NA,"no",NA
 "4780",NA,NA,"Not true",NA,NA
 "4781",NA,NA,NA,NA,NA
 "4782",NA,NA,NA,NA,NA
@@ -4796,12 +4796,12 @@
 "4795",NA,NA,NA,NA,NA
 "4796",NA,NA,NA,NA,NA
 "4797",NA,NA,"Not true",NA,NA
-"4798",NA,NA,"Not true","no","no"
+"4798",NA,NA,"Not true","no",NA
 "4799",NA,NA,NA,NA,NA
 "4800",NA,NA,NA,NA,NA
 "4801",NA,NA,"Not true",NA,NA
 "4802",NA,NA,"Somewhat or sometimes true",NA,NA
-"4803",NA,NA,"Somewhat or sometimes true","no","no"
+"4803",NA,NA,"Somewhat or sometimes true","no",NA
 "4804",NA,NA,NA,NA,NA
 "4805",NA,NA,NA,NA,NA
 "4806",NA,NA,"Not true",NA,NA
@@ -4830,22 +4830,22 @@
 "4829",NA,NA,"Not true",NA,NA
 "4830",NA,NA,NA,NA,NA
 "4831",NA,NA,"Not true",NA,NA
-"4832","Very true or often true","Very true or often true","Very true or often true","no","no"
+"4832","Very true or often true","Very true or often true","Very true or often true","no",NA
 "4833",NA,NA,"Not true",NA,NA
 "4834",NA,NA,"Not true",NA,NA
 "4835",NA,NA,NA,NA,NA
-"4836",NA,NA,"Not true","no","no"
-"4837",NA,NA,"Not true","yes","yes"
+"4836",NA,NA,"Not true","no",NA
+"4837",NA,NA,"Not true","yes",NA
 "4838",NA,NA,"Somewhat or sometimes true",NA,NA
 "4839","Very true or often true","Very true or often true","Not true",NA,NA
-"4840",NA,NA,"Not true",NA,NA
+"4840",NA,NA,"Not true",NA,"no"
 "4841",NA,NA,"Somewhat or sometimes true",NA,NA
 "4842",NA,NA,"Not true",NA,NA
 "4843",NA,NA,NA,NA,NA
-"4844",NA,NA,"Somewhat or sometimes true","no","no"
+"4844",NA,NA,"Somewhat or sometimes true","no",NA
 "4845",NA,NA,"Not true",NA,NA
 "4846",NA,NA,NA,NA,NA
-"4847",NA,NA,NA,"no","no"
+"4847",NA,NA,NA,"no",NA
 "4848",NA,NA,"Not true",NA,NA
 "4849","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
 "4850",NA,NA,NA,NA,NA
@@ -4861,11 +4861,11 @@
 "4860",NA,NA,NA,NA,NA
 "4861",NA,NA,"Not true",NA,NA
 "4862",NA,NA,NA,NA,NA
-"4863","Somewhat or sometimes true","Very true or often true","Not true",NA,NA
+"4863","Somewhat or sometimes true","Very true or often true","Not true",NA,"no"
 "4864",NA,NA,"Somewhat or sometimes true",NA,NA
 "4865",NA,NA,"Not true",NA,NA
 "4866",NA,NA,"Not true",NA,NA
-"4867",NA,NA,"Somewhat or sometimes true","yes","yes"
+"4867",NA,NA,"Somewhat or sometimes true","yes",NA
 "4868",NA,NA,"Not true",NA,NA
 "4869",NA,NA,NA,NA,NA
 "4870",NA,NA,NA,NA,NA
@@ -4875,7 +4875,7 @@
 "4874",NA,NA,NA,NA,NA
 "4875",NA,NA,NA,NA,NA
 "4876",NA,NA,NA,NA,NA
-"4877",NA,NA,"Not true","yes","yes"
+"4877",NA,NA,"Not true","yes",NA
 "4878",NA,NA,NA,NA,NA
 "4879",NA,NA,NA,NA,NA
 "4880",NA,NA,"Not true",NA,NA
@@ -4894,6 +4894,6 @@
 "4893",NA,NA,NA,NA,NA
 "4894",NA,NA,"Not true",NA,NA
 "4895",NA,NA,"Not true",NA,NA
-"4896",NA,NA,"Not true","no","no"
+"4896",NA,NA,"Not true","no",NA
 "4897",NA,NA,"Not true",NA,NA
 "4898",NA,NA,"Not true",NA,NA
