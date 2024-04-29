@@ -1,3 +1,7 @@
+library(haven)
+library(tidyr)
+library(dplyr)
+
 w4_df <- read_dta("data/raw/wave4/FF_wave4_2020v2.dta")
 w4_ftrs <- c("idnum","f4b19","m4b19")
 w4_df <- w4_df[,w4_ftrs]
@@ -16,3 +20,6 @@ def_quit <- function(quit){
 
 w4_df["f_quit_w4"] <- w4_df$f4b19 %>% sapply(def_quit)
 w4_df["m_quit_w4"] <- w4_df$m4b19 %>% sapply(def_quit)
+w4_df <- w4_df[,c("idnum","f_quit_w4","m_quit_w4")]
+
+write.csv(w4_df, "data/preprocessed/wave4_ftrs.csv", row.names=FALSE)

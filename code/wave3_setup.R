@@ -1,3 +1,7 @@
+library(haven)
+library(tidyr)
+library(dplyr)
+
 w3_df <- read_dta("data/raw/wave3/FF_wave3_2020v2.dta")
 w3_ftrs <- c("idnum","f3i30","m3i30", "p3m12_x", "p3m15_x", "p3m36")
 w3_df <- w3_df[,w3_ftrs]
@@ -30,3 +34,8 @@ w3_df[cols] <- lapply(w3_df[cols], def_child_beh)
 colnames(w3_df)[colnames(w3_df) == 'p3m12_x'] <- 'c_neat_work_w3'
 colnames(w3_df)[colnames(w3_df) == 'p3m15_x'] <- 'c_curious_w3'
 colnames(w3_df)[colnames(w3_df) == 'p3m36'] <- 'c_interest_w3'
+
+w3_df <- w3_df[,c("idnum","c_neat_work_w3","c_curious_w3","c_interest_w3",
+                  "f_youth_cor_w3","f_youth_cor_w3")]
+
+write.csv(w3_df, "data/preprocessed/wave3_ftrs.csv", row.names=FALSE)
