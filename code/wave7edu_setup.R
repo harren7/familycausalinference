@@ -16,8 +16,8 @@ def_edu_level <- function(edustate){
   else if (edustate == 13){
     return ("Completed high school")
   }
-  else if (edustate <= 15 || edustate <= 102){
-    return ("Attended some college, certification program, or trade school")
+  else if (edustate <= 15 || (edustate <= 102) && (edustate >= 101)){
+    return ("Attended some college")
   }
   else {
     return ("Completed college")

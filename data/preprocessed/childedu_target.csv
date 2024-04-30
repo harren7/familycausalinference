@@ -1,9 +1,9 @@
 "idnum","child_edu_level"
-"0001","Attended some college, certification program, or trade school"
-"0002","Attended some college, certification program, or trade school"
+"0001","Attended some college"
+"0002","Attended some college"
 "0003","Completed high school"
 "0004","Completed high school"
-"0005","Attended some college, certification program, or trade school"
+"0005","Attended some college"
 "0006","Completed high school"
 "0007","Completed high school"
 "0008","Did not complete high school"
@@ -11,18 +11,18 @@
 "0010","Completed high school"
 "0011","Completed high school"
 "0012","Completed high school"
-"0013","Attended some college, certification program, or trade school"
+"0013","Attended some college"
 "0014",NA
 "0015","Completed high school"
-"0016","Attended some college, certification program, or trade school"
+"0016","Completed college"
 "0017",NA
 "0018",NA
 "0019","Completed high school"
 "0020",NA
 "0021","Completed high school"
-"0022","Attended some college, certification program, or trade school"
+"0022","Completed college"
 "0023","Did not complete high school"
-"0024","Attended some college, certification program, or trade school"
+"0024","Completed college"
 "0025",NA
 "0026",NA
 "0027","Completed high school"
@@ -34,7 +34,7 @@
 "0033","Completed high school"
 "0034",NA
 "0035",NA
-"0036","Attended some college, certification program, or trade school"
+"0036","Completed college"
 "0037",NA
 "0038",NA
 "0039",NA
@@ -52,16 +52,16 @@
 "0051",NA
 "0052","Completed high school"
 "0053","Completed high school"
-"0054","Attended some college, certification program, or trade school"
+"0054","Completed college"
 "0055",NA
 "0056","Completed high school"
 "0057","Did not complete high school"
-"0058","Attended some college, certification program, or trade school"
+"0058","Attended some college"
 "0059",NA
 "0060","Completed high school"
-"0061","Attended some college, certification program, or trade school"
+"0061","Attended some college"
 "0062","Completed high school"
-"0063","Attended some college, certification program, or trade school"
+"0063","Attended some college"
 "0064",NA
 "0065",NA
 "0066","Completed high school"
@@ -70,19 +70,19 @@
 "0069",NA
 "0070",NA
 "0071",NA
-"0072","Attended some college, certification program, or trade school"
+"0072","Completed college"
 "0073",NA
-"0074","Attended some college, certification program, or trade school"
+"0074","Completed college"
 "0075",NA
-"0076","Attended some college, certification program, or trade school"
+"0076","Completed college"
 "0077","Completed high school"
 "0078",NA
 "0079",NA
-"0080","Attended some college, certification program, or trade school"
+"0080","Completed college"
 "0081",NA
 "0082",NA
 "0083","Completed high school"
-"0084","Attended some college, certification program, or trade school"
+"0084","Completed college"
 "0085","Completed high school"
 "0086","Completed high school"
 "0087",NA
@@ -99,7 +99,7 @@
 "0098","Completed high school"
 "0099",NA
 "0100",NA
-"0101","Attended some college, certification program, or trade school"
+"0101","Attended some college"
 "0102",NA
 "0103","Completed high school"
 "0104","Completed high school"
@@ -132,22 +132,22 @@
 "0131",NA
 "0132","Did not complete high school"
 "0133","Completed high school"
-"0134","Attended some college, certification program, or trade school"
+"0134","Completed college"
 "0135",NA
 "0136",NA
 "0137",NA
 "0138",NA
 "0139","Completed high school"
 "0140","Completed high school"
-"0141","Attended some college, certification program, or trade school"
+"0141","Completed college"
 "0142","Completed high school"
 "0143","Completed high school"
 "0144",NA
-"0145","Attended some college, certification program, or trade school"
-"0146","Attended some college, certification program, or trade school"
+"0145","Completed college"
+"0146","Attended some college"
 "0147",NA
 "0148",NA
-"0149","Attended some college, certification program, or trade school"
+"0149","Attended some college"
 "0150",NA
 "0151","Completed high school"
 "0152","Completed high school"
@@ -164,7 +164,7 @@
 "0163","Completed high school"
 "0164",NA
 "0165",NA
-"0166","Attended some college, certification program, or trade school"
+"0166","Attended some college"
 "0167","Completed high school"
 "0168",NA
 "0169",NA
@@ -172,19 +172,19 @@
 "0171","Did not complete high school"
 "0172","Completed high school"
 "0173","Completed high school"
-"0174","Attended some college, certification program, or trade school"
+"0174","Attended some college"
 "0175","Completed high school"
 "0176",NA
 "0177",NA
 "0178","Completed high school"
-"0179","Attended some college, certification program, or trade school"
+"0179","Attended some college"
 "0180","Completed high school"
 "0181","Completed high school"
-"0182","Attended some college, certification program, or trade school"
+"0182","Attended some college"
 "0183","Completed high school"
 "0184","Completed high school"
 "0185",NA
-"0186","Attended some college, certification program, or trade school"
+"0186","Completed college"
 "0187",NA
 "0188",NA
 "0189","Did not complete high school"
@@ -196,7 +196,7 @@
 "0195","Completed high school"
 "0196","Completed high school"
 "0197",NA
-"0198","Attended some college, certification program, or trade school"
+"0198","Completed college"
 "0199","Completed high school"
 "0200",NA
 "0201",NA
@@ -207,11 +207,11 @@
 "0206","Completed high school"
 "0207",NA
 "0208",NA
-"0209","Attended some college, certification program, or trade school"
+"0209","Completed college"
 "0210",NA
 "0211","Completed high school"
 "0212",NA
-"0213","Attended some college, certification program, or trade school"
+"0213","Attended some college"
 "0214",NA
 "0215",NA
 "0216",NA
@@ -220,7 +220,7 @@
 "0219","Completed high school"
 "0220","Did not complete high school"
 "0221",NA
-"0222","Attended some college, certification program, or trade school"
+"0222","Completed college"
 "0223",NA
 "0224",NA
 "0225","Completed high school"
@@ -228,18 +228,18 @@
 "0227",NA
 "0228","Completed high school"
 "0229",NA
-"0230","Attended some college, certification program, or trade school"
+"0230","Completed college"
 "0231",NA
 "0232","Completed high school"
 "0233","Completed high school"
 "0234","Completed high school"
 "0235","Completed high school"
 "0236","Completed high school"
-"0237","Attended some college, certification program, or trade school"
+"0237","Attended some college"
 "0238",NA
 "0239",NA
 "0240",NA
-"0241","Attended some college, certification program, or trade school"
+"0241","Completed college"
 "0242","Completed high school"
 "0243","Completed high school"
 "0244","Completed high school"
@@ -247,9 +247,9 @@
 "0246",NA
 "0247",NA
 "0248",NA
-"0249","Attended some college, certification program, or trade school"
-"0250","Attended some college, certification program, or trade school"
-"0251","Attended some college, certification program, or trade school"
+"0249","Attended some college"
+"0250","Completed college"
+"0251","Attended some college"
 "0252",NA
 "0253","Completed high school"
 "0254","Completed high school"
@@ -262,14 +262,14 @@
 "0261","Did not complete high school"
 "0262",NA
 "0263",NA
-"0264","Attended some college, certification program, or trade school"
+"0264","Completed college"
 "0265","Completed high school"
 "0266","Completed high school"
 "0267","Completed high school"
-"0268","Attended some college, certification program, or trade school"
+"0268","Attended some college"
 "0269",NA
 "0270","Completed high school"
-"0271","Attended some college, certification program, or trade school"
+"0271","Completed college"
 "0272",NA
 "0273","Completed high school"
 "0274","Completed high school"
@@ -279,21 +279,21 @@
 "0278","Completed high school"
 "0279",NA
 "0280","Completed high school"
-"0281","Attended some college, certification program, or trade school"
+"0281","Attended some college"
 "0282","Completed high school"
 "0283",NA
 "0284","Completed high school"
-"0285","Attended some college, certification program, or trade school"
+"0285","Completed college"
 "0286",NA
 "0287","Completed high school"
 "0288","Completed high school"
 "0289","Completed high school"
 "0290",NA
-"0291","Attended some college, certification program, or trade school"
+"0291","Completed college"
 "0292","Completed high school"
 "0293",NA
 "0294",NA
-"0295","Attended some college, certification program, or trade school"
+"0295","Completed college"
 "0296",NA
 "0297",NA
 "0298","Completed high school"
@@ -305,36 +305,36 @@
 "0304",NA
 "0305",NA
 "0306","Completed high school"
-"0307","Attended some college, certification program, or trade school"
+"0307","Completed college"
 "0308","Completed high school"
-"0309","Attended some college, certification program, or trade school"
-"0310","Attended some college, certification program, or trade school"
+"0309","Attended some college"
+"0310","Attended some college"
 "0311",NA
 "0312","Completed high school"
 "0313",NA
 "0314",NA
 "0315","Completed high school"
-"0316","Attended some college, certification program, or trade school"
+"0316","Attended some college"
 "0317",NA
 "0318","Completed high school"
 "0319","Completed high school"
-"0320","Attended some college, certification program, or trade school"
-"0321","Attended some college, certification program, or trade school"
+"0320","Attended some college"
+"0321","Completed college"
 "0322","Completed high school"
 "0323","Completed high school"
 "0324","Did not complete high school"
 "0325","Completed high school"
-"0326","Attended some college, certification program, or trade school"
+"0326","Attended some college"
 "0327","Completed high school"
 "0328","Completed high school"
 "0329",NA
 "0330","Completed high school"
 "0331","Completed high school"
 "0332",NA
-"0333","Attended some college, certification program, or trade school"
+"0333","Attended some college"
 "0334","Completed high school"
 "0335",NA
-"0336","Attended some college, certification program, or trade school"
+"0336","Completed college"
 "0337","Completed high school"
 "0338","Completed high school"
 "0339",NA
@@ -346,7 +346,7 @@
 "0345","Completed high school"
 "0346",NA
 "0347",NA
-"0348","Attended some college, certification program, or trade school"
+"0348","Completed college"
 "0349","Completed high school"
 "0350","Completed high school"
 "0351","Completed high school"
@@ -356,15 +356,15 @@
 "0355","Completed high school"
 "0356",NA
 "0357","Completed high school"
-"0358","Attended some college, certification program, or trade school"
+"0358","Completed college"
 "0359",NA
 "0360",NA
 "0361",NA
-"0362","Attended some college, certification program, or trade school"
+"0362","Completed college"
 "0363","Did not complete high school"
 "0364","Did not complete high school"
 "0365","Completed high school"
-"0366","Attended some college, certification program, or trade school"
+"0366","Attended some college"
 "0367","Completed high school"
 "0368","Completed high school"
 "0369",NA
@@ -378,11 +378,11 @@
 "0377","Completed high school"
 "0378",NA
 "0379","Completed high school"
-"0380","Attended some college, certification program, or trade school"
+"0380","Completed college"
 "0381",NA
 "0382","Completed high school"
-"0383","Attended some college, certification program, or trade school"
-"0384","Attended some college, certification program, or trade school"
+"0383","Attended some college"
+"0384","Attended some college"
 "0385","Completed high school"
 "0386","Completed high school"
 "0387","Completed high school"
@@ -391,18 +391,18 @@
 "0390",NA
 "0391","Completed high school"
 "0392","Did not complete high school"
-"0393","Attended some college, certification program, or trade school"
+"0393","Completed college"
 "0394","Did not complete high school"
 "0395",NA
 "0396","Did not complete high school"
 "0397","Completed high school"
 "0398",NA
 "0399",NA
-"0400","Attended some college, certification program, or trade school"
+"0400","Completed college"
 "0401",NA
 "0402","Completed high school"
 "0403","Completed high school"
-"0404","Attended some college, certification program, or trade school"
+"0404","Attended some college"
 "0405","Completed high school"
 "0406","Did not complete high school"
 "0407","Completed high school"
@@ -412,20 +412,20 @@
 "0411",NA
 "0412",NA
 "0413",NA
-"0414","Attended some college, certification program, or trade school"
+"0414","Attended some college"
 "0415",NA
 "0416","Completed high school"
 "0417",NA
 "0418","Did not complete high school"
 "0419","Completed high school"
-"0420","Attended some college, certification program, or trade school"
+"0420","Attended some college"
 "0421","Did not complete high school"
 "0422",NA
 "0423",NA
-"0424","Attended some college, certification program, or trade school"
-"0425","Attended some college, certification program, or trade school"
+"0424","Attended some college"
+"0425","Attended some college"
 "0426",NA
-"0427","Attended some college, certification program, or trade school"
+"0427","Attended some college"
 "0428",NA
 "0429",NA
 "0430",NA
@@ -437,27 +437,27 @@
 "0436","Completed high school"
 "0437",NA
 "0438","Completed high school"
-"0439","Attended some college, certification program, or trade school"
+"0439","Attended some college"
 "0440",NA
-"0441","Attended some college, certification program, or trade school"
-"0442","Attended some college, certification program, or trade school"
-"0443","Attended some college, certification program, or trade school"
+"0441","Attended some college"
+"0442","Completed college"
+"0443","Attended some college"
 "0444",NA
 "0445",NA
-"0446","Attended some college, certification program, or trade school"
+"0446","Completed college"
 "0447",NA
-"0448","Attended some college, certification program, or trade school"
-"0449","Attended some college, certification program, or trade school"
+"0448","Completed college"
+"0449","Attended some college"
 "0450","Did not complete high school"
 "0451","Completed high school"
-"0452","Attended some college, certification program, or trade school"
+"0452","Completed college"
 "0453","Completed high school"
-"0454","Attended some college, certification program, or trade school"
+"0454","Attended some college"
 "0455","Completed high school"
 "0456","Completed high school"
 "0457","Completed high school"
 "0458",NA
-"0459","Attended some college, certification program, or trade school"
+"0459","Completed college"
 "0460","Did not complete high school"
 "0461",NA
 "0462","Completed high school"
@@ -472,35 +472,35 @@
 "0471","Completed high school"
 "0472",NA
 "0473",NA
-"0474","Attended some college, certification program, or trade school"
+"0474","Attended some college"
 "0475","Did not complete high school"
 "0476","Completed high school"
 "0477","Completed high school"
 "0478","Completed high school"
 "0479",NA
 "0480","Completed high school"
-"0481","Attended some college, certification program, or trade school"
-"0482","Attended some college, certification program, or trade school"
+"0481","Completed college"
+"0482","Attended some college"
 "0483",NA
-"0484","Attended some college, certification program, or trade school"
+"0484","Attended some college"
 "0485",NA
-"0486","Attended some college, certification program, or trade school"
-"0487","Attended some college, certification program, or trade school"
+"0486","Attended some college"
+"0487","Attended some college"
 "0488",NA
 "0489",NA
 "0490","Completed high school"
 "0491","Completed high school"
 "0492","Completed high school"
-"0493","Attended some college, certification program, or trade school"
+"0493","Completed college"
 "0494",NA
 "0495","Completed high school"
-"0496","Attended some college, certification program, or trade school"
-"0497","Attended some college, certification program, or trade school"
+"0496","Attended some college"
+"0497","Attended some college"
 "0498","Completed high school"
 "0499",NA
 "0500","Completed high school"
-"0501","Attended some college, certification program, or trade school"
-"0502","Attended some college, certification program, or trade school"
+"0501","Completed college"
+"0502","Attended some college"
 "0503",NA
 "0504","Completed high school"
 "0505",NA
@@ -510,7 +510,7 @@
 "0509","Completed high school"
 "0510","Completed high school"
 "0511",NA
-"0512","Attended some college, certification program, or trade school"
+"0512","Attended some college"
 "0513",NA
 "0514",NA
 "0515",NA
@@ -520,7 +520,7 @@
 "0519","Completed high school"
 "0520","Did not complete high school"
 "0521",NA
-"0522","Attended some college, certification program, or trade school"
+"0522","Attended some college"
 "0523",NA
 "0524","Completed high school"
 "0525","Did not complete high school"
@@ -533,13 +533,13 @@
 "0532","Completed high school"
 "0533","Did not complete high school"
 "0534",NA
-"0535","Attended some college, certification program, or trade school"
+"0535","Attended some college"
 "0536",NA
 "0537",NA
 "0538","Completed high school"
 "0539","Completed high school"
 "0540","Did not complete high school"
-"0541","Attended some college, certification program, or trade school"
+"0541","Completed college"
 "0542",NA
 "0543",NA
 "0544","Completed high school"
@@ -552,10 +552,10 @@
 "0551",NA
 "0552","Did not complete high school"
 "0553",NA
-"0554","Attended some college, certification program, or trade school"
+"0554","Completed college"
 "0555","Completed high school"
 "0556","Completed high school"
-"0557","Attended some college, certification program, or trade school"
+"0557","Attended some college"
 "0558","Completed high school"
 "0559",NA
 "0560","Completed high school"
@@ -566,7 +566,7 @@
 "0565",NA
 "0566",NA
 "0567","Completed high school"
-"0568","Attended some college, certification program, or trade school"
+"0568","Attended some college"
 "0569",NA
 "0570","Completed high school"
 "0571",NA
@@ -579,7 +579,7 @@
 "0578",NA
 "0579","Completed high school"
 "0580",NA
-"0581","Attended some college, certification program, or trade school"
+"0581","Completed college"
 "0582",NA
 "0583",NA
 "0584",NA
@@ -587,14 +587,14 @@
 "0586","Completed high school"
 "0587","Did not complete high school"
 "0588",NA
-"0589","Attended some college, certification program, or trade school"
-"0590","Attended some college, certification program, or trade school"
+"0589","Completed college"
+"0590","Attended some college"
 "0591","Completed high school"
 "0592",NA
 "0593",NA
 "0594","Completed high school"
 "0595",NA
-"0596","Attended some college, certification program, or trade school"
+"0596","Completed college"
 "0597",NA
 "0598","Completed high school"
 "0599","Completed high school"
@@ -639,31 +639,31 @@
 "0638","Completed high school"
 "0639","Completed high school"
 "0640","Completed high school"
-"0641","Attended some college, certification program, or trade school"
+"0641","Attended some college"
 "0642",NA
 "0643","Completed high school"
 "0644",NA
 "0645",NA
-"0646","Attended some college, certification program, or trade school"
+"0646","Attended some college"
 "0647",NA
-"0648","Attended some college, certification program, or trade school"
+"0648","Attended some college"
 "0649","Completed high school"
-"0650","Attended some college, certification program, or trade school"
+"0650","Completed college"
 "0651",NA
-"0652","Attended some college, certification program, or trade school"
-"0653","Attended some college, certification program, or trade school"
+"0652","Attended some college"
+"0653","Attended some college"
 "0654","Completed high school"
 "0655",NA
-"0656","Attended some college, certification program, or trade school"
-"0657","Attended some college, certification program, or trade school"
+"0656","Completed college"
+"0657","Attended some college"
 "0658",NA
-"0659","Attended some college, certification program, or trade school"
+"0659","Completed college"
 "0660",NA
 "0661",NA
 "0662","Completed high school"
 "0663","Completed high school"
 "0664",NA
-"0665","Attended some college, certification program, or trade school"
+"0665","Completed college"
 "0666","Completed high school"
 "0667","Completed high school"
 "0668","Completed high school"
@@ -674,7 +674,7 @@
 "0673","Completed high school"
 "0674","Completed high school"
 "0675","Completed high school"
-"0676","Attended some college, certification program, or trade school"
+"0676","Attended some college"
 "0677",NA
 "0678",NA
 "0679","Completed high school"
@@ -685,7 +685,7 @@
 "0684","Completed high school"
 "0685","Completed high school"
 "0686","Completed high school"
-"0687","Attended some college, certification program, or trade school"
+"0687","Completed college"
 "0688",NA
 "0689","Completed high school"
 "0690","Completed high school"
@@ -694,8 +694,8 @@
 "0693","Completed high school"
 "0694","Completed high school"
 "0695",NA
-"0696","Attended some college, certification program, or trade school"
-"0697","Attended some college, certification program, or trade school"
+"0696","Completed college"
+"0697","Attended some college"
 "0698",NA
 "0699","Completed high school"
 "0700","Completed high school"
@@ -714,19 +714,19 @@
 "0713","Did not complete high school"
 "0714",NA
 "0715","Completed high school"
-"0716","Attended some college, certification program, or trade school"
+"0716","Completed college"
 "0717",NA
 "0718",NA
 "0719",NA
-"0720","Attended some college, certification program, or trade school"
-"0721","Attended some college, certification program, or trade school"
+"0720","Completed college"
+"0721","Attended some college"
 "0722","Completed high school"
 "0723",NA
 "0724",NA
 "0725",NA
 "0726","Completed high school"
 "0727",NA
-"0728","Attended some college, certification program, or trade school"
+"0728","Attended some college"
 "0729",NA
 "0730",NA
 "0731","Completed high school"
@@ -735,26 +735,26 @@
 "0734",NA
 "0735",NA
 "0736",NA
-"0737","Attended some college, certification program, or trade school"
+"0737","Completed college"
 "0738",NA
 "0739","Did not complete high school"
 "0740","Completed high school"
 "0741",NA
-"0742","Attended some college, certification program, or trade school"
+"0742","Attended some college"
 "0743",NA
 "0744","Completed high school"
 "0745",NA
 "0746",NA
 "0747","Completed high school"
 "0748","Completed high school"
-"0749","Attended some college, certification program, or trade school"
+"0749","Completed college"
 "0750",NA
 "0751","Completed high school"
 "0752","Completed high school"
 "0753","Completed high school"
 "0754","Completed high school"
-"0755","Attended some college, certification program, or trade school"
-"0756","Attended some college, certification program, or trade school"
+"0755","Completed college"
+"0756","Completed college"
 "0757",NA
 "0758","Completed high school"
 "0759",NA
@@ -766,12 +766,12 @@
 "0765",NA
 "0766",NA
 "0767",NA
-"0768","Attended some college, certification program, or trade school"
+"0768","Attended some college"
 "0769","Completed high school"
 "0770",NA
 "0771","Completed high school"
 "0772",NA
-"0773","Attended some college, certification program, or trade school"
+"0773","Attended some college"
 "0774","Completed high school"
 "0775","Completed high school"
 "0776","Did not complete high school"
@@ -786,12 +786,12 @@
 "0785","Completed high school"
 "0786","Did not complete high school"
 "0787",NA
-"0788","Attended some college, certification program, or trade school"
+"0788","Attended some college"
 "0789","Completed high school"
 "0790","Completed high school"
 "0791","Completed high school"
-"0792","Attended some college, certification program, or trade school"
-"0793","Attended some college, certification program, or trade school"
+"0792","Attended some college"
+"0793","Completed college"
 "0794","Completed high school"
 "0795","Did not complete high school"
 "0796","Did not complete high school"
@@ -799,11 +799,11 @@
 "0798",NA
 "0799","Did not complete high school"
 "0800","Completed high school"
-"0801","Attended some college, certification program, or trade school"
+"0801","Completed college"
 "0802","Completed high school"
 "0803","Completed high school"
 "0804",NA
-"0805","Attended some college, certification program, or trade school"
+"0805","Attended some college"
 "0806",NA
 "0807",NA
 "0808","Completed high school"
@@ -811,28 +811,28 @@
 "0810","Completed high school"
 "0811",NA
 "0812",NA
-"0813","Attended some college, certification program, or trade school"
+"0813","Attended some college"
 "0814","Completed high school"
 "0815",NA
 "0816","Completed high school"
 "0817","Did not complete high school"
 "0818","Completed high school"
-"0819","Attended some college, certification program, or trade school"
+"0819","Attended some college"
 "0820","Did not complete high school"
-"0821","Attended some college, certification program, or trade school"
+"0821","Completed college"
 "0822","Completed high school"
-"0823","Attended some college, certification program, or trade school"
+"0823","Attended some college"
 "0824","Completed high school"
 "0825",NA
 "0826","Completed high school"
 "0827","Did not complete high school"
 "0828",NA
-"0829","Attended some college, certification program, or trade school"
+"0829","Attended some college"
 "0830",NA
 "0831","Completed high school"
 "0832","Completed high school"
 "0833","Completed high school"
-"0834","Attended some college, certification program, or trade school"
+"0834","Completed college"
 "0835","Completed high school"
 "0836","Completed high school"
 "0837",NA
@@ -854,11 +854,11 @@
 "0853","Completed high school"
 "0854","Did not complete high school"
 "0855",NA
-"0856","Attended some college, certification program, or trade school"
-"0857","Attended some college, certification program, or trade school"
+"0856","Completed college"
+"0857","Completed college"
 "0858","Completed high school"
 "0859",NA
-"0860","Attended some college, certification program, or trade school"
+"0860","Attended some college"
 "0861","Completed high school"
 "0862",NA
 "0863","Completed high school"
@@ -869,20 +869,20 @@
 "0868","Did not complete high school"
 "0869",NA
 "0870","Completed high school"
-"0871","Attended some college, certification program, or trade school"
+"0871","Attended some college"
 "0872",NA
 "0873","Completed high school"
-"0874","Attended some college, certification program, or trade school"
+"0874","Attended some college"
 "0875","Completed high school"
 "0876",NA
 "0877",NA
 "0878","Did not complete high school"
-"0879","Attended some college, certification program, or trade school"
+"0879","Attended some college"
 "0880",NA
 "0881",NA
 "0882",NA
 "0883",NA
-"0884","Attended some college, certification program, or trade school"
+"0884","Completed college"
 "0885","Completed high school"
 "0886","Completed high school"
 "0887",NA
@@ -890,16 +890,16 @@
 "0889","Completed high school"
 "0890",NA
 "0891","Completed high school"
-"0892","Attended some college, certification program, or trade school"
-"0893","Attended some college, certification program, or trade school"
+"0892","Completed college"
+"0893","Completed college"
 "0894","Did not complete high school"
 "0895",NA
 "0896","Completed high school"
 "0897",NA
-"0898","Attended some college, certification program, or trade school"
+"0898","Completed college"
 "0899",NA
 "0900",NA
-"0901","Attended some college, certification program, or trade school"
+"0901","Attended some college"
 "0902","Completed high school"
 "0903",NA
 "0904",NA
@@ -908,7 +908,7 @@
 "0907",NA
 "0908",NA
 "0909",NA
-"0910","Attended some college, certification program, or trade school"
+"0910","Attended some college"
 "0911","Completed high school"
 "0912",NA
 "0913","Completed high school"
@@ -929,11 +929,11 @@
 "0928",NA
 "0929","Did not complete high school"
 "0930",NA
-"0931","Attended some college, certification program, or trade school"
+"0931","Attended some college"
 "0932",NA
 "0933",NA
 "0934",NA
-"0935","Attended some college, certification program, or trade school"
+"0935","Attended some college"
 "0936","Completed high school"
 "0937","Completed high school"
 "0938",NA
@@ -948,21 +948,21 @@
 "0947",NA
 "0948","Completed high school"
 "0949",NA
-"0950","Attended some college, certification program, or trade school"
+"0950","Completed college"
 "0951","Completed high school"
-"0952","Attended some college, certification program, or trade school"
+"0952","Attended some college"
 "0953",NA
-"0954","Attended some college, certification program, or trade school"
+"0954","Attended some college"
 "0955","Completed high school"
 "0956","Completed high school"
-"0957","Attended some college, certification program, or trade school"
+"0957","Completed college"
 "0958","Completed high school"
-"0959","Attended some college, certification program, or trade school"
+"0959","Completed college"
 "0960","Completed high school"
 "0961",NA
 "0962","Did not complete high school"
 "0963","Completed high school"
-"0964","Attended some college, certification program, or trade school"
+"0964","Attended some college"
 "0965",NA
 "0966","Completed high school"
 "0967","Completed high school"
@@ -973,10 +973,10 @@
 "0972","Completed high school"
 "0973",NA
 "0974","Completed high school"
-"0975","Attended some college, certification program, or trade school"
+"0975","Attended some college"
 "0976",NA
-"0977","Attended some college, certification program, or trade school"
-"0978","Attended some college, certification program, or trade school"
+"0977","Completed college"
+"0978","Attended some college"
 "0979","Completed high school"
 "0980",NA
 "0981",NA
@@ -986,21 +986,21 @@
 "0985",NA
 "0986",NA
 "0987",NA
-"0988","Attended some college, certification program, or trade school"
+"0988","Attended some college"
 "0989","Completed high school"
 "0990","Completed high school"
 "0991",NA
 "0992","Completed high school"
-"0993","Attended some college, certification program, or trade school"
+"0993","Completed college"
 "0994","Completed high school"
 "0995",NA
-"0996","Attended some college, certification program, or trade school"
-"0997","Attended some college, certification program, or trade school"
+"0996","Attended some college"
+"0997","Attended some college"
 "0998","Completed high school"
 "0999",NA
 "1000","Completed high school"
 "1001","Completed high school"
-"1002","Attended some college, certification program, or trade school"
+"1002","Completed college"
 "1003",NA
 "1004",NA
 "1005",NA
@@ -1009,51 +1009,51 @@
 "1008",NA
 "1009",NA
 "1010","Completed high school"
-"1011","Attended some college, certification program, or trade school"
+"1011","Attended some college"
 "1012",NA
 "1013",NA
 "1014",NA
 "1015",NA
-"1016","Attended some college, certification program, or trade school"
+"1016","Completed college"
 "1017","Completed high school"
 "1018","Completed high school"
 "1019","Completed high school"
 "1020","Completed high school"
 "1021","Completed high school"
-"1022","Attended some college, certification program, or trade school"
+"1022","Attended some college"
 "1023","Completed high school"
 "1024","Completed high school"
-"1025","Attended some college, certification program, or trade school"
+"1025","Attended some college"
 "1026","Completed high school"
-"1027","Attended some college, certification program, or trade school"
+"1027","Attended some college"
 "1028",NA
 "1029",NA
 "1030","Completed high school"
 "1031","Completed high school"
 "1032","Completed high school"
-"1033","Attended some college, certification program, or trade school"
+"1033","Completed college"
 "1034","Completed high school"
 "1035",NA
 "1036","Completed high school"
 "1037","Completed high school"
-"1038","Attended some college, certification program, or trade school"
+"1038","Attended some college"
 "1039",NA
 "1040",NA
-"1041","Attended some college, certification program, or trade school"
-"1042","Attended some college, certification program, or trade school"
+"1041","Attended some college"
+"1042","Attended some college"
 "1043",NA
 "1044","Completed high school"
-"1045","Attended some college, certification program, or trade school"
+"1045","Attended some college"
 "1046",NA
 "1047","Completed high school"
 "1048","Completed high school"
 "1049",NA
-"1050","Attended some college, certification program, or trade school"
+"1050","Completed college"
 "1051",NA
-"1052","Attended some college, certification program, or trade school"
+"1052","Attended some college"
 "1053",NA
 "1054","Completed high school"
-"1055","Attended some college, certification program, or trade school"
+"1055","Attended some college"
 "1056","Completed high school"
 "1057","Completed high school"
 "1058",NA
@@ -1092,7 +1092,7 @@
 "1091","Completed high school"
 "1092",NA
 "1093","Completed high school"
-"1094","Attended some college, certification program, or trade school"
+"1094","Attended some college"
 "1095","Completed high school"
 "1096","Completed high school"
 "1097","Completed high school"
@@ -1100,17 +1100,17 @@
 "1099","Completed high school"
 "1100",NA
 "1101",NA
-"1102","Attended some college, certification program, or trade school"
+"1102","Completed college"
 "1103",NA
-"1104","Attended some college, certification program, or trade school"
+"1104","Attended some college"
 "1105",NA
-"1106","Attended some college, certification program, or trade school"
+"1106","Attended some college"
 "1107","Did not complete high school"
 "1108",NA
 "1109","Completed high school"
 "1110","Completed high school"
 "1111",NA
-"1112","Attended some college, certification program, or trade school"
+"1112","Completed college"
 "1113","Completed high school"
 "1114",NA
 "1115","Completed high school"
@@ -1119,9 +1119,9 @@
 "1118",NA
 "1119",NA
 "1120","Completed high school"
-"1121","Attended some college, certification program, or trade school"
-"1122","Attended some college, certification program, or trade school"
-"1123","Attended some college, certification program, or trade school"
+"1121","Attended some college"
+"1122","Attended some college"
+"1123","Attended some college"
 "1124","Completed high school"
 "1125","Completed high school"
 "1126","Completed high school"
@@ -1137,8 +1137,8 @@
 "1136",NA
 "1137",NA
 "1138","Did not complete high school"
-"1139","Attended some college, certification program, or trade school"
-"1140","Attended some college, certification program, or trade school"
+"1139","Completed college"
+"1140","Attended some college"
 "1141","Completed high school"
 "1142","Completed high school"
 "1143","Completed high school"
@@ -1149,24 +1149,24 @@
 "1148",NA
 "1149","Completed high school"
 "1150",NA
-"1151","Attended some college, certification program, or trade school"
+"1151","Attended some college"
 "1152","Completed high school"
 "1153",NA
-"1154","Attended some college, certification program, or trade school"
-"1155","Attended some college, certification program, or trade school"
+"1154","Attended some college"
+"1155","Completed college"
 "1156","Did not complete high school"
 "1157","Completed high school"
 "1158",NA
-"1159","Attended some college, certification program, or trade school"
+"1159","Completed college"
 "1160",NA
 "1161","Completed high school"
 "1162",NA
 "1163","Completed high school"
-"1164","Attended some college, certification program, or trade school"
+"1164","Attended some college"
 "1165",NA
 "1166","Completed high school"
 "1167",NA
-"1168","Attended some college, certification program, or trade school"
+"1168","Attended some college"
 "1169","Completed high school"
 "1170",NA
 "1171","Completed high school"
@@ -1180,7 +1180,7 @@
 "1179","Did not complete high school"
 "1180",NA
 "1181","Completed high school"
-"1182","Attended some college, certification program, or trade school"
+"1182","Attended some college"
 "1183",NA
 "1184","Completed high school"
 "1185",NA
@@ -1197,28 +1197,28 @@
 "1196",NA
 "1197",NA
 "1198","Did not complete high school"
-"1199","Attended some college, certification program, or trade school"
+"1199","Completed college"
 "1200",NA
 "1201","Did not complete high school"
 "1202","Completed high school"
 "1203","Completed high school"
 "1204","Completed high school"
 "1205",NA
-"1206","Attended some college, certification program, or trade school"
+"1206","Attended some college"
 "1207","Completed high school"
 "1208","Completed high school"
 "1209","Completed high school"
 "1210","Completed high school"
 "1211","Completed high school"
 "1212","Did not complete high school"
-"1213","Attended some college, certification program, or trade school"
+"1213","Attended some college"
 "1214",NA
 "1215","Completed high school"
 "1216",NA
 "1217","Completed high school"
 "1218",NA
 "1219",NA
-"1220","Attended some college, certification program, or trade school"
+"1220","Attended some college"
 "1221","Completed high school"
 "1222","Completed high school"
 "1223","Completed high school"
@@ -1229,12 +1229,12 @@
 "1228","Completed high school"
 "1229",NA
 "1230","Completed high school"
-"1231","Attended some college, certification program, or trade school"
+"1231","Attended some college"
 "1232",NA
 "1233","Did not complete high school"
 "1234","Completed high school"
-"1235","Attended some college, certification program, or trade school"
-"1236","Attended some college, certification program, or trade school"
+"1235","Completed college"
+"1236","Attended some college"
 "1237",NA
 "1238","Did not complete high school"
 "1239",NA
@@ -1246,26 +1246,26 @@
 "1245",NA
 "1246",NA
 "1247",NA
-"1248","Attended some college, certification program, or trade school"
+"1248","Attended some college"
 "1249",NA
 "1250","Completed high school"
 "1251",NA
-"1252","Attended some college, certification program, or trade school"
+"1252","Completed college"
 "1253",NA
-"1254","Attended some college, certification program, or trade school"
+"1254","Attended some college"
 "1255","Completed high school"
 "1256","Completed high school"
 "1257","Did not complete high school"
 "1258",NA
-"1259","Attended some college, certification program, or trade school"
+"1259","Attended some college"
 "1260","Completed high school"
 "1261","Completed high school"
 "1262","Completed high school"
-"1263","Attended some college, certification program, or trade school"
+"1263","Attended some college"
 "1264","Completed high school"
 "1265","Completed high school"
 "1266","Completed high school"
-"1267","Attended some college, certification program, or trade school"
+"1267","Attended some college"
 "1268","Did not complete high school"
 "1269","Completed high school"
 "1270",NA
@@ -1278,11 +1278,11 @@
 "1277",NA
 "1278","Completed high school"
 "1279","Did not complete high school"
-"1280","Attended some college, certification program, or trade school"
+"1280","Completed college"
 "1281","Completed high school"
 "1282","Did not complete high school"
 "1283",NA
-"1284","Attended some college, certification program, or trade school"
+"1284","Attended some college"
 "1285","Completed high school"
 "1286","Completed high school"
 "1287",NA
@@ -1295,7 +1295,7 @@
 "1294",NA
 "1295",NA
 "1296",NA
-"1297","Attended some college, certification program, or trade school"
+"1297","Attended some college"
 "1298","Completed high school"
 "1299","Completed high school"
 "1300",NA
@@ -1303,7 +1303,7 @@
 "1302",NA
 "1303",NA
 "1304","Completed high school"
-"1305","Attended some college, certification program, or trade school"
+"1305","Attended some college"
 "1306",NA
 "1307","Completed high school"
 "1308",NA
@@ -1317,7 +1317,7 @@
 "1316","Did not complete high school"
 "1317",NA
 "1318","Completed high school"
-"1319","Attended some college, certification program, or trade school"
+"1319","Attended some college"
 "1320","Completed high school"
 "1321","Completed high school"
 "1322","Completed high school"
@@ -1328,40 +1328,40 @@
 "1327",NA
 "1328",NA
 "1329",NA
-"1330","Attended some college, certification program, or trade school"
+"1330","Completed college"
 "1331",NA
 "1332","Completed high school"
-"1333","Attended some college, certification program, or trade school"
+"1333","Attended some college"
 "1334",NA
 "1335",NA
 "1336","Completed high school"
 "1337","Completed high school"
-"1338","Attended some college, certification program, or trade school"
+"1338","Attended some college"
 "1339","Completed high school"
 "1340","Completed high school"
 "1341","Completed high school"
 "1342",NA
 "1343","Completed high school"
 "1344","Completed high school"
-"1345","Attended some college, certification program, or trade school"
+"1345","Attended some college"
 "1346",NA
 "1347","Completed high school"
 "1348","Completed high school"
 "1349","Completed high school"
-"1350","Attended some college, certification program, or trade school"
-"1351","Attended some college, certification program, or trade school"
+"1350","Attended some college"
+"1351","Attended some college"
 "1352",NA
 "1353","Completed high school"
 "1354",NA
 "1355",NA
-"1356","Attended some college, certification program, or trade school"
+"1356","Completed college"
 "1357","Completed high school"
 "1358","Completed high school"
 "1359","Completed high school"
-"1360","Attended some college, certification program, or trade school"
+"1360","Attended some college"
 "1361",NA
 "1362","Completed high school"
-"1363","Attended some college, certification program, or trade school"
+"1363","Completed college"
 "1364","Completed high school"
 "1365","Completed high school"
 "1366","Completed high school"
@@ -1383,9 +1383,9 @@
 "1382",NA
 "1383","Completed high school"
 "1384","Completed high school"
-"1385","Attended some college, certification program, or trade school"
+"1385","Attended some college"
 "1386",NA
-"1387","Attended some college, certification program, or trade school"
+"1387","Attended some college"
 "1388","Completed high school"
 "1389","Completed high school"
 "1390","Completed high school"
@@ -1394,7 +1394,7 @@
 "1393","Completed high school"
 "1394","Completed high school"
 "1395",NA
-"1396","Attended some college, certification program, or trade school"
+"1396","Attended some college"
 "1397","Completed high school"
 "1398","Completed high school"
 "1399","Completed high school"
@@ -1420,10 +1420,10 @@
 "1419",NA
 "1420","Completed high school"
 "1421",NA
-"1422","Attended some college, certification program, or trade school"
+"1422","Completed college"
 "1423","Completed high school"
-"1424","Attended some college, certification program, or trade school"
-"1425","Attended some college, certification program, or trade school"
+"1424","Completed college"
+"1425","Completed college"
 "1426",NA
 "1427","Did not complete high school"
 "1428","Completed high school"
@@ -1432,7 +1432,7 @@
 "1431",NA
 "1432","Completed high school"
 "1433","Completed high school"
-"1434","Attended some college, certification program, or trade school"
+"1434","Completed college"
 "1435","Completed high school"
 "1436",NA
 "1437","Completed high school"
@@ -1444,17 +1444,17 @@
 "1443",NA
 "1444",NA
 "1445","Completed high school"
-"1446","Attended some college, certification program, or trade school"
-"1447","Attended some college, certification program, or trade school"
+"1446","Attended some college"
+"1447","Completed college"
 "1448","Did not complete high school"
 "1449","Completed high school"
 "1450","Did not complete high school"
 "1451","Completed high school"
 "1452",NA
 "1453","Completed high school"
-"1454","Attended some college, certification program, or trade school"
-"1455","Attended some college, certification program, or trade school"
-"1456","Attended some college, certification program, or trade school"
+"1454","Attended some college"
+"1455","Completed college"
+"1456","Attended some college"
 "1457","Completed high school"
 "1458",NA
 "1459",NA
@@ -1480,7 +1480,7 @@
 "1479","Completed high school"
 "1480","Completed high school"
 "1481",NA
-"1482","Attended some college, certification program, or trade school"
+"1482","Attended some college"
 "1483","Completed high school"
 "1484",NA
 "1485",NA
@@ -1495,15 +1495,15 @@
 "1494","Completed high school"
 "1495",NA
 "1496","Completed high school"
-"1497","Attended some college, certification program, or trade school"
+"1497","Completed college"
 "1498","Completed high school"
 "1499","Completed high school"
 "1500","Did not complete high school"
-"1501","Attended some college, certification program, or trade school"
+"1501","Attended some college"
 "1502","Completed high school"
 "1503","Completed high school"
 "1504",NA
-"1505","Attended some college, certification program, or trade school"
+"1505","Attended some college"
 "1506","Completed high school"
 "1507",NA
 "1508","Completed high school"
@@ -1516,19 +1516,19 @@
 "1515","Completed high school"
 "1516","Completed high school"
 "1517","Completed high school"
-"1518","Attended some college, certification program, or trade school"
+"1518","Attended some college"
 "1519",NA
-"1520","Attended some college, certification program, or trade school"
-"1521","Attended some college, certification program, or trade school"
+"1520","Completed college"
+"1521","Completed college"
 "1522","Completed high school"
 "1523",NA
-"1524","Attended some college, certification program, or trade school"
+"1524","Attended some college"
 "1525","Completed high school"
 "1526","Completed high school"
 "1527","Completed high school"
-"1528","Attended some college, certification program, or trade school"
+"1528","Completed college"
 "1529","Completed high school"
-"1530","Attended some college, certification program, or trade school"
+"1530","Attended some college"
 "1531",NA
 "1532","Completed high school"
 "1533",NA
@@ -1538,7 +1538,7 @@
 "1537","Completed high school"
 "1538",NA
 "1539",NA
-"1540","Attended some college, certification program, or trade school"
+"1540","Attended some college"
 "1541","Completed high school"
 "1542","Completed high school"
 "1543","Completed high school"
@@ -1549,11 +1549,11 @@
 "1548","Completed high school"
 "1549",NA
 "1550","Completed high school"
-"1551","Attended some college, certification program, or trade school"
-"1552","Attended some college, certification program, or trade school"
+"1551","Attended some college"
+"1552","Attended some college"
 "1553","Completed high school"
 "1554","Completed high school"
-"1555","Attended some college, certification program, or trade school"
+"1555","Completed college"
 "1556",NA
 "1557","Completed high school"
 "1558","Completed high school"
@@ -1563,11 +1563,11 @@
 "1562","Completed high school"
 "1563",NA
 "1564","Completed high school"
-"1565","Attended some college, certification program, or trade school"
+"1565","Attended some college"
 "1566","Completed high school"
 "1567","Completed high school"
 "1568",NA
-"1569","Attended some college, certification program, or trade school"
+"1569","Attended some college"
 "1570",NA
 "1571",NA
 "1572",NA
@@ -1577,12 +1577,12 @@
 "1576","Completed high school"
 "1577",NA
 "1578","Completed high school"
-"1579","Attended some college, certification program, or trade school"
-"1580","Attended some college, certification program, or trade school"
+"1579","Completed college"
+"1580","Attended some college"
 "1581","Did not complete high school"
 "1582",NA
 "1583","Completed high school"
-"1584","Attended some college, certification program, or trade school"
+"1584","Completed college"
 "1585",NA
 "1586","Completed high school"
 "1587",NA
@@ -1592,23 +1592,23 @@
 "1591","Completed high school"
 "1592",NA
 "1593","Did not complete high school"
-"1594","Attended some college, certification program, or trade school"
+"1594","Attended some college"
 "1595",NA
-"1596","Attended some college, certification program, or trade school"
+"1596","Attended some college"
 "1597",NA
 "1598","Completed high school"
 "1599",NA
 "1600","Completed high school"
 "1601",NA
 "1602",NA
-"1603","Attended some college, certification program, or trade school"
+"1603","Attended some college"
 "1604",NA
 "1605","Completed high school"
 "1606",NA
 "1607",NA
-"1608","Attended some college, certification program, or trade school"
+"1608","Attended some college"
 "1609","Completed high school"
-"1610","Attended some college, certification program, or trade school"
+"1610","Attended some college"
 "1611","Completed high school"
 "1612","Completed high school"
 "1613",NA
@@ -1618,17 +1618,17 @@
 "1617",NA
 "1618",NA
 "1619",NA
-"1620","Attended some college, certification program, or trade school"
+"1620","Completed college"
 "1621","Completed high school"
 "1622",NA
 "1623","Completed high school"
 "1624",NA
-"1625","Attended some college, certification program, or trade school"
+"1625","Attended some college"
 "1626","Completed high school"
 "1627",NA
 "1628","Completed high school"
 "1629",NA
-"1630","Attended some college, certification program, or trade school"
+"1630","Completed college"
 "1631",NA
 "1632","Completed high school"
 "1633","Completed high school"
@@ -1638,29 +1638,29 @@
 "1637",NA
 "1638","Completed high school"
 "1639","Completed high school"
-"1640","Attended some college, certification program, or trade school"
+"1640","Completed college"
 "1641",NA
 "1642","Completed high school"
 "1643","Completed high school"
 "1644",NA
 "1645",NA
-"1646","Attended some college, certification program, or trade school"
+"1646","Attended some college"
 "1647",NA
 "1648",NA
-"1649","Attended some college, certification program, or trade school"
+"1649","Completed college"
 "1650",NA
 "1651","Completed high school"
 "1652","Completed high school"
 "1653",NA
 "1654","Completed high school"
 "1655","Completed high school"
-"1656","Attended some college, certification program, or trade school"
+"1656","Completed college"
 "1657","Completed high school"
 "1658",NA
 "1659",NA
 "1660",NA
 "1661",NA
-"1662","Attended some college, certification program, or trade school"
+"1662","Attended some college"
 "1663","Completed high school"
 "1664","Completed high school"
 "1665",NA
@@ -1668,7 +1668,7 @@
 "1667","Completed high school"
 "1668","Completed high school"
 "1669",NA
-"1670","Attended some college, certification program, or trade school"
+"1670","Attended some college"
 "1671",NA
 "1672",NA
 "1673",NA
@@ -1677,7 +1677,7 @@
 "1676","Completed high school"
 "1677",NA
 "1678",NA
-"1679","Attended some college, certification program, or trade school"
+"1679","Completed college"
 "1680",NA
 "1681",NA
 "1682",NA
@@ -1686,20 +1686,20 @@
 "1685",NA
 "1686","Completed high school"
 "1687","Completed high school"
-"1688","Attended some college, certification program, or trade school"
+"1688","Attended some college"
 "1689","Completed high school"
 "1690",NA
 "1691",NA
 "1692","Did not complete high school"
 "1693","Completed high school"
-"1694","Attended some college, certification program, or trade school"
-"1695","Attended some college, certification program, or trade school"
+"1694","Completed college"
+"1695","Completed college"
 "1696","Did not complete high school"
-"1697","Attended some college, certification program, or trade school"
+"1697","Attended some college"
 "1698","Completed high school"
 "1699",NA
 "1700",NA
-"1701","Attended some college, certification program, or trade school"
+"1701","Completed college"
 "1702",NA
 "1703","Completed high school"
 "1704","Did not complete high school"
@@ -1708,7 +1708,7 @@
 "1707","Completed high school"
 "1708","Completed high school"
 "1709","Completed high school"
-"1710","Attended some college, certification program, or trade school"
+"1710","Completed college"
 "1711","Completed high school"
 "1712",NA
 "1713","Completed high school"
@@ -1717,15 +1717,15 @@
 "1716",NA
 "1717","Did not complete high school"
 "1718",NA
-"1719","Attended some college, certification program, or trade school"
+"1719","Attended some college"
 "1720",NA
-"1721","Attended some college, certification program, or trade school"
+"1721","Completed college"
 "1722","Did not complete high school"
-"1723","Attended some college, certification program, or trade school"
+"1723","Attended some college"
 "1724",NA
 "1725",NA
 "1726","Did not complete high school"
-"1727","Attended some college, certification program, or trade school"
+"1727","Completed college"
 "1728","Completed high school"
 "1729","Completed high school"
 "1730",NA
@@ -1746,7 +1746,7 @@
 "1745",NA
 "1746","Completed high school"
 "1747","Completed high school"
-"1748","Attended some college, certification program, or trade school"
+"1748","Completed college"
 "1749","Completed high school"
 "1750","Did not complete high school"
 "1751",NA
@@ -1765,7 +1765,7 @@
 "1764",NA
 "1765",NA
 "1766",NA
-"1767","Attended some college, certification program, or trade school"
+"1767","Attended some college"
 "1768",NA
 "1769","Did not complete high school"
 "1770",NA
@@ -1773,7 +1773,7 @@
 "1772",NA
 "1773",NA
 "1774","Did not complete high school"
-"1775","Attended some college, certification program, or trade school"
+"1775","Completed college"
 "1776","Completed high school"
 "1777","Did not complete high school"
 "1778","Completed high school"
@@ -1781,9 +1781,9 @@
 "1780","Completed high school"
 "1781","Completed high school"
 "1782","Completed high school"
-"1783","Attended some college, certification program, or trade school"
+"1783","Attended some college"
 "1784",NA
-"1785","Attended some college, certification program, or trade school"
+"1785","Completed college"
 "1786","Completed high school"
 "1787",NA
 "1788",NA
@@ -1791,7 +1791,7 @@
 "1790",NA
 "1791",NA
 "1792",NA
-"1793","Attended some college, certification program, or trade school"
+"1793","Attended some college"
 "1794",NA
 "1795",NA
 "1796","Completed high school"
@@ -1812,7 +1812,7 @@
 "1811",NA
 "1812","Completed high school"
 "1813","Completed high school"
-"1814","Attended some college, certification program, or trade school"
+"1814","Attended some college"
 "1815","Completed high school"
 "1816","Completed high school"
 "1817","Completed high school"
@@ -1824,31 +1824,31 @@
 "1823","Did not complete high school"
 "1824","Completed high school"
 "1825",NA
-"1826","Attended some college, certification program, or trade school"
-"1827","Attended some college, certification program, or trade school"
+"1826","Completed college"
+"1827","Completed college"
 "1828",NA
 "1829",NA
 "1830",NA
 "1831",NA
 "1832","Completed high school"
-"1833","Attended some college, certification program, or trade school"
+"1833","Completed college"
 "1834","Completed high school"
 "1835","Did not complete high school"
 "1836",NA
-"1837","Attended some college, certification program, or trade school"
+"1837","Completed college"
 "1838","Completed high school"
-"1839","Attended some college, certification program, or trade school"
+"1839","Attended some college"
 "1840","Completed high school"
 "1841",NA
-"1842","Attended some college, certification program, or trade school"
+"1842","Attended some college"
 "1843",NA
 "1844",NA
 "1845","Completed high school"
 "1846","Did not complete high school"
 "1847",NA
 "1848","Completed high school"
-"1849","Attended some college, certification program, or trade school"
-"1850","Attended some college, certification program, or trade school"
+"1849","Completed college"
+"1850","Attended some college"
 "1851",NA
 "1852","Did not complete high school"
 "1853","Completed high school"
@@ -1857,7 +1857,7 @@
 "1856","Completed high school"
 "1857","Completed high school"
 "1858",NA
-"1859","Attended some college, certification program, or trade school"
+"1859","Completed college"
 "1860","Completed high school"
 "1861",NA
 "1862","Completed high school"
@@ -1879,7 +1879,7 @@
 "1878",NA
 "1879",NA
 "1880",NA
-"1881","Attended some college, certification program, or trade school"
+"1881","Completed college"
 "1882","Completed high school"
 "1883","Completed high school"
 "1884","Completed high school"
@@ -1891,7 +1891,7 @@
 "1890","Completed high school"
 "1891","Did not complete high school"
 "1892","Completed high school"
-"1893","Attended some college, certification program, or trade school"
+"1893","Completed college"
 "1894",NA
 "1895","Completed high school"
 "1896","Completed high school"
@@ -1913,7 +1913,7 @@
 "1912","Completed high school"
 "1913",NA
 "1914","Completed high school"
-"1915","Attended some college, certification program, or trade school"
+"1915","Completed college"
 "1916","Completed high school"
 "1917","Completed high school"
 "1918",NA
@@ -1930,18 +1930,18 @@
 "1929","Completed high school"
 "1930",NA
 "1931","Completed high school"
-"1932","Attended some college, certification program, or trade school"
+"1932","Attended some college"
 "1933","Completed high school"
-"1934","Attended some college, certification program, or trade school"
+"1934","Attended some college"
 "1935","Completed high school"
 "1936","Completed high school"
-"1937","Attended some college, certification program, or trade school"
+"1937","Completed college"
 "1938","Completed high school"
 "1939","Completed high school"
-"1940","Attended some college, certification program, or trade school"
+"1940","Attended some college"
 "1941","Completed high school"
 "1942",NA
-"1943","Attended some college, certification program, or trade school"
+"1943","Completed college"
 "1944","Completed high school"
 "1945",NA
 "1946",NA
@@ -1951,20 +1951,20 @@
 "1950",NA
 "1951",NA
 "1952",NA
-"1953","Attended some college, certification program, or trade school"
+"1953","Attended some college"
 "1954",NA
 "1955",NA
 "1956","Completed high school"
 "1957","Completed high school"
 "1958",NA
 "1959",NA
-"1960","Attended some college, certification program, or trade school"
+"1960","Completed college"
 "1961",NA
 "1962","Did not complete high school"
 "1963","Did not complete high school"
 "1964","Completed high school"
 "1965","Did not complete high school"
-"1966","Attended some college, certification program, or trade school"
+"1966","Completed college"
 "1967",NA
 "1968",NA
 "1969",NA
@@ -1999,14 +1999,14 @@
 "1998",NA
 "1999",NA
 "2000","Completed high school"
-"2001","Attended some college, certification program, or trade school"
+"2001","Completed college"
 "2002",NA
 "2003","Completed high school"
 "2004",NA
 "2005",NA
 "2006","Completed high school"
 "2007","Completed high school"
-"2008","Attended some college, certification program, or trade school"
+"2008","Attended some college"
 "2009",NA
 "2010",NA
 "2011","Completed high school"
@@ -2014,8 +2014,8 @@
 "2013","Completed high school"
 "2014",NA
 "2015",NA
-"2016","Attended some college, certification program, or trade school"
-"2017","Attended some college, certification program, or trade school"
+"2016","Completed college"
+"2017","Attended some college"
 "2018","Completed high school"
 "2019","Completed high school"
 "2020",NA
@@ -2023,31 +2023,31 @@
 "2022",NA
 "2023","Completed high school"
 "2024",NA
-"2025","Attended some college, certification program, or trade school"
+"2025","Completed college"
 "2026","Completed high school"
 "2027","Completed high school"
 "2028","Completed high school"
-"2029","Attended some college, certification program, or trade school"
+"2029","Completed college"
 "2030","Completed high school"
 "2031","Completed high school"
-"2032","Attended some college, certification program, or trade school"
+"2032","Completed college"
 "2033","Completed high school"
 "2034","Did not complete high school"
-"2035","Attended some college, certification program, or trade school"
+"2035","Attended some college"
 "2036","Did not complete high school"
 "2037",NA
 "2038","Completed high school"
 "2039","Completed high school"
 "2040","Completed high school"
 "2041","Completed high school"
-"2042","Attended some college, certification program, or trade school"
+"2042","Attended some college"
 "2043",NA
 "2044",NA
 "2045",NA
-"2046","Attended some college, certification program, or trade school"
+"2046","Completed college"
 "2047",NA
 "2048",NA
-"2049","Attended some college, certification program, or trade school"
+"2049","Completed college"
 "2050","Completed high school"
 "2051",NA
 "2052","Completed high school"
@@ -2075,16 +2075,16 @@
 "2074",NA
 "2075","Completed high school"
 "2076",NA
-"2077","Attended some college, certification program, or trade school"
+"2077","Attended some college"
 "2078","Completed high school"
-"2079","Attended some college, certification program, or trade school"
+"2079","Attended some college"
 "2080",NA
 "2081","Completed high school"
-"2082","Attended some college, certification program, or trade school"
+"2082","Completed college"
 "2083","Completed high school"
 "2084","Completed high school"
-"2085","Attended some college, certification program, or trade school"
-"2086","Attended some college, certification program, or trade school"
+"2085","Attended some college"
+"2086","Completed college"
 "2087","Completed high school"
 "2088",NA
 "2089","Completed high school"
@@ -2096,21 +2096,21 @@
 "2095","Completed high school"
 "2096","Completed high school"
 "2097","Completed high school"
-"2098","Attended some college, certification program, or trade school"
-"2099","Attended some college, certification program, or trade school"
+"2098","Completed college"
+"2099","Attended some college"
 "2100",NA
 "2101","Completed high school"
 "2102","Completed high school"
 "2103",NA
-"2104","Attended some college, certification program, or trade school"
+"2104","Completed college"
 "2105",NA
 "2106",NA
 "2107","Completed high school"
-"2108","Attended some college, certification program, or trade school"
+"2108","Attended some college"
 "2109",NA
 "2110",NA
 "2111","Completed high school"
-"2112","Attended some college, certification program, or trade school"
+"2112","Attended some college"
 "2113","Completed high school"
 "2114","Completed high school"
 "2115",NA
@@ -2126,10 +2126,10 @@
 "2125","Completed high school"
 "2126",NA
 "2127",NA
-"2128","Attended some college, certification program, or trade school"
+"2128","Attended some college"
 "2129","Completed high school"
-"2130","Attended some college, certification program, or trade school"
-"2131","Attended some college, certification program, or trade school"
+"2130","Attended some college"
+"2131","Attended some college"
 "2132",NA
 "2133","Completed high school"
 "2134","Completed high school"
@@ -2140,7 +2140,7 @@
 "2139","Completed high school"
 "2140","Did not complete high school"
 "2141",NA
-"2142","Attended some college, certification program, or trade school"
+"2142","Completed college"
 "2143","Completed high school"
 "2144","Completed high school"
 "2145",NA
@@ -2148,7 +2148,7 @@
 "2147",NA
 "2148","Completed high school"
 "2149","Completed high school"
-"2150","Attended some college, certification program, or trade school"
+"2150","Completed college"
 "2151","Completed high school"
 "2152",NA
 "2153","Completed high school"
@@ -2157,8 +2157,8 @@
 "2156","Completed high school"
 "2157","Completed high school"
 "2158",NA
-"2159","Attended some college, certification program, or trade school"
-"2160","Attended some college, certification program, or trade school"
+"2159","Attended some college"
+"2160","Attended some college"
 "2161",NA
 "2162","Did not complete high school"
 "2163","Completed high school"
@@ -2173,7 +2173,7 @@
 "2172",NA
 "2173","Completed high school"
 "2174",NA
-"2175","Attended some college, certification program, or trade school"
+"2175","Attended some college"
 "2176",NA
 "2177",NA
 "2178",NA
@@ -2181,25 +2181,25 @@
 "2180",NA
 "2181","Did not complete high school"
 "2182","Completed high school"
-"2183","Attended some college, certification program, or trade school"
+"2183","Attended some college"
 "2184","Completed high school"
 "2185",NA
 "2186",NA
-"2187","Attended some college, certification program, or trade school"
+"2187","Completed college"
 "2188",NA
 "2189","Completed high school"
 "2190",NA
-"2191","Attended some college, certification program, or trade school"
+"2191","Completed college"
 "2192",NA
 "2193","Completed high school"
 "2194","Did not complete high school"
 "2195","Did not complete high school"
 "2196",NA
 "2197","Completed high school"
-"2198","Attended some college, certification program, or trade school"
+"2198","Completed college"
 "2199",NA
 "2200","Completed high school"
-"2201","Attended some college, certification program, or trade school"
+"2201","Completed college"
 "2202",NA
 "2203","Did not complete high school"
 "2204",NA
@@ -2210,16 +2210,16 @@
 "2209","Completed high school"
 "2210",NA
 "2211","Completed high school"
-"2212","Attended some college, certification program, or trade school"
-"2213","Attended some college, certification program, or trade school"
+"2212","Attended some college"
+"2213","Completed college"
 "2214",NA
-"2215","Attended some college, certification program, or trade school"
+"2215","Attended some college"
 "2216","Did not complete high school"
 "2217","Did not complete high school"
 "2218","Completed high school"
 "2219",NA
 "2220","Completed high school"
-"2221","Attended some college, certification program, or trade school"
+"2221","Completed college"
 "2222","Completed high school"
 "2223",NA
 "2224","Completed high school"
@@ -2230,8 +2230,8 @@
 "2229","Completed high school"
 "2230",NA
 "2231",NA
-"2232","Attended some college, certification program, or trade school"
-"2233","Attended some college, certification program, or trade school"
+"2232","Completed college"
+"2233","Attended some college"
 "2234",NA
 "2235",NA
 "2236","Completed high school"
@@ -2244,9 +2244,9 @@
 "2243","Completed high school"
 "2244","Completed high school"
 "2245",NA
-"2246","Attended some college, certification program, or trade school"
+"2246","Completed college"
 "2247",NA
-"2248","Attended some college, certification program, or trade school"
+"2248","Attended some college"
 "2249",NA
 "2250",NA
 "2251",NA
@@ -2261,17 +2261,17 @@
 "2260","Did not complete high school"
 "2261","Completed high school"
 "2262",NA
-"2263","Attended some college, certification program, or trade school"
-"2264","Attended some college, certification program, or trade school"
+"2263","Attended some college"
+"2264","Completed college"
 "2265",NA
 "2266","Did not complete high school"
 "2267",NA
-"2268","Attended some college, certification program, or trade school"
+"2268","Attended some college"
 "2269","Completed high school"
 "2270",NA
 "2271","Completed high school"
 "2272",NA
-"2273","Attended some college, certification program, or trade school"
+"2273","Completed college"
 "2274",NA
 "2275",NA
 "2276","Completed high school"
@@ -2279,16 +2279,16 @@
 "2278","Completed high school"
 "2279","Completed high school"
 "2280",NA
-"2281","Attended some college, certification program, or trade school"
+"2281","Completed college"
 "2282",NA
 "2283","Completed high school"
 "2284",NA
 "2285","Did not complete high school"
 "2286",NA
-"2287","Attended some college, certification program, or trade school"
+"2287","Attended some college"
 "2288",NA
 "2289",NA
-"2290","Attended some college, certification program, or trade school"
+"2290","Attended some college"
 "2291",NA
 "2292","Did not complete high school"
 "2293",NA
@@ -2310,14 +2310,14 @@
 "2309",NA
 "2310",NA
 "2311",NA
-"2312","Attended some college, certification program, or trade school"
+"2312","Attended some college"
 "2313","Completed high school"
 "2314",NA
 "2315","Completed high school"
 "2316",NA
-"2317","Attended some college, certification program, or trade school"
-"2318","Attended some college, certification program, or trade school"
-"2319","Attended some college, certification program, or trade school"
+"2317","Attended some college"
+"2318","Attended some college"
+"2319","Completed college"
 "2320","Completed high school"
 "2321",NA
 "2322",NA
@@ -2327,13 +2327,13 @@
 "2326","Did not complete high school"
 "2327",NA
 "2328","Completed high school"
-"2329","Attended some college, certification program, or trade school"
+"2329","Attended some college"
 "2330",NA
 "2331",NA
 "2332",NA
 "2333","Completed high school"
 "2334",NA
-"2335","Attended some college, certification program, or trade school"
+"2335","Attended some college"
 "2336","Completed high school"
 "2337",NA
 "2338","Completed high school"
@@ -2344,14 +2344,14 @@
 "2343",NA
 "2344",NA
 "2345","Completed high school"
-"2346","Attended some college, certification program, or trade school"
+"2346","Attended some college"
 "2347",NA
 "2348","Completed high school"
 "2349","Completed high school"
 "2350","Completed high school"
 "2351",NA
-"2352","Attended some college, certification program, or trade school"
-"2353","Attended some college, certification program, or trade school"
+"2352","Attended some college"
+"2353","Attended some college"
 "2354","Completed high school"
 "2355","Completed high school"
 "2356","Did not complete high school"
@@ -2368,17 +2368,17 @@
 "2367","Did not complete high school"
 "2368",NA
 "2369",NA
-"2370","Attended some college, certification program, or trade school"
+"2370","Attended some college"
 "2371","Completed high school"
-"2372","Attended some college, certification program, or trade school"
+"2372","Completed college"
 "2373",NA
 "2374","Completed high school"
 "2375","Did not complete high school"
 "2376","Completed high school"
 "2377","Completed high school"
-"2378","Attended some college, certification program, or trade school"
+"2378","Attended some college"
 "2379","Completed high school"
-"2380","Attended some college, certification program, or trade school"
+"2380","Completed college"
 "2381","Completed high school"
 "2382",NA
 "2383","Completed high school"
@@ -2391,8 +2391,8 @@
 "2390","Completed high school"
 "2391",NA
 "2392",NA
-"2393","Attended some college, certification program, or trade school"
-"2394","Attended some college, certification program, or trade school"
+"2393","Completed college"
+"2394","Completed college"
 "2395","Completed high school"
 "2396",NA
 "2397","Completed high school"
@@ -2402,15 +2402,15 @@
 "2401",NA
 "2402","Completed high school"
 "2403",NA
-"2404","Attended some college, certification program, or trade school"
-"2405","Attended some college, certification program, or trade school"
-"2406","Attended some college, certification program, or trade school"
-"2407","Attended some college, certification program, or trade school"
+"2404","Attended some college"
+"2405","Attended some college"
+"2406","Completed college"
+"2407","Attended some college"
 "2408",NA
 "2409","Completed high school"
 "2410","Completed high school"
 "2411","Completed high school"
-"2412","Attended some college, certification program, or trade school"
+"2412","Completed college"
 "2413","Completed high school"
 "2414",NA
 "2415",NA
@@ -2430,25 +2430,25 @@
 "2429","Completed high school"
 "2430",NA
 "2431","Completed high school"
-"2432","Attended some college, certification program, or trade school"
-"2433","Attended some college, certification program, or trade school"
+"2432","Attended some college"
+"2433","Completed college"
 "2434","Completed high school"
 "2435","Completed high school"
 "2436",NA
 "2437","Completed high school"
 "2438",NA
-"2439","Attended some college, certification program, or trade school"
+"2439","Attended some college"
 "2440","Did not complete high school"
-"2441","Attended some college, certification program, or trade school"
+"2441","Completed college"
 "2442","Did not complete high school"
 "2443",NA
 "2444",NA
-"2445","Attended some college, certification program, or trade school"
+"2445","Attended some college"
 "2446","Completed high school"
 "2447","Did not complete high school"
 "2448","Did not complete high school"
 "2449","Completed high school"
-"2450","Attended some college, certification program, or trade school"
+"2450","Attended some college"
 "2451","Completed high school"
 "2452",NA
 "2453",NA
@@ -2457,8 +2457,8 @@
 "2456","Completed high school"
 "2457",NA
 "2458","Completed high school"
-"2459","Attended some college, certification program, or trade school"
-"2460","Attended some college, certification program, or trade school"
+"2459","Completed college"
+"2460","Completed college"
 "2461",NA
 "2462","Completed high school"
 "2463","Completed high school"
@@ -2474,15 +2474,15 @@
 "2473",NA
 "2474",NA
 "2475","Completed high school"
-"2476","Attended some college, certification program, or trade school"
-"2477","Attended some college, certification program, or trade school"
+"2476","Attended some college"
+"2477","Attended some college"
 "2478","Completed high school"
-"2479","Attended some college, certification program, or trade school"
+"2479","Completed college"
 "2480",NA
 "2481",NA
 "2482",NA
-"2483","Attended some college, certification program, or trade school"
-"2484","Attended some college, certification program, or trade school"
+"2483","Attended some college"
+"2484","Attended some college"
 "2485","Completed high school"
 "2486",NA
 "2487","Completed high school"
@@ -2491,11 +2491,11 @@
 "2490","Did not complete high school"
 "2491","Completed high school"
 "2492","Completed high school"
-"2493","Attended some college, certification program, or trade school"
+"2493","Attended some college"
 "2494","Did not complete high school"
 "2495","Completed high school"
 "2496","Completed high school"
-"2497","Attended some college, certification program, or trade school"
+"2497","Attended some college"
 "2498",NA
 "2499",NA
 "2500",NA
@@ -2509,7 +2509,7 @@
 "2508",NA
 "2509",NA
 "2510","Completed high school"
-"2511","Attended some college, certification program, or trade school"
+"2511","Attended some college"
 "2512","Completed high school"
 "2513","Completed high school"
 "2514","Completed high school"
@@ -2522,7 +2522,7 @@
 "2521",NA
 "2522","Completed high school"
 "2523",NA
-"2524","Attended some college, certification program, or trade school"
+"2524","Attended some college"
 "2525","Completed high school"
 "2526","Completed high school"
 "2527",NA
@@ -2530,12 +2530,12 @@
 "2529",NA
 "2530",NA
 "2531","Completed high school"
-"2532","Attended some college, certification program, or trade school"
-"2533","Attended some college, certification program, or trade school"
+"2532","Attended some college"
+"2533","Attended some college"
 "2534","Completed high school"
 "2535",NA
 "2536","Completed high school"
-"2537","Attended some college, certification program, or trade school"
+"2537","Completed college"
 "2538",NA
 "2539","Completed high school"
 "2540","Completed high school"
@@ -2543,12 +2543,12 @@
 "2542","Completed high school"
 "2543",NA
 "2544","Completed high school"
-"2545","Attended some college, certification program, or trade school"
+"2545","Attended some college"
 "2546",NA
 "2547",NA
 "2548",NA
 "2549","Completed high school"
-"2550","Attended some college, certification program, or trade school"
+"2550","Attended some college"
 "2551",NA
 "2552","Completed high school"
 "2553",NA
@@ -2570,19 +2570,19 @@
 "2569","Completed high school"
 "2570",NA
 "2571","Completed high school"
-"2572","Attended some college, certification program, or trade school"
+"2572","Attended some college"
 "2573",NA
 "2574",NA
-"2575","Attended some college, certification program, or trade school"
+"2575","Completed college"
 "2576",NA
 "2577",NA
-"2578","Attended some college, certification program, or trade school"
+"2578","Attended some college"
 "2579",NA
 "2580",NA
 "2581",NA
 "2582","Completed high school"
 "2583","Did not complete high school"
-"2584","Attended some college, certification program, or trade school"
+"2584","Attended some college"
 "2585","Completed high school"
 "2586","Completed high school"
 "2587","Completed high school"
@@ -2590,10 +2590,10 @@
 "2589","Completed high school"
 "2590",NA
 "2591",NA
-"2592","Attended some college, certification program, or trade school"
+"2592","Attended some college"
 "2593",NA
 "2594",NA
-"2595","Attended some college, certification program, or trade school"
+"2595","Attended some college"
 "2596",NA
 "2597","Completed high school"
 "2598",NA
@@ -2603,9 +2603,9 @@
 "2602",NA
 "2603",NA
 "2604","Completed high school"
-"2605","Attended some college, certification program, or trade school"
+"2605","Completed college"
 "2606",NA
-"2607","Attended some college, certification program, or trade school"
+"2607","Attended some college"
 "2608",NA
 "2609","Completed high school"
 "2610","Completed high school"
@@ -2617,12 +2617,12 @@
 "2616","Completed high school"
 "2617",NA
 "2618","Completed high school"
-"2619","Attended some college, certification program, or trade school"
+"2619","Completed college"
 "2620",NA
 "2621","Completed high school"
 "2622",NA
 "2623",NA
-"2624","Attended some college, certification program, or trade school"
+"2624","Attended some college"
 "2625","Did not complete high school"
 "2626","Completed high school"
 "2627","Completed high school"
@@ -2634,7 +2634,7 @@
 "2633","Completed high school"
 "2634",NA
 "2635",NA
-"2636","Attended some college, certification program, or trade school"
+"2636","Completed college"
 "2637","Completed high school"
 "2638","Did not complete high school"
 "2639","Completed high school"
@@ -2647,10 +2647,10 @@
 "2646","Did not complete high school"
 "2647",NA
 "2648","Completed high school"
-"2649","Attended some college, certification program, or trade school"
+"2649","Attended some college"
 "2650",NA
 "2651",NA
-"2652","Attended some college, certification program, or trade school"
+"2652","Attended some college"
 "2653",NA
 "2654","Completed high school"
 "2655","Did not complete high school"
@@ -2670,20 +2670,20 @@
 "2669",NA
 "2670","Completed high school"
 "2671",NA
-"2672","Attended some college, certification program, or trade school"
+"2672","Completed college"
 "2673","Completed high school"
 "2674",NA
-"2675","Attended some college, certification program, or trade school"
+"2675","Completed college"
 "2676",NA
-"2677","Attended some college, certification program, or trade school"
+"2677","Completed college"
 "2678","Did not complete high school"
-"2679","Attended some college, certification program, or trade school"
+"2679","Attended some college"
 "2680","Completed high school"
 "2681","Completed high school"
 "2682","Did not complete high school"
 "2683",NA
-"2684","Attended some college, certification program, or trade school"
-"2685","Attended some college, certification program, or trade school"
+"2684","Completed college"
+"2685","Attended some college"
 "2686","Completed high school"
 "2687","Completed high school"
 "2688",NA
@@ -2703,16 +2703,16 @@
 "2702",NA
 "2703",NA
 "2704",NA
-"2705","Attended some college, certification program, or trade school"
+"2705","Completed college"
 "2706","Did not complete high school"
 "2707","Did not complete high school"
-"2708","Attended some college, certification program, or trade school"
+"2708","Attended some college"
 "2709","Completed high school"
 "2710",NA
 "2711","Completed high school"
 "2712",NA
 "2713",NA
-"2714","Attended some college, certification program, or trade school"
+"2714","Completed college"
 "2715",NA
 "2716","Completed high school"
 "2717",NA
@@ -2721,15 +2721,15 @@
 "2720","Completed high school"
 "2721",NA
 "2722",NA
-"2723","Attended some college, certification program, or trade school"
-"2724","Attended some college, certification program, or trade school"
+"2723","Completed college"
+"2724","Attended some college"
 "2725","Completed high school"
-"2726","Attended some college, certification program, or trade school"
+"2726","Completed college"
 "2727",NA
 "2728",NA
 "2729","Completed high school"
 "2730",NA
-"2731","Attended some college, certification program, or trade school"
+"2731","Attended some college"
 "2732","Completed high school"
 "2733","Completed high school"
 "2734","Completed high school"
@@ -2761,7 +2761,7 @@
 "2760",NA
 "2761",NA
 "2762","Completed high school"
-"2763","Attended some college, certification program, or trade school"
+"2763","Attended some college"
 "2764","Completed high school"
 "2765","Completed high school"
 "2766",NA
@@ -2784,17 +2784,17 @@
 "2783",NA
 "2784",NA
 "2785","Completed high school"
-"2786","Attended some college, certification program, or trade school"
-"2787","Attended some college, certification program, or trade school"
+"2786","Attended some college"
+"2787","Attended some college"
 "2788","Completed high school"
-"2789","Attended some college, certification program, or trade school"
+"2789","Completed college"
 "2790",NA
 "2791","Completed high school"
-"2792","Attended some college, certification program, or trade school"
+"2792","Attended some college"
 "2793","Completed high school"
 "2794",NA
 "2795","Did not complete high school"
-"2796","Attended some college, certification program, or trade school"
+"2796","Attended some college"
 "2797",NA
 "2798",NA
 "2799","Completed high school"
@@ -2809,13 +2809,13 @@
 "2808","Completed high school"
 "2809",NA
 "2810",NA
-"2811","Attended some college, certification program, or trade school"
-"2812","Attended some college, certification program, or trade school"
+"2811","Attended some college"
+"2812","Completed college"
 "2813","Completed high school"
 "2814",NA
 "2815","Completed high school"
 "2816","Did not complete high school"
-"2817","Attended some college, certification program, or trade school"
+"2817","Attended some college"
 "2818","Completed high school"
 "2819",NA
 "2820",NA
@@ -2823,10 +2823,10 @@
 "2822","Completed high school"
 "2823","Completed high school"
 "2824",NA
-"2825","Attended some college, certification program, or trade school"
+"2825","Attended some college"
 "2826",NA
 "2827","Completed high school"
-"2828","Attended some college, certification program, or trade school"
+"2828","Attended some college"
 "2829","Completed high school"
 "2830","Completed high school"
 "2831","Completed high school"
@@ -2840,7 +2840,7 @@
 "2839",NA
 "2840",NA
 "2841",NA
-"2842","Attended some college, certification program, or trade school"
+"2842","Completed college"
 "2843","Completed high school"
 "2844",NA
 "2845","Completed high school"
@@ -2849,11 +2849,11 @@
 "2848",NA
 "2849",NA
 "2850",NA
-"2851","Attended some college, certification program, or trade school"
+"2851","Attended some college"
 "2852",NA
 "2853","Did not complete high school"
 "2854",NA
-"2855","Attended some college, certification program, or trade school"
+"2855","Completed college"
 "2856","Completed high school"
 "2857","Did not complete high school"
 "2858","Completed high school"
@@ -2861,13 +2861,13 @@
 "2860",NA
 "2861",NA
 "2862",NA
-"2863","Attended some college, certification program, or trade school"
+"2863","Attended some college"
 "2864",NA
 "2865","Completed high school"
 "2866","Completed high school"
 "2867","Completed high school"
-"2868","Attended some college, certification program, or trade school"
-"2869","Attended some college, certification program, or trade school"
+"2868","Attended some college"
+"2869","Attended some college"
 "2870","Completed high school"
 "2871",NA
 "2872","Did not complete high school"
@@ -2882,28 +2882,28 @@
 "2881",NA
 "2882","Completed high school"
 "2883","Completed high school"
-"2884","Attended some college, certification program, or trade school"
+"2884","Completed college"
 "2885",NA
 "2886","Completed high school"
-"2887","Attended some college, certification program, or trade school"
-"2888","Attended some college, certification program, or trade school"
+"2887","Attended some college"
+"2888","Attended some college"
 "2889",NA
 "2890",NA
 "2891","Completed high school"
 "2892","Completed high school"
-"2893","Attended some college, certification program, or trade school"
-"2894","Attended some college, certification program, or trade school"
+"2893","Attended some college"
+"2894","Completed college"
 "2895","Completed high school"
 "2896","Did not complete high school"
 "2897",NA
-"2898","Attended some college, certification program, or trade school"
+"2898","Completed college"
 "2899","Completed high school"
 "2900",NA
-"2901","Attended some college, certification program, or trade school"
+"2901","Attended some college"
 "2902","Did not complete high school"
 "2903","Completed high school"
-"2904","Attended some college, certification program, or trade school"
-"2905","Attended some college, certification program, or trade school"
+"2904","Attended some college"
+"2905","Attended some college"
 "2906",NA
 "2907","Completed high school"
 "2908","Completed high school"
@@ -2925,26 +2925,26 @@
 "2924","Completed high school"
 "2925","Completed high school"
 "2926",NA
-"2927","Attended some college, certification program, or trade school"
+"2927","Attended some college"
 "2928",NA
 "2929",NA
 "2930",NA
 "2931",NA
 "2932","Completed high school"
-"2933","Attended some college, certification program, or trade school"
+"2933","Completed college"
 "2934",NA
 "2935","Completed high school"
 "2936",NA
 "2937","Completed high school"
 "2938",NA
 "2939","Completed high school"
-"2940","Attended some college, certification program, or trade school"
+"2940","Completed college"
 "2941","Completed high school"
-"2942","Attended some college, certification program, or trade school"
+"2942","Completed college"
 "2943","Completed high school"
-"2944","Attended some college, certification program, or trade school"
-"2945","Attended some college, certification program, or trade school"
-"2946","Attended some college, certification program, or trade school"
+"2944","Attended some college"
+"2945","Completed college"
+"2946","Attended some college"
 "2947","Completed high school"
 "2948","Completed high school"
 "2949",NA
@@ -2955,9 +2955,9 @@
 "2954",NA
 "2955",NA
 "2956","Completed high school"
-"2957","Attended some college, certification program, or trade school"
+"2957","Attended some college"
 "2958",NA
-"2959","Attended some college, certification program, or trade school"
+"2959","Attended some college"
 "2960","Completed high school"
 "2961","Completed high school"
 "2962",NA
@@ -2975,7 +2975,7 @@
 "2974",NA
 "2975",NA
 "2976","Completed high school"
-"2977","Attended some college, certification program, or trade school"
+"2977","Attended some college"
 "2978",NA
 "2979","Completed high school"
 "2980",NA
@@ -2993,18 +2993,18 @@
 "2992",NA
 "2993","Completed high school"
 "2994","Completed high school"
-"2995","Attended some college, certification program, or trade school"
+"2995","Attended some college"
 "2996",NA
 "2997","Completed high school"
 "2998",NA
 "2999","Completed high school"
 "3000","Completed high school"
 "3001","Completed high school"
-"3002","Attended some college, certification program, or trade school"
+"3002","Completed college"
 "3003",NA
 "3004","Completed high school"
 "3005",NA
-"3006","Attended some college, certification program, or trade school"
+"3006","Attended some college"
 "3007","Completed high school"
 "3008",NA
 "3009","Completed high school"
@@ -3016,7 +3016,7 @@
 "3015",NA
 "3016",NA
 "3017","Did not complete high school"
-"3018","Attended some college, certification program, or trade school"
+"3018","Attended some college"
 "3019",NA
 "3020",NA
 "3021",NA
@@ -3024,7 +3024,7 @@
 "3023",NA
 "3024",NA
 "3025",NA
-"3026","Attended some college, certification program, or trade school"
+"3026","Attended some college"
 "3027",NA
 "3028",NA
 "3029","Did not complete high school"
@@ -3039,36 +3039,36 @@
 "3038",NA
 "3039","Completed high school"
 "3040","Completed high school"
-"3041","Attended some college, certification program, or trade school"
-"3042","Attended some college, certification program, or trade school"
+"3041","Attended some college"
+"3042","Attended some college"
 "3043","Completed high school"
 "3044",NA
 "3045","Completed high school"
 "3046","Completed high school"
 "3047","Completed high school"
 "3048",NA
-"3049","Attended some college, certification program, or trade school"
-"3050","Attended some college, certification program, or trade school"
-"3051","Attended some college, certification program, or trade school"
-"3052","Attended some college, certification program, or trade school"
+"3049","Completed college"
+"3050","Attended some college"
+"3051","Attended some college"
+"3052","Attended some college"
 "3053",NA
-"3054","Attended some college, certification program, or trade school"
+"3054","Attended some college"
 "3055","Completed high school"
 "3056","Completed high school"
-"3057","Attended some college, certification program, or trade school"
+"3057","Completed college"
 "3058","Completed high school"
 "3059","Completed high school"
 "3060",NA
 "3061","Completed high school"
 "3062",NA
 "3063",NA
-"3064","Attended some college, certification program, or trade school"
+"3064","Completed college"
 "3065","Completed high school"
 "3066",NA
 "3067","Completed high school"
 "3068","Completed high school"
 "3069","Completed high school"
-"3070","Attended some college, certification program, or trade school"
+"3070","Completed college"
 "3071","Completed high school"
 "3072",NA
 "3073",NA
@@ -3093,24 +3093,24 @@
 "3092","Completed high school"
 "3093",NA
 "3094",NA
-"3095","Attended some college, certification program, or trade school"
+"3095","Attended some college"
 "3096",NA
 "3097","Completed high school"
 "3098",NA
 "3099",NA
-"3100","Attended some college, certification program, or trade school"
+"3100","Completed college"
 "3101",NA
 "3102",NA
 "3103","Completed high school"
 "3104",NA
-"3105","Attended some college, certification program, or trade school"
+"3105","Attended some college"
 "3106",NA
 "3107",NA
 "3108","Completed high school"
 "3109",NA
 "3110",NA
 "3111","Completed high school"
-"3112","Attended some college, certification program, or trade school"
+"3112","Attended some college"
 "3113","Completed high school"
 "3114","Completed high school"
 "3115",NA
@@ -3143,7 +3143,7 @@
 "3142","Completed high school"
 "3143",NA
 "3144","Completed high school"
-"3145","Attended some college, certification program, or trade school"
+"3145","Completed college"
 "3146","Completed high school"
 "3147","Completed high school"
 "3148","Did not complete high school"
@@ -3154,7 +3154,7 @@
 "3153",NA
 "3154","Did not complete high school"
 "3155","Completed high school"
-"3156","Attended some college, certification program, or trade school"
+"3156","Attended some college"
 "3157","Completed high school"
 "3158","Completed high school"
 "3159","Completed high school"
@@ -3185,19 +3185,19 @@
 "3184",NA
 "3185","Completed high school"
 "3186","Completed high school"
-"3187","Attended some college, certification program, or trade school"
+"3187","Completed college"
 "3188","Completed high school"
-"3189","Attended some college, certification program, or trade school"
+"3189","Attended some college"
 "3190","Completed high school"
 "3191",NA
-"3192","Attended some college, certification program, or trade school"
+"3192","Attended some college"
 "3193","Completed high school"
 "3194",NA
-"3195","Attended some college, certification program, or trade school"
+"3195","Completed college"
 "3196",NA
-"3197","Attended some college, certification program, or trade school"
+"3197","Attended some college"
 "3198","Completed high school"
-"3199","Attended some college, certification program, or trade school"
+"3199","Completed college"
 "3200","Completed high school"
 "3201",NA
 "3202","Did not complete high school"
@@ -3208,7 +3208,7 @@
 "3207","Completed high school"
 "3208","Completed high school"
 "3209",NA
-"3210","Attended some college, certification program, or trade school"
+"3210","Attended some college"
 "3211",NA
 "3212","Completed high school"
 "3213","Completed high school"
@@ -3226,7 +3226,7 @@
 "3225","Completed high school"
 "3226","Did not complete high school"
 "3227","Completed high school"
-"3228","Attended some college, certification program, or trade school"
+"3228","Completed college"
 "3229","Completed high school"
 "3230",NA
 "3231","Completed high school"
@@ -3254,9 +3254,9 @@
 "3253","Completed high school"
 "3254","Did not complete high school"
 "3255",NA
-"3256","Attended some college, certification program, or trade school"
+"3256","Completed college"
 "3257",NA
-"3258","Attended some college, certification program, or trade school"
+"3258","Attended some college"
 "3259","Completed high school"
 "3260","Completed high school"
 "3261",NA
@@ -3269,7 +3269,7 @@
 "3268","Completed high school"
 "3269","Completed high school"
 "3270","Did not complete high school"
-"3271","Attended some college, certification program, or trade school"
+"3271","Completed college"
 "3272","Completed high school"
 "3273","Completed high school"
 "3274","Completed high school"
@@ -3288,16 +3288,16 @@
 "3287",NA
 "3288",NA
 "3289","Completed high school"
-"3290","Attended some college, certification program, or trade school"
+"3290","Completed college"
 "3291","Did not complete high school"
 "3292","Completed high school"
-"3293","Attended some college, certification program, or trade school"
+"3293","Completed college"
 "3294","Completed high school"
 "3295","Completed high school"
 "3296","Completed high school"
 "3297",NA
 "3298",NA
-"3299","Attended some college, certification program, or trade school"
+"3299","Completed college"
 "3300","Completed high school"
 "3301",NA
 "3302","Completed high school"
@@ -3305,12 +3305,12 @@
 "3304",NA
 "3305","Completed high school"
 "3306",NA
-"3307","Attended some college, certification program, or trade school"
+"3307","Completed college"
 "3308",NA
 "3309",NA
 "3310",NA
 "3311",NA
-"3312","Attended some college, certification program, or trade school"
+"3312","Completed college"
 "3313","Completed high school"
 "3314",NA
 "3315","Completed high school"
@@ -3322,7 +3322,7 @@
 "3321","Completed high school"
 "3322","Completed high school"
 "3323",NA
-"3324","Attended some college, certification program, or trade school"
+"3324","Completed college"
 "3325","Completed high school"
 "3326",NA
 "3327",NA
@@ -3334,11 +3334,11 @@
 "3333",NA
 "3334","Completed high school"
 "3335","Completed high school"
-"3336","Attended some college, certification program, or trade school"
+"3336","Completed college"
 "3337",NA
 "3338",NA
 "3339",NA
-"3340","Attended some college, certification program, or trade school"
+"3340","Attended some college"
 "3341",NA
 "3342",NA
 "3343","Completed high school"
@@ -3346,23 +3346,23 @@
 "3345",NA
 "3346","Did not complete high school"
 "3347","Completed high school"
-"3348","Attended some college, certification program, or trade school"
+"3348","Attended some college"
 "3349","Completed high school"
 "3350","Did not complete high school"
-"3351","Attended some college, certification program, or trade school"
-"3352","Attended some college, certification program, or trade school"
-"3353","Attended some college, certification program, or trade school"
+"3351","Attended some college"
+"3352","Completed college"
+"3353","Attended some college"
 "3354",NA
 "3355",NA
 "3356","Completed high school"
 "3357",NA
-"3358","Attended some college, certification program, or trade school"
+"3358","Completed college"
 "3359",NA
-"3360","Attended some college, certification program, or trade school"
-"3361","Attended some college, certification program, or trade school"
+"3360","Attended some college"
+"3361","Attended some college"
 "3362","Completed high school"
 "3363","Completed high school"
-"3364","Attended some college, certification program, or trade school"
+"3364","Completed college"
 "3365",NA
 "3366","Did not complete high school"
 "3367",NA
@@ -3372,10 +3372,10 @@
 "3371",NA
 "3372","Completed high school"
 "3373",NA
-"3374","Attended some college, certification program, or trade school"
-"3375","Attended some college, certification program, or trade school"
+"3374","Attended some college"
+"3375","Completed college"
 "3376",NA
-"3377","Attended some college, certification program, or trade school"
+"3377","Attended some college"
 "3378",NA
 "3379","Completed high school"
 "3380","Completed high school"
@@ -3383,9 +3383,9 @@
 "3382",NA
 "3383","Completed high school"
 "3384","Completed high school"
-"3385","Attended some college, certification program, or trade school"
+"3385","Attended some college"
 "3386",NA
-"3387","Attended some college, certification program, or trade school"
+"3387","Completed college"
 "3388",NA
 "3389",NA
 "3390","Did not complete high school"
@@ -3394,8 +3394,8 @@
 "3393",NA
 "3394",NA
 "3395","Completed high school"
-"3396","Attended some college, certification program, or trade school"
-"3397","Attended some college, certification program, or trade school"
+"3396","Completed college"
+"3397","Attended some college"
 "3398","Completed high school"
 "3399","Completed high school"
 "3400","Completed high school"
@@ -3412,15 +3412,15 @@
 "3411","Completed high school"
 "3412",NA
 "3413",NA
-"3414","Attended some college, certification program, or trade school"
+"3414","Attended some college"
 "3415","Did not complete high school"
 "3416","Completed high school"
 "3417","Completed high school"
 "3418",NA
 "3419","Completed high school"
-"3420","Attended some college, certification program, or trade school"
-"3421","Attended some college, certification program, or trade school"
-"3422","Attended some college, certification program, or trade school"
+"3420","Completed college"
+"3421","Completed college"
+"3422","Attended some college"
 "3423",NA
 "3424","Completed high school"
 "3425","Completed high school"
@@ -3429,16 +3429,16 @@
 "3428",NA
 "3429","Completed high school"
 "3430","Completed high school"
-"3431","Attended some college, certification program, or trade school"
+"3431","Attended some college"
 "3432",NA
 "3433","Completed high school"
 "3434",NA
 "3435","Completed high school"
 "3436","Did not complete high school"
 "3437","Completed high school"
-"3438","Attended some college, certification program, or trade school"
+"3438","Completed college"
 "3439","Completed high school"
-"3440","Attended some college, certification program, or trade school"
+"3440","Completed college"
 "3441",NA
 "3442","Completed high school"
 "3443","Completed high school"
@@ -3446,19 +3446,19 @@
 "3445",NA
 "3446","Completed high school"
 "3447","Completed high school"
-"3448","Attended some college, certification program, or trade school"
-"3449","Attended some college, certification program, or trade school"
+"3448","Attended some college"
+"3449","Attended some college"
 "3450","Completed high school"
 "3451","Completed high school"
 "3452","Completed high school"
-"3453","Attended some college, certification program, or trade school"
+"3453","Attended some college"
 "3454","Completed high school"
 "3455","Completed high school"
-"3456","Attended some college, certification program, or trade school"
-"3457","Attended some college, certification program, or trade school"
+"3456","Attended some college"
+"3457","Attended some college"
 "3458","Completed high school"
-"3459","Attended some college, certification program, or trade school"
-"3460","Attended some college, certification program, or trade school"
+"3459","Completed college"
+"3460","Attended some college"
 "3461","Completed high school"
 "3462","Completed high school"
 "3463","Completed high school"
@@ -3470,12 +3470,12 @@
 "3469","Completed high school"
 "3470","Completed high school"
 "3471","Completed high school"
-"3472","Attended some college, certification program, or trade school"
+"3472","Completed college"
 "3473",NA
-"3474","Attended some college, certification program, or trade school"
+"3474","Attended some college"
 "3475","Completed high school"
 "3476",NA
-"3477","Attended some college, certification program, or trade school"
+"3477","Attended some college"
 "3478","Completed high school"
 "3479",NA
 "3480","Completed high school"
@@ -3496,14 +3496,14 @@
 "3495","Completed high school"
 "3496",NA
 "3497",NA
-"3498","Attended some college, certification program, or trade school"
+"3498","Completed college"
 "3499",NA
 "3500","Completed high school"
 "3501",NA
 "3502",NA
 "3503","Did not complete high school"
 "3504","Did not complete high school"
-"3505","Attended some college, certification program, or trade school"
+"3505","Attended some college"
 "3506",NA
 "3507",NA
 "3508","Completed high school"
@@ -3528,10 +3528,10 @@
 "3527","Completed high school"
 "3528","Completed high school"
 "3529","Completed high school"
-"3530","Attended some college, certification program, or trade school"
+"3530","Attended some college"
 "3531","Completed high school"
 "3532","Completed high school"
-"3533","Attended some college, certification program, or trade school"
+"3533","Completed college"
 "3534","Completed high school"
 "3535","Completed high school"
 "3536",NA
@@ -3541,15 +3541,15 @@
 "3540","Completed high school"
 "3541","Completed high school"
 "3542","Completed high school"
-"3543","Attended some college, certification program, or trade school"
+"3543","Completed college"
 "3544","Completed high school"
 "3545","Did not complete high school"
-"3546","Attended some college, certification program, or trade school"
+"3546","Attended some college"
 "3547",NA
 "3548","Completed high school"
 "3549",NA
 "3550","Completed high school"
-"3551","Attended some college, certification program, or trade school"
+"3551","Attended some college"
 "3552",NA
 "3553","Did not complete high school"
 "3554",NA
@@ -3557,29 +3557,29 @@
 "3556",NA
 "3557","Completed high school"
 "3558","Completed high school"
-"3559","Attended some college, certification program, or trade school"
+"3559","Attended some college"
 "3560","Completed high school"
 "3561","Completed high school"
-"3562","Attended some college, certification program, or trade school"
+"3562","Completed college"
 "3563","Completed high school"
 "3564",NA
-"3565","Attended some college, certification program, or trade school"
+"3565","Completed college"
 "3566",NA
-"3567","Attended some college, certification program, or trade school"
+"3567","Attended some college"
 "3568",NA
-"3569","Attended some college, certification program, or trade school"
+"3569","Attended some college"
 "3570",NA
 "3571","Completed high school"
 "3572",NA
-"3573","Attended some college, certification program, or trade school"
+"3573","Attended some college"
 "3574","Completed high school"
 "3575",NA
-"3576","Attended some college, certification program, or trade school"
+"3576","Completed college"
 "3577","Completed high school"
 "3578","Completed high school"
 "3579","Completed high school"
 "3580","Did not complete high school"
-"3581","Attended some college, certification program, or trade school"
+"3581","Completed college"
 "3582","Completed high school"
 "3583","Completed high school"
 "3584","Completed high school"
@@ -3589,8 +3589,8 @@
 "3588","Did not complete high school"
 "3589","Completed high school"
 "3590","Completed high school"
-"3591","Attended some college, certification program, or trade school"
-"3592","Attended some college, certification program, or trade school"
+"3591","Attended some college"
+"3592","Attended some college"
 "3593","Completed high school"
 "3594","Completed high school"
 "3595",NA
@@ -3605,7 +3605,7 @@
 "3604","Completed high school"
 "3605","Did not complete high school"
 "3606","Completed high school"
-"3607","Attended some college, certification program, or trade school"
+"3607","Attended some college"
 "3608",NA
 "3609",NA
 "3610",NA
@@ -3618,7 +3618,7 @@
 "3617",NA
 "3618","Completed high school"
 "3619",NA
-"3620","Attended some college, certification program, or trade school"
+"3620","Completed college"
 "3621",NA
 "3622","Completed high school"
 "3623","Completed high school"
@@ -3632,13 +3632,13 @@
 "3631",NA
 "3632",NA
 "3633","Did not complete high school"
-"3634","Attended some college, certification program, or trade school"
+"3634","Completed college"
 "3635",NA
 "3636",NA
 "3637","Did not complete high school"
 "3638",NA
 "3639","Completed high school"
-"3640","Attended some college, certification program, or trade school"
+"3640","Attended some college"
 "3641",NA
 "3642","Did not complete high school"
 "3643","Completed high school"
@@ -3647,38 +3647,38 @@
 "3646","Completed high school"
 "3647",NA
 "3648",NA
-"3649","Attended some college, certification program, or trade school"
+"3649","Completed college"
 "3650","Did not complete high school"
 "3651",NA
-"3652","Attended some college, certification program, or trade school"
+"3652","Completed college"
 "3653",NA
 "3654","Completed high school"
 "3655",NA
 "3656",NA
 "3657","Completed high school"
-"3658","Attended some college, certification program, or trade school"
+"3658","Completed college"
 "3659","Completed high school"
-"3660","Attended some college, certification program, or trade school"
+"3660","Completed college"
 "3661",NA
 "3662",NA
-"3663","Attended some college, certification program, or trade school"
+"3663","Completed college"
 "3664","Did not complete high school"
-"3665","Attended some college, certification program, or trade school"
+"3665","Completed college"
 "3666","Completed high school"
 "3667",NA
 "3668","Did not complete high school"
 "3669","Completed high school"
 "3670",NA
 "3671","Completed high school"
-"3672","Attended some college, certification program, or trade school"
+"3672","Completed college"
 "3673",NA
 "3674",NA
 "3675",NA
-"3676","Attended some college, certification program, or trade school"
+"3676","Completed college"
 "3677","Completed high school"
 "3678","Completed high school"
 "3679","Completed high school"
-"3680","Attended some college, certification program, or trade school"
+"3680","Completed college"
 "3681","Completed high school"
 "3682",NA
 "3683","Completed high school"
@@ -3688,7 +3688,7 @@
 "3687",NA
 "3688","Completed high school"
 "3689","Completed high school"
-"3690","Attended some college, certification program, or trade school"
+"3690","Completed college"
 "3691","Completed high school"
 "3692","Completed high school"
 "3693",NA
@@ -3705,7 +3705,7 @@
 "3704",NA
 "3705",NA
 "3706",NA
-"3707","Attended some college, certification program, or trade school"
+"3707","Attended some college"
 "3708","Completed high school"
 "3709","Did not complete high school"
 "3710","Completed high school"
@@ -3722,7 +3722,7 @@
 "3721","Completed high school"
 "3722","Completed high school"
 "3723",NA
-"3724","Attended some college, certification program, or trade school"
+"3724","Attended some college"
 "3725",NA
 "3726","Completed high school"
 "3727","Completed high school"
@@ -3745,13 +3745,13 @@
 "3744",NA
 "3745","Did not complete high school"
 "3746","Completed high school"
-"3747","Attended some college, certification program, or trade school"
+"3747","Completed college"
 "3748",NA
-"3749","Attended some college, certification program, or trade school"
+"3749","Completed college"
 "3750","Did not complete high school"
 "3751","Completed high school"
 "3752","Did not complete high school"
-"3753","Attended some college, certification program, or trade school"
+"3753","Completed college"
 "3754",NA
 "3755","Completed high school"
 "3756",NA
@@ -3759,14 +3759,14 @@
 "3758","Completed high school"
 "3759","Completed high school"
 "3760",NA
-"3761","Attended some college, certification program, or trade school"
-"3762","Attended some college, certification program, or trade school"
+"3761","Attended some college"
+"3762","Attended some college"
 "3763","Completed high school"
 "3764",NA
 "3765",NA
 "3766","Completed high school"
 "3767","Completed high school"
-"3768","Attended some college, certification program, or trade school"
+"3768","Attended some college"
 "3769","Completed high school"
 "3770",NA
 "3771","Completed high school"
@@ -3785,7 +3785,7 @@
 "3784","Did not complete high school"
 "3785",NA
 "3786",NA
-"3787","Attended some college, certification program, or trade school"
+"3787","Completed college"
 "3788","Completed high school"
 "3789",NA
 "3790","Completed high school"
@@ -3803,11 +3803,11 @@
 "3802","Completed high school"
 "3803",NA
 "3804","Completed high school"
-"3805","Attended some college, certification program, or trade school"
+"3805","Completed college"
 "3806",NA
-"3807","Attended some college, certification program, or trade school"
+"3807","Completed college"
 "3808","Completed high school"
-"3809","Attended some college, certification program, or trade school"
+"3809","Completed college"
 "3810","Completed high school"
 "3811",NA
 "3812","Did not complete high school"
@@ -3824,7 +3824,7 @@
 "3823","Completed high school"
 "3824",NA
 "3825",NA
-"3826","Attended some college, certification program, or trade school"
+"3826","Attended some college"
 "3827",NA
 "3828","Completed high school"
 "3829",NA
@@ -3859,8 +3859,8 @@
 "3858",NA
 "3859",NA
 "3860","Did not complete high school"
-"3861","Attended some college, certification program, or trade school"
-"3862","Attended some college, certification program, or trade school"
+"3861","Completed college"
+"3862","Attended some college"
 "3863","Completed high school"
 "3864","Completed high school"
 "3865","Completed high school"
@@ -3876,9 +3876,9 @@
 "3875","Completed high school"
 "3876","Completed high school"
 "3877",NA
-"3878","Attended some college, certification program, or trade school"
+"3878","Completed college"
 "3879","Did not complete high school"
-"3880","Attended some college, certification program, or trade school"
+"3880","Completed college"
 "3881","Did not complete high school"
 "3882",NA
 "3883","Completed high school"
@@ -3890,7 +3890,7 @@
 "3889","Completed high school"
 "3890","Completed high school"
 "3891","Completed high school"
-"3892","Attended some college, certification program, or trade school"
+"3892","Completed college"
 "3893","Completed high school"
 "3894",NA
 "3895",NA
@@ -3906,7 +3906,7 @@
 "3905","Completed high school"
 "3906","Completed high school"
 "3907",NA
-"3908","Attended some college, certification program, or trade school"
+"3908","Completed college"
 "3909","Completed high school"
 "3910","Completed high school"
 "3911",NA
@@ -3921,7 +3921,7 @@
 "3920","Completed high school"
 "3921","Completed high school"
 "3922","Completed high school"
-"3923","Attended some college, certification program, or trade school"
+"3923","Completed college"
 "3924",NA
 "3925","Completed high school"
 "3926",NA
@@ -3931,10 +3931,10 @@
 "3930","Completed high school"
 "3931","Completed high school"
 "3932",NA
-"3933","Attended some college, certification program, or trade school"
+"3933","Attended some college"
 "3934",NA
 "3935","Completed high school"
-"3936","Attended some college, certification program, or trade school"
+"3936","Completed college"
 "3937",NA
 "3938",NA
 "3939",NA
@@ -3948,16 +3948,16 @@
 "3947","Completed high school"
 "3948","Completed high school"
 "3949",NA
-"3950","Attended some college, certification program, or trade school"
-"3951","Attended some college, certification program, or trade school"
+"3950","Attended some college"
+"3951","Completed college"
 "3952","Did not complete high school"
 "3953",NA
 "3954","Completed high school"
 "3955","Completed high school"
-"3956","Attended some college, certification program, or trade school"
-"3957","Attended some college, certification program, or trade school"
+"3956","Attended some college"
+"3957","Attended some college"
 "3958","Completed high school"
-"3959","Attended some college, certification program, or trade school"
+"3959","Completed college"
 "3960",NA
 "3961","Completed high school"
 "3962",NA
@@ -3970,12 +3970,12 @@
 "3969",NA
 "3970","Completed high school"
 "3971","Completed high school"
-"3972","Attended some college, certification program, or trade school"
+"3972","Completed college"
 "3973",NA
 "3974","Completed high school"
 "3975","Completed high school"
 "3976","Completed high school"
-"3977","Attended some college, certification program, or trade school"
+"3977","Attended some college"
 "3978","Completed high school"
 "3979","Completed high school"
 "3980","Did not complete high school"
@@ -3995,7 +3995,7 @@
 "3994","Completed high school"
 "3995",NA
 "3996","Completed high school"
-"3997","Attended some college, certification program, or trade school"
+"3997","Completed college"
 "3998","Completed high school"
 "3999",NA
 "4000",NA
@@ -4011,7 +4011,7 @@
 "4010",NA
 "4011","Completed high school"
 "4012",NA
-"4013","Attended some college, certification program, or trade school"
+"4013","Completed college"
 "4014","Completed high school"
 "4015","Completed high school"
 "4016",NA
@@ -4024,7 +4024,7 @@
 "4023",NA
 "4024","Completed high school"
 "4025","Completed high school"
-"4026","Attended some college, certification program, or trade school"
+"4026","Attended some college"
 "4027",NA
 "4028","Completed high school"
 "4029",NA
@@ -4050,14 +4050,14 @@
 "4049","Completed high school"
 "4050","Did not complete high school"
 "4051",NA
-"4052","Attended some college, certification program, or trade school"
+"4052","Completed college"
 "4053",NA
 "4054",NA
-"4055","Attended some college, certification program, or trade school"
+"4055","Completed college"
 "4056",NA
-"4057","Attended some college, certification program, or trade school"
+"4057","Attended some college"
 "4058",NA
-"4059","Attended some college, certification program, or trade school"
+"4059","Completed college"
 "4060","Completed high school"
 "4061",NA
 "4062","Completed high school"
@@ -4072,7 +4072,7 @@
 "4071",NA
 "4072","Completed high school"
 "4073","Completed high school"
-"4074","Attended some college, certification program, or trade school"
+"4074","Attended some college"
 "4075",NA
 "4076","Did not complete high school"
 "4077",NA
@@ -4093,7 +4093,7 @@
 "4092",NA
 "4093","Completed high school"
 "4094",NA
-"4095","Attended some college, certification program, or trade school"
+"4095","Completed college"
 "4096","Completed high school"
 "4097",NA
 "4098","Completed high school"
@@ -4106,7 +4106,7 @@
 "4105",NA
 "4106","Completed high school"
 "4107","Completed high school"
-"4108","Attended some college, certification program, or trade school"
+"4108","Attended some college"
 "4109",NA
 "4110",NA
 "4111",NA
@@ -4115,7 +4115,7 @@
 "4114","Completed high school"
 "4115",NA
 "4116","Completed high school"
-"4117","Attended some college, certification program, or trade school"
+"4117","Completed college"
 "4118","Completed high school"
 "4119","Completed high school"
 "4120","Completed high school"
@@ -4123,7 +4123,7 @@
 "4122","Completed high school"
 "4123","Did not complete high school"
 "4124",NA
-"4125","Attended some college, certification program, or trade school"
+"4125","Completed college"
 "4126",NA
 "4127",NA
 "4128",NA
@@ -4143,8 +4143,8 @@
 "4142","Completed high school"
 "4143","Completed high school"
 "4144","Did not complete high school"
-"4145","Attended some college, certification program, or trade school"
-"4146","Attended some college, certification program, or trade school"
+"4145","Attended some college"
+"4146","Attended some college"
 "4147","Completed high school"
 "4148",NA
 "4149",NA
@@ -4161,11 +4161,11 @@
 "4160","Completed high school"
 "4161","Completed high school"
 "4162",NA
-"4163","Attended some college, certification program, or trade school"
+"4163","Attended some college"
 "4164","Completed high school"
 "4165","Completed high school"
 "4166","Did not complete high school"
-"4167","Attended some college, certification program, or trade school"
+"4167","Completed college"
 "4168","Did not complete high school"
 "4169","Completed high school"
 "4170","Did not complete high school"
@@ -4183,9 +4183,9 @@
 "4182","Completed high school"
 "4183","Completed high school"
 "4184",NA
-"4185","Attended some college, certification program, or trade school"
+"4185","Attended some college"
 "4186",NA
-"4187","Attended some college, certification program, or trade school"
+"4187","Completed college"
 "4188","Did not complete high school"
 "4189","Completed high school"
 "4190",NA
@@ -4197,7 +4197,7 @@
 "4196",NA
 "4197",NA
 "4198","Completed high school"
-"4199","Attended some college, certification program, or trade school"
+"4199","Completed college"
 "4200",NA
 "4201",NA
 "4202",NA
@@ -4214,7 +4214,7 @@
 "4213",NA
 "4214",NA
 "4215",NA
-"4216","Attended some college, certification program, or trade school"
+"4216","Attended some college"
 "4217",NA
 "4218",NA
 "4219",NA
@@ -4231,13 +4231,13 @@
 "4230","Completed high school"
 "4231","Completed high school"
 "4232","Did not complete high school"
-"4233","Attended some college, certification program, or trade school"
+"4233","Attended some college"
 "4234",NA
-"4235","Attended some college, certification program, or trade school"
+"4235","Completed college"
 "4236","Did not complete high school"
 "4237",NA
 "4238","Did not complete high school"
-"4239","Attended some college, certification program, or trade school"
+"4239","Completed college"
 "4240","Completed high school"
 "4241","Did not complete high school"
 "4242",NA
@@ -4247,7 +4247,7 @@
 "4246","Completed high school"
 "4247","Did not complete high school"
 "4248",NA
-"4249","Attended some college, certification program, or trade school"
+"4249","Attended some college"
 "4250",NA
 "4251",NA
 "4252","Completed high school"
@@ -4260,16 +4260,16 @@
 "4259","Did not complete high school"
 "4260","Completed high school"
 "4261","Completed high school"
-"4262","Attended some college, certification program, or trade school"
+"4262","Attended some college"
 "4263","Completed high school"
-"4264","Attended some college, certification program, or trade school"
-"4265","Attended some college, certification program, or trade school"
+"4264","Attended some college"
+"4265","Attended some college"
 "4266","Completed high school"
 "4267",NA
 "4268",NA
 "4269","Completed high school"
 "4270","Completed high school"
-"4271","Attended some college, certification program, or trade school"
+"4271","Attended some college"
 "4272",NA
 "4273",NA
 "4274",NA
@@ -4284,14 +4284,14 @@
 "4283",NA
 "4284","Completed high school"
 "4285",NA
-"4286","Attended some college, certification program, or trade school"
+"4286","Attended some college"
 "4287","Completed high school"
-"4288","Attended some college, certification program, or trade school"
+"4288","Attended some college"
 "4289",NA
-"4290","Attended some college, certification program, or trade school"
+"4290","Attended some college"
 "4291",NA
 "4292",NA
-"4293","Attended some college, certification program, or trade school"
+"4293","Attended some college"
 "4294","Did not complete high school"
 "4295","Completed high school"
 "4296","Completed high school"
@@ -4299,12 +4299,12 @@
 "4298","Completed high school"
 "4299","Completed high school"
 "4300","Completed high school"
-"4301","Attended some college, certification program, or trade school"
+"4301","Attended some college"
 "4302",NA
 "4303","Did not complete high school"
 "4304",NA
 "4305",NA
-"4306","Attended some college, certification program, or trade school"
+"4306","Completed college"
 "4307","Completed high school"
 "4308","Completed high school"
 "4309","Did not complete high school"
@@ -4320,19 +4320,19 @@
 "4319","Completed high school"
 "4320",NA
 "4321","Completed high school"
-"4322","Attended some college, certification program, or trade school"
+"4322","Attended some college"
 "4323","Completed high school"
-"4324","Attended some college, certification program, or trade school"
+"4324","Completed college"
 "4325",NA
-"4326","Attended some college, certification program, or trade school"
+"4326","Completed college"
 "4327","Completed high school"
 "4328","Completed high school"
-"4329","Attended some college, certification program, or trade school"
-"4330","Attended some college, certification program, or trade school"
+"4329","Completed college"
+"4330","Attended some college"
 "4331","Completed high school"
 "4332",NA
 "4333","Completed high school"
-"4334","Attended some college, certification program, or trade school"
+"4334","Attended some college"
 "4335","Did not complete high school"
 "4336","Completed high school"
 "4337",NA
@@ -4345,7 +4345,7 @@
 "4344","Completed high school"
 "4345",NA
 "4346","Completed high school"
-"4347","Attended some college, certification program, or trade school"
+"4347","Attended some college"
 "4348",NA
 "4349",NA
 "4350","Completed high school"
@@ -4369,12 +4369,12 @@
 "4368","Completed high school"
 "4369",NA
 "4370",NA
-"4371","Attended some college, certification program, or trade school"
+"4371","Attended some college"
 "4372",NA
 "4373",NA
 "4374",NA
-"4375","Attended some college, certification program, or trade school"
-"4376","Attended some college, certification program, or trade school"
+"4375","Completed college"
+"4376","Completed college"
 "4377",NA
 "4378","Completed high school"
 "4379","Completed high school"
@@ -4383,7 +4383,7 @@
 "4382",NA
 "4383","Completed high school"
 "4384","Completed high school"
-"4385","Attended some college, certification program, or trade school"
+"4385","Completed college"
 "4386","Completed high school"
 "4387",NA
 "4388","Completed high school"
@@ -4396,20 +4396,20 @@
 "4395","Completed high school"
 "4396","Completed high school"
 "4397","Did not complete high school"
-"4398","Attended some college, certification program, or trade school"
-"4399","Attended some college, certification program, or trade school"
+"4398","Completed college"
+"4399","Attended some college"
 "4400","Completed high school"
 "4401",NA
 "4402",NA
-"4403","Attended some college, certification program, or trade school"
+"4403","Attended some college"
 "4404","Completed high school"
-"4405","Attended some college, certification program, or trade school"
+"4405","Attended some college"
 "4406","Completed high school"
 "4407","Completed high school"
 "4408","Completed high school"
 "4409",NA
 "4410","Completed high school"
-"4411","Attended some college, certification program, or trade school"
+"4411","Completed college"
 "4412",NA
 "4413","Completed high school"
 "4414","Completed high school"
@@ -4418,12 +4418,12 @@
 "4417",NA
 "4418","Completed high school"
 "4419",NA
-"4420","Attended some college, certification program, or trade school"
+"4420","Completed college"
 "4421",NA
 "4422",NA
 "4423","Completed high school"
 "4424",NA
-"4425","Attended some college, certification program, or trade school"
+"4425","Attended some college"
 "4426","Completed high school"
 "4427",NA
 "4428","Completed high school"
@@ -4434,10 +4434,10 @@
 "4433","Did not complete high school"
 "4434",NA
 "4435","Completed high school"
-"4436","Attended some college, certification program, or trade school"
+"4436","Completed college"
 "4437","Completed high school"
 "4438","Completed high school"
-"4439","Attended some college, certification program, or trade school"
+"4439","Completed college"
 "4440",NA
 "4441","Completed high school"
 "4442",NA
@@ -4453,17 +4453,17 @@
 "4452",NA
 "4453",NA
 "4454","Completed high school"
-"4455","Attended some college, certification program, or trade school"
+"4455","Completed college"
 "4456","Completed high school"
 "4457","Did not complete high school"
 "4458",NA
-"4459","Attended some college, certification program, or trade school"
+"4459","Completed college"
 "4460","Completed high school"
 "4461","Completed high school"
 "4462","Completed high school"
-"4463","Attended some college, certification program, or trade school"
+"4463","Attended some college"
 "4464","Completed high school"
-"4465","Attended some college, certification program, or trade school"
+"4465","Attended some college"
 "4466","Completed high school"
 "4467","Completed high school"
 "4468","Completed high school"
@@ -4475,39 +4475,39 @@
 "4474","Completed high school"
 "4475","Completed high school"
 "4476",NA
-"4477","Attended some college, certification program, or trade school"
+"4477","Completed college"
 "4478","Completed high school"
 "4479","Completed high school"
 "4480",NA
 "4481","Completed high school"
 "4482","Completed high school"
 "4483",NA
-"4484","Attended some college, certification program, or trade school"
+"4484","Completed college"
 "4485","Completed high school"
-"4486","Attended some college, certification program, or trade school"
+"4486","Attended some college"
 "4487","Completed high school"
-"4488","Attended some college, certification program, or trade school"
+"4488","Completed college"
 "4489",NA
 "4490",NA
 "4491","Did not complete high school"
 "4492","Did not complete high school"
-"4493","Attended some college, certification program, or trade school"
+"4493","Completed college"
 "4494","Completed high school"
 "4495",NA
-"4496","Attended some college, certification program, or trade school"
-"4497","Attended some college, certification program, or trade school"
+"4496","Attended some college"
+"4497","Completed college"
 "4498","Completed high school"
 "4499",NA
 "4500","Completed high school"
 "4501","Completed high school"
 "4502",NA
-"4503","Attended some college, certification program, or trade school"
-"4504","Attended some college, certification program, or trade school"
+"4503","Completed college"
+"4504","Attended some college"
 "4505",NA
-"4506","Attended some college, certification program, or trade school"
+"4506","Attended some college"
 "4507","Completed high school"
-"4508","Attended some college, certification program, or trade school"
-"4509","Attended some college, certification program, or trade school"
+"4508","Completed college"
+"4509","Attended some college"
 "4510",NA
 "4511",NA
 "4512",NA
@@ -4523,11 +4523,11 @@
 "4522",NA
 "4523",NA
 "4524","Completed high school"
-"4525","Attended some college, certification program, or trade school"
+"4525","Attended some college"
 "4526",NA
 "4527","Did not complete high school"
 "4528","Completed high school"
-"4529","Attended some college, certification program, or trade school"
+"4529","Completed college"
 "4530",NA
 "4531",NA
 "4532","Completed high school"
@@ -4546,9 +4546,9 @@
 "4545","Completed high school"
 "4546","Completed high school"
 "4547",NA
-"4548","Attended some college, certification program, or trade school"
+"4548","Attended some college"
 "4549",NA
-"4550","Attended some college, certification program, or trade school"
+"4550","Attended some college"
 "4551","Completed high school"
 "4552","Completed high school"
 "4553","Completed high school"
@@ -4556,11 +4556,11 @@
 "4555","Completed high school"
 "4556","Did not complete high school"
 "4557",NA
-"4558","Attended some college, certification program, or trade school"
+"4558","Completed college"
 "4559","Did not complete high school"
 "4560","Completed high school"
 "4561","Completed high school"
-"4562","Attended some college, certification program, or trade school"
+"4562","Attended some college"
 "4563",NA
 "4564","Completed high school"
 "4565",NA
@@ -4583,10 +4583,10 @@
 "4582","Completed high school"
 "4583",NA
 "4584",NA
-"4585","Attended some college, certification program, or trade school"
-"4586","Attended some college, certification program, or trade school"
+"4585","Completed college"
+"4586","Attended some college"
 "4587","Completed high school"
-"4588","Attended some college, certification program, or trade school"
+"4588","Completed college"
 "4589","Completed high school"
 "4590",NA
 "4591","Completed high school"
@@ -4594,37 +4594,37 @@
 "4593","Completed high school"
 "4594","Completed high school"
 "4595",NA
-"4596","Attended some college, certification program, or trade school"
+"4596","Completed college"
 "4597","Completed high school"
-"4598","Attended some college, certification program, or trade school"
+"4598","Completed college"
 "4599","Completed high school"
 "4600","Completed high school"
 "4601","Completed high school"
 "4602","Completed high school"
-"4603","Attended some college, certification program, or trade school"
+"4603","Attended some college"
 "4604","Completed high school"
 "4605","Completed high school"
 "4606",NA
 "4607","Completed high school"
 "4608",NA
 "4609","Completed high school"
-"4610","Attended some college, certification program, or trade school"
+"4610","Completed college"
 "4611","Completed high school"
-"4612","Attended some college, certification program, or trade school"
+"4612","Attended some college"
 "4613","Completed high school"
-"4614","Attended some college, certification program, or trade school"
+"4614","Attended some college"
 "4615","Completed high school"
 "4616","Did not complete high school"
 "4617",NA
-"4618","Attended some college, certification program, or trade school"
+"4618","Completed college"
 "4619","Did not complete high school"
 "4620",NA
 "4621","Completed high school"
 "4622",NA
-"4623","Attended some college, certification program, or trade school"
+"4623","Attended some college"
 "4624","Completed high school"
 "4625","Completed high school"
-"4626","Attended some college, certification program, or trade school"
+"4626","Attended some college"
 "4627",NA
 "4628","Completed high school"
 "4629","Completed high school"
@@ -4632,7 +4632,7 @@
 "4631","Completed high school"
 "4632",NA
 "4633","Completed high school"
-"4634","Attended some college, certification program, or trade school"
+"4634","Attended some college"
 "4635",NA
 "4636","Completed high school"
 "4637","Completed high school"
@@ -4642,7 +4642,7 @@
 "4641","Completed high school"
 "4642","Completed high school"
 "4643","Completed high school"
-"4644","Attended some college, certification program, or trade school"
+"4644","Attended some college"
 "4645",NA
 "4646",NA
 "4647","Completed high school"
@@ -4659,7 +4659,7 @@
 "4658","Completed high school"
 "4659","Completed high school"
 "4660","Completed high school"
-"4661","Attended some college, certification program, or trade school"
+"4661","Attended some college"
 "4662",NA
 "4663","Completed high school"
 "4664","Did not complete high school"
@@ -4676,12 +4676,12 @@
 "4675","Completed high school"
 "4676",NA
 "4677",NA
-"4678","Attended some college, certification program, or trade school"
+"4678","Completed college"
 "4679",NA
 "4680","Completed high school"
-"4681","Attended some college, certification program, or trade school"
+"4681","Attended some college"
 "4682","Completed high school"
-"4683","Attended some college, certification program, or trade school"
+"4683","Completed college"
 "4684","Completed high school"
 "4685",NA
 "4686",NA
@@ -4691,8 +4691,8 @@
 "4690",NA
 "4691","Completed high school"
 "4692",NA
-"4693","Attended some college, certification program, or trade school"
-"4694","Attended some college, certification program, or trade school"
+"4693","Completed college"
+"4694","Completed college"
 "4695","Completed high school"
 "4696",NA
 "4697",NA
@@ -4705,7 +4705,7 @@
 "4704",NA
 "4705",NA
 "4706","Completed high school"
-"4707","Attended some college, certification program, or trade school"
+"4707","Completed college"
 "4708","Completed high school"
 "4709","Completed high school"
 "4710","Completed high school"
@@ -4714,8 +4714,8 @@
 "4713",NA
 "4714",NA
 "4715","Completed high school"
-"4716","Attended some college, certification program, or trade school"
-"4717","Attended some college, certification program, or trade school"
+"4716","Attended some college"
+"4717","Completed college"
 "4718",NA
 "4719","Did not complete high school"
 "4720","Completed high school"
@@ -4724,13 +4724,13 @@
 "4723",NA
 "4724","Did not complete high school"
 "4725","Completed high school"
-"4726","Attended some college, certification program, or trade school"
+"4726","Attended some college"
 "4727",NA
-"4728","Attended some college, certification program, or trade school"
+"4728","Completed college"
 "4729",NA
 "4730",NA
 "4731",NA
-"4732","Attended some college, certification program, or trade school"
+"4732","Completed college"
 "4733",NA
 "4734","Completed high school"
 "4735",NA
@@ -4742,23 +4742,23 @@
 "4741","Completed high school"
 "4742",NA
 "4743","Completed high school"
-"4744","Attended some college, certification program, or trade school"
+"4744","Completed college"
 "4745",NA
 "4746","Completed high school"
 "4747",NA
 "4748",NA
-"4749","Attended some college, certification program, or trade school"
+"4749","Completed college"
 "4750",NA
 "4751",NA
 "4752","Did not complete high school"
 "4753",NA
 "4754","Completed high school"
-"4755","Attended some college, certification program, or trade school"
+"4755","Completed college"
 "4756","Did not complete high school"
 "4757","Completed high school"
 "4758","Completed high school"
 "4759","Completed high school"
-"4760","Attended some college, certification program, or trade school"
+"4760","Attended some college"
 "4761",NA
 "4762","Did not complete high school"
 "4763","Completed high school"
@@ -4768,7 +4768,7 @@
 "4767",NA
 "4768","Completed high school"
 "4769","Completed high school"
-"4770","Attended some college, certification program, or trade school"
+"4770","Attended some college"
 "4771","Completed high school"
 "4772",NA
 "4773","Completed high school"
@@ -4781,7 +4781,7 @@
 "4780","Completed high school"
 "4781","Completed high school"
 "4782",NA
-"4783","Attended some college, certification program, or trade school"
+"4783","Completed college"
 "4784","Completed high school"
 "4785","Completed high school"
 "4786",NA
@@ -4795,33 +4795,33 @@
 "4794",NA
 "4795","Completed high school"
 "4796",NA
-"4797","Attended some college, certification program, or trade school"
+"4797","Attended some college"
 "4798","Completed high school"
 "4799","Completed high school"
 "4800",NA
-"4801","Attended some college, certification program, or trade school"
+"4801","Attended some college"
 "4802","Completed high school"
 "4803","Completed high school"
 "4804",NA
 "4805",NA
-"4806","Attended some college, certification program, or trade school"
+"4806","Completed college"
 "4807","Completed high school"
 "4808",NA
-"4809","Attended some college, certification program, or trade school"
+"4809","Completed college"
 "4810",NA
 "4811","Completed high school"
 "4812",NA
 "4813",NA
-"4814","Attended some college, certification program, or trade school"
+"4814","Attended some college"
 "4815",NA
 "4816",NA
 "4817",NA
 "4818","Completed high school"
 "4819","Completed high school"
-"4820","Attended some college, certification program, or trade school"
+"4820","Completed college"
 "4821","Completed high school"
 "4822",NA
-"4823","Attended some college, certification program, or trade school"
+"4823","Attended some college"
 "4824","Completed high school"
 "4825",NA
 "4826","Completed high school"
@@ -4834,7 +4834,7 @@
 "4833","Completed high school"
 "4834","Completed high school"
 "4835","Completed high school"
-"4836","Attended some college, certification program, or trade school"
+"4836","Attended some college"
 "4837","Completed high school"
 "4838","Completed high school"
 "4839",NA
@@ -4842,7 +4842,7 @@
 "4841","Completed high school"
 "4842",NA
 "4843",NA
-"4844","Attended some college, certification program, or trade school"
+"4844","Attended some college"
 "4845","Completed high school"
 "4846",NA
 "4847",NA
@@ -4854,23 +4854,23 @@
 "4853",NA
 "4854","Completed high school"
 "4855","Completed high school"
-"4856","Attended some college, certification program, or trade school"
+"4856","Completed college"
 "4857","Did not complete high school"
 "4858",NA
 "4859","Completed high school"
 "4860",NA
 "4861","Did not complete high school"
 "4862",NA
-"4863","Attended some college, certification program, or trade school"
+"4863","Completed college"
 "4864",NA
-"4865","Attended some college, certification program, or trade school"
+"4865","Completed college"
 "4866","Completed high school"
-"4867","Attended some college, certification program, or trade school"
+"4867","Completed college"
 "4868","Completed high school"
 "4869",NA
 "4870",NA
 "4871",NA
-"4872","Attended some college, certification program, or trade school"
+"4872","Completed college"
 "4873","Completed high school"
 "4874","Completed high school"
 "4875",NA
@@ -4881,18 +4881,18 @@
 "4880","Completed high school"
 "4881",NA
 "4882","Completed high school"
-"4883","Attended some college, certification program, or trade school"
+"4883","Attended some college"
 "4884",NA
 "4885","Completed high school"
 "4886","Completed high school"
 "4887","Completed high school"
-"4888","Attended some college, certification program, or trade school"
+"4888","Completed college"
 "4889",NA
 "4890",NA
 "4891","Completed high school"
-"4892","Attended some college, certification program, or trade school"
-"4893","Attended some college, certification program, or trade school"
-"4894","Attended some college, certification program, or trade school"
+"4892","Completed college"
+"4893","Attended some college"
+"4894","Attended some college"
 "4895",NA
 "4896","Completed high school"
 "4897","Completed high school"

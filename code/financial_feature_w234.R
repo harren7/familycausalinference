@@ -35,7 +35,7 @@ fin_ftrs_w5 <- c("idnum",father_fin_ftrs_w5,mother_fin_ftrs_w5)
 w2_df <- w2_df[,fin_ftrs_w2]
 w3_df <- w3_df[,fin_ftrs_w3]
 w4_df <- w4_df[,fin_ftrs_w4]
-w5_df <- w5_df[, fin_ftrs_w5]
+w5_df <- w5_df[,fin_ftrs_w5]
 
 # Check 1 - are all these features of the same datatype?
 print("Datatypes in wave 2")
