@@ -30,8 +30,26 @@ base_df["povstatus"] <- build_poverty_col(base_df, "cm1povca", "cf1povca")
 
 ################################### SETUP OF TREATMENT FEATURES ###################################
 
+def_child_edu_compare <- function(vec){
+  mcedu <- vec[1]
+  fcedu <- vec[2]
+  
+  if(mcedu<0 & fcedu<0){
+    return(NA)
+  }
+  else if(mcedu<0 & fcedu>0){
+    return(fcedu)
+  }
+  else if(mcedu>0 & fcedu<0){
+    return(mcedu)
+  }
+  else{
+    return(min(c(mcedu,fcedu)))
+  }
+}
+
 def_child_edu <- function(cedu){
-  if (is.na(cedu) || cedu<0){
+  if (is.na(cedu) | cedu<0){
     return(NA)
   }
   else if (cedu==1){
@@ -43,15 +61,15 @@ def_child_edu <- function(cedu){
 }
 
 build_child_edu_col <- function(df, mcedu, fcedu){
-  parent_max <- apply(df[, c(mcedu, fcedu)], 1, max)
+  parent_max <- apply(df[, c(mcedu, fcedu)], 1, def_child_edu_compare)
   status <- sapply(parent_max, def_child_edu)
   return(status)
 }
 
 treatment_df <- read_dta("data/raw/wave4/FF_wave4_2020v2.dta")
-treatment_ftrs <- c("idnum","f4b7a","m4b7a")
+treatment_ftrs <- c("idnum","f4b7a","m4b7a","f4b8","m4b8")
 treatment_df <- treatment_df[,treatment_ftrs]
-treatment_df["child_attend_kindergarten"] <- build_child_edu_col(treatment_df, "m4b7a", "f4b7a")
+treatment_df["child_attend_kindergarten"] <- build_child_edu_col(treatment_df, "m4b8", "f4b8")
 
 
 
