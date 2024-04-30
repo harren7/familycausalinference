@@ -5,10 +5,10 @@ library(dplyr)
 ### MOTHER'S FINANCIAL SECURITY 
 
 # Data from Wave 2,3,4,5
-w2_df <- read_dta("../data/raw/wave2/FF_wave2_2020v2.dta")
-w3_df <- read_dta("../data/raw/wave3/FF_wave3_2020v2.dta")
-w4_df <- read_dta("../data/raw/wave4/FF_wave4_2020v2.dta")
-w5_df <- read_dta("../data/raw/wave5/FF_wave5_2020v2.dta")
+w2_df <- read_dta("data/raw/wave2/FF_wave2_2020v2.dta")
+w3_df <- read_dta("data/raw/wave3/FF_wave3_2020v2.dta")
+w4_df <- read_dta("data/raw/wave4/FF_wave4_2020v2.dta")
+w5_df <- read_dta("data/raw/wave5/FF_wave5_2020v2.dta")
 
 # Financial features from wave 2,3,4,5
 fin_ftrs_w2 <- c("idnum","m2b34","m2b34a","m2g5","m2g5a1","m2g5a2",
@@ -96,5 +96,5 @@ final_fin_df <- fin_df[, c("idnum", "mother_fin_security_w2345")]
 print(dim(final_fin_df))
 
 # save to csv 
-write.csv(final_fin_df, "../data/preprocessed/finhelp_ftrs_mother.csv", row.names=FALSE)
+write.csv(final_fin_df, "data/preprocessed/finhelp_ftrs_mother.csv", row.names=FALSE)
 
