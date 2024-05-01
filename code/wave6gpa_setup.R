@@ -36,5 +36,7 @@ average_gpa[paste0(grade_cols, "_num")] <- lapply(average_gpa[grade_cols], conve
 
 # Calculate the average of the numeric columns
 average_gpa$hs_avg_score <- rowMeans(average_gpa[paste0(grade_cols, "_num")], na.rm = TRUE)
+average_gpa <- average_gpa[,c("idnum","hs_avg_score")]
+
 write.csv(average_gpa, "data/preprocessed/gpa_averaged.csv", row.names = FALSE)
 

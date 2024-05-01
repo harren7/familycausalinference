@@ -89,7 +89,7 @@ fin_df <- read.csv("data/preprocessed/finhelp_ftrs.csv")
 
 edustate_df <- read.csv("data/preprocessed/childedu_target.csv")
 gpa_df <- read.csv("data/preprocessed/gpa_averaged.csv")
-gpa_df <- gpa_df[,c("idnum","hs_avg_score")]
+edu0_df <- read.csv("data/preprocessed/gen0edu_ftrs.csv")
 
 
 btt_ftrs_df <- merge(btt_df, w1_df, by.x = "idnum", by.y = "idnum")
@@ -98,6 +98,7 @@ btt_ftrs_df <- merge(btt_ftrs_df, w4_df, by.x = "idnum", by.y = "idnum")
 btt_ftrs_df <- merge(btt_ftrs_df, fin_df, by.x = "idnum", by.y = "idnum")
 btt_ftrs_df <- merge(btt_ftrs_df, gpa_df, by.x = "idnum", by.y = "idnum")
 btt_ftrs_df <- merge(btt_ftrs_df, edustate_df, by.x = "idnum", by.y = "idnum")
+btt_ftrs_df <- merge(btt_ftrs_df, edu0_df, by.x = "idnum", by.y = "idnum")
 
 write.csv(btt_ftrs_df, "data/preprocessed/inference_base.csv", row.names=FALSE)
 

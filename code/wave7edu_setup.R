@@ -3,24 +3,24 @@ library(tidyr)
 library(dplyr)
 
 df <- read_dta("data/raw/wave7/FF_wave7_2024v1.dta")
-df <- df[,c("idnum","k7b1")]
+df <- df[,c("idnum","ck7edu")]
 df <- df[order(df$idnum),]
 
 def_edu_level <- function(edustate){
-  if (is.na(edustate) || edustate<0 || edustate==103){
+  if (is.na(edustate) | edustate<0){
     return (NA)
   }
-  else if (edustate <= 12){
-    return ("Did not complete high school")
+  else if (edustate == 1){
+    return ("Less than high school")
   }
-  else if (edustate == 13){
+  else if (edustate == 2){
     return ("Completed high school")
   }
-  else if (edustate <= 15 || (edustate <= 102) && (edustate >= 101)){
-    return ("Attended some college")
+  else if (edustate == 3){
+    return ("Some college, tech")
   }
   else {
-    return ("Completed college")
+    return ("Completed college/grad")
   }
 }
 
@@ -29,6 +29,6 @@ build_edu_col <- function(df, edustate){
   return(status)
 }
 
-df["child_edu_level"] <- build_edu_col(df, "k7b1")
+df["child_edu_level"] <- build_edu_col(df, "ck7edu")
 df <- df[,c("idnum","child_edu_level")]
 write.csv(df, "data/preprocessed/childedu_target.csv", row.names=FALSE)
