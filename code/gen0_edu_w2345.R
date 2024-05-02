@@ -36,7 +36,7 @@ def_edu_status <- function(edu){
   }
 }
 
-build_edu_col <- function(df,vec){
+build_edu_col <- function(df, vec){
   max_resp <- apply(df[, vec], 1, max)
   status <- sapply(max_resp, def_edu_status)
   return(status)
