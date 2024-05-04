@@ -10,7 +10,7 @@ library(broom)
 set.seed(1)
 
 ## Read the dataset
-df <- read.csv("/Users/sarah_prakriti_peters/Documents/DATA2020/FFdata/familycausalinference/data/preprocessed/inference_base.csv")
+df <- read.csv("data/preprocessed/inference_base.csv")
 custom_format <- function(x) {
   ifelse(x == floor(x), as.integer(x), format(x, nsmall = 1))
 }
