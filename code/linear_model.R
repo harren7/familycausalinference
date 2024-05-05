@@ -28,13 +28,22 @@ preprocess <- function(df, cat_ftrs, num_ftrs){
 model_df <- df[,c(target, ftrs)]
 model_df <- model_df[complete.cases(model_df),]
 
+
+base_model <- glm(college_grad_flag ~. + povstatus:parents_edustatus_w1 + 
+                    mother_fin_security_w2345:father_in_jail_w1 + child_attend_kindergarten:hs_avg_score,
+                  family = "binomial", data = preprocess(model_df, cat_ftrs, num_ftrs))
+gof_measures <- pR2(base_model)
+print(summary(base_model))
+print(gof_measures)
+
+
 data_index <- 1:nrow(model_df)
 train_index <- sample(data_index, size = floor(0.8 * length(data_index)))
 train_df <- preprocess(model_df[train_index,], cat_ftrs, num_ftrs)
 test_df <- preprocess(model_df[-train_index,], cat_ftrs, num_ftrs)
 
-X_train <- model.matrix(college_grad_flag ~. + povstatus:parents_edustatus_w1 +
-                          mother_fin_security_w2345:father_in_jail_w1 + child_attend_kindergarten:hs_avg_score,
+X_train <- model.matrix(college_grad_flag ~povstatus:parents_edustatus_w1 +
+                          mother_fin_security_w2345:father_in_jail_w1 + child_attend_kindergarten:hs_avg_score + .,
                         data = train_df)
 y_train <- train_df[,target]
 X_test <- model.matrix(college_grad_flag ~. + povstatus:parents_edustatus_w1 +
@@ -61,6 +70,7 @@ calculate_f1 <- function(threshold, probs, actual) {
 
 probabilities <- predict(cvfit, newx = X_test, s = "lambda.min", type = "response")
 roc_curve <- roc(y_test, probabilities[,1])
+plot(roc_curve)
 
 optimal_threshold <- coords(roc_curve, x = "best",  best.weights = c(1,0.25),
                             ret = c("threshold", "precision", "recall"))
@@ -76,15 +86,6 @@ thresholds = c(optimal_threshold[1,1])
 f1_score <- sapply(thresholds, function(t) calculate_f1(t, probabilities[,1], y_test))
 print(f1_score)
 
-
-refit_df <- preprocess(model_df, cat_ftrs, num_ftrs)
-X <- model.matrix(college_grad_flag ~. + povstatus:parents_edustatus_w1 +
-                    mother_fin_security_w2345:father_in_jail_w1 + child_attend_kindergarten:hs_avg_score, 
-                  data = refit_df)
-y <- model_df[,target]
-
-final_model <- glmnet(X, y, family="binomial", lambda = cvfit$lambda.min, alpha=1, intercept = TRUE)
-print(coef(final_model))
 
 
 
