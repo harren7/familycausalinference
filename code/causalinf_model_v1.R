@@ -117,16 +117,19 @@ low_inc_output$group <- "Low Income"
 # Merge high income and low income output in a dataframe with group variable
 hl_inc_output <- rbind(high_inc_output, low_inc_output)
 
-# Plot the probability of college graduation in group bar plot for high income and low income
+# create a column of maximum values of each group
+hl_inc_output$max_per_group <- ave(hl_inc_output$fit, hl_inc_output$group, FUN = function(x) max(as.numeric(x)))
+
+# Plot the probability of college completion in group bar plot for high income and low income
 ggplot(hl_inc_output, aes(x = group, y = fit, fill = treatment)) +
   geom_bar(stat = "identity", position = "dodge", width = 0.6) +
-  # geom_errorbar(aes(ymin = fit - 1.96 * se.fit, ymax = fit + 1.96 * se.fit), position = position_dodge(0.6), width = 0.25) +
-  labs(title = "Probability of College Graduation by Kindergarten Attendance",
+  geom_errorbar(aes(ymin = ifelse(fit == max_per_group, NA, fit), ymax = ifelse(fit == max_per_group, NA, max_per_group)),
+                position = position_dodge(width = 0.6), width = 0.2) +
+  labs(title = "Probability of College Completion by Kindergarten Attendance",
        x = "Income Group",
        y = "Probability of College Completion") +
   scale_fill_discrete(name = "", labels = c("Control", "Treatment")) +
   scale_x_discrete(limits = rev) +
   scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  geom_text(aes(label = ifelse(max_per_group == fit, NA, scales::percent(max_per_group - fit, accuracy = 0.1))), hjust = 1.2, vjust = ifelse(hl_inc_output$group == "Low Income", -4.7, -6.5), position = position_dodge(width = 0.6)) +
   theme_minimal()
-
-
