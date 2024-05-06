@@ -39,14 +39,18 @@ ggplot(subset(df, complete.cases(child_edu_level, child_attend_kindergarten)),
   labs(title = "Kindergarten Attendance Impact on High School GPA", y = "GPA Score",
        fill="Kindergarten Attended", x='Child Educational Attainment')+
   scale_fill_manual(values = c("yes" = "skyblue", "no" = "salmon"))+
-  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8), 
-        axis.text.x = element_text(size=8),
-        plot.title = element_text(hjust = 0.5),
-        legend.position = c(0.92, 0.12), legend.text = element_text(size=9, hjust=0.5), 
+  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust = 0.5, size = 8, face = "bold"), 
+        axis.text.x = element_text(size = 8, face = "bold"),
+        axis.title.y = element_text(size = 10, face = "bold"),
+        axis.title.x = element_text(size = 10, face = "bold"),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        legend.position = c(0.92, 0.12), 
+        legend.text = element_text(size = 9, hjust = 0.5, face = "bold"), 
+        legend.title = element_text(size = 10,face = "bold"),
         legend.background = element_rect(fill = "transparent", colour = NA),
         legend.box.just = "right",
-        strip.text.x = element_text(size = 9),
-        title = element_text(size=11)) + 
+        strip.text.x = element_text(size = 9, face = "bold"),
+        title = element_text(size = 11)) + 
   labs(fill = "Kindergarten") + 
   scale_x_discrete(labels = wrap_format(20), limits=rev)
 ggsave("data/plots/ka-hsgpa.png", 
@@ -75,11 +79,13 @@ ggplot(data = summary[!is.na(summary$child_edu_num),],
   geom_bar(position = "dodge", stat = "identity",  colour = "black") + facet_wrap(~povstatus) +
   scale_fill_manual(values = c("lightblue","darkorange")) + 
   scale_color_manual(values = c('steelblue4','sienna4')) + coord_flip() +
-  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8), 
-        axis.text.x = element_text(size=8),
-        plot.title = element_text(hjust = 0.5),
-        legend.position = "bottom", legend.text = element_text(size=9), 
-        strip.text.x = element_text(size = 9),
+  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8, face="bold"), 
+        axis.text.x = element_text(size = 8, face = "bold"),
+        axis.title.y = element_text(size = 10, face = "bold"),
+        axis.title.x = element_text(size = 10, face = "bold"),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        legend.position = "bottom", legend.text = element_text(size = 9, face="bold"),
+        strip.text.x = element_text(size = 9, face = "bold"),
         title = element_text(size=11)) + 
   scale_x_discrete(labels = wrap_format(15)) +
   xlab('') + ylab('Percentage') +
@@ -121,12 +127,15 @@ ggplot(data = summary[(!is.na(summary$child_edu_num) & !is.na(summary$Race)),],
   geom_bar(position = "dodge", stat = "identity", width=0.66) +
   scale_fill_manual(values = c('steelblue','sienna2', 'seagreen3')) +
   scale_color_manual(values = c('steelblue4','sienna4', 'seagreen4')) +
-  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8), 
-        axis.text.x = element_text(size=8),
-        plot.title = element_text(hjust = 0.5),
-        legend.text = element_text(size=9), 
+  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust = 0.5, size = 8, face = "bold"), 
+        axis.text.x = element_text(size = 8, face = "bold"),
+        axis.title.y = element_text(size = 10, face = "bold"),
+        axis.title.x = element_text(size = 10, face = "bold"),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        legend.text = element_text(size = 9, face = "bold"), 
+        legend.title = element_text(size = 10,face = "bold"),
         strip.text.x = element_text(size = 9),
-        title = element_text(size=11)) +
+        title = element_text(size = 11)) +
   scale_x_discrete(labels = wrap_format(15), limits=rev) +
   xlab('Education outcome') + ylab('Percentage') +
   ggtitle("Educational outcomes by race")
