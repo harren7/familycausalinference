@@ -36,8 +36,8 @@ df$child_edu_level <- factor(df$child_edu_level, levels = desired_order)
 ggplot(subset(df, complete.cases(child_edu_level, child_attend_kindergarten)), 
        aes(x=child_edu_level, y = hs_avg_score, fill=child_attend_kindergarten)) +
   geom_boxplot(position = position_dodge()) +
-  labs(title = "Kindergarten Attendance Impact on High School GPA", y = "GPA Score",
-       fill="Kindergarten Attended", x='Child Educational Attainment')+
+  labs(title = "Kindergarten attendance impact on high school GPA", y = "GPA Score",
+       fill="Kindergarten attended", x='Child educational attainment')+
   scale_fill_manual(values = c("yes" = "skyblue", "no" = "salmon"))+
   theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust = 0.5, size = 8, face = "bold"), 
         axis.text.x = element_text(size = 8, face = "bold"),
@@ -89,7 +89,7 @@ ggplot(data = summary[!is.na(summary$child_edu_num),],
         title = element_text(size=11)) + 
   scale_x_discrete(labels = wrap_format(15)) +
   xlab('') + ylab('Percentage') +
-  ggtitle('Variation in Education Outcomes by Parents\' Education')+
+  ggtitle('Variation in education outcomes by parents\' education')+
   labs(fill='') +
   scale_y_continuous(labels = custom_format)
 
