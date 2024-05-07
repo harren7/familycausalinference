@@ -118,10 +118,21 @@ calib_plot = ggplot(calib_grouped_data, aes(expected, observed)) +
   geom_point() +
   geom_errorbar(aes(ymax = observed+1.96*se, ymin = observed-1.96*se)) +
   geom_abline(intercept = 0, slope = 1, linetype = "solid", color = "red") +
-  xlab("Observed proportion") + ylab("Expected proportion") +
+  xlab("Expected proportion") + ylab("Observed proportion") +
   scale_x_continuous(minor_breaks = seq(0, 0.8, 0.025), breaks = seq(0, 0.8, 0.1)) + 
   ggtitle("Calibration plot") + 
-  theme(plot.title = element_text(hjust=0.5))
+  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8, face = "bold"), 
+        axis.text.x = element_text(size=8, face = "bold"),
+        axis.title.y = element_text(size=10, face="bold"),
+        axis.title.x = element_text(size=10, face="bold"),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        legend.position = c(0.92, 0.12), 
+        legend.text = element_text(size=9, hjust=0.5, face = "bold"), 
+        legend.title = element_text(size=10,face = "bold"),
+        legend.background = element_rect(fill = "transparent", colour = NA),
+        legend.box.just = "right",
+        strip.text.x = element_text(size = 9, face = "bold"),
+        title = element_text(size=11))
 
 ggsave("data/plots/llr-calib-plot.png", 
        dpi=300, width=2000, height=1200, units="px", bg="transparent")
@@ -152,9 +163,17 @@ coeff_plot = ggplot() +
   geom_errorbar(aes(x = sig_ftrs, ymin = ci_lower, ymax = ci_upper), width = 0.2) +
   xlab("Variables") + ylab("Estimate") + 
   labs(title = "Feature coefficients of logistic regression model")+
-  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8), 
-        axis.text.x = element_text(angle = 30, size=8, vjust = 0.5),
-        plot.title = element_text(hjust = 0.5),
+  theme(axis.text.y = element_text(angle = 0, vjust = 0.5, hjust=0.5, size=8, face = "bold"), 
+        axis.text.x = element_text(angle = 30, vjust = 0.5, size=8, face = "bold"),
+        axis.title.y = element_text(size=10, face="bold"),
+        axis.title.x = element_text(size=10, face="bold"),
+        plot.title = element_text(hjust = 0.5, face = "bold"),
+        legend.position = c(0.92, 0.12), 
+        legend.text = element_text(size=9, hjust=0.5, face = "bold"), 
+        legend.title = element_text(size=10,face = "bold"),
+        legend.background = element_rect(fill = "transparent", colour = NA),
+        legend.box.just = "right",
+        strip.text.x = element_text(size = 9, face = "bold"),
         title = element_text(size=11))
 ggsave("data/plots/basemodel-coeff-plot.png", 
        dpi=300, width=2000, height=1200, units="px", bg="transparent")
